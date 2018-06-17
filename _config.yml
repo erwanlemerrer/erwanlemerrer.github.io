@@ -44,8 +44,6 @@ staticman:
       type               : "date"
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
-#atom_feed:
-#  path                   : # blank (default) uses feed.xml
 
 # SEO Related
 google_site_verification :
@@ -74,7 +72,7 @@ analytics:
 author:
   name             : "Erwan Le Merrer"
   avatar           : "profile.png"
-  bio              : "HDR - Senior Researcher"
+  bio              : "Senior Researcher"
   location         : "Rennes / Brittany"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=2jLhHigAAAAJ&hl=fr"
