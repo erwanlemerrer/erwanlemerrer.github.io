@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Erwan Le Merrer"
+#title: "Erwan Le Merrer"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,3 @@ redirect_from:
   - /about.html
 ---
 
-lorem ipsum
