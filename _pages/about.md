@@ -7,7 +7,48 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Hello,
+I joined Technicolor in 2009, with a PhD on distributed systems (from University of Rennes 1), and a background on peer-to-peer systems, and graph mining/algorithms. I am currently working on machine learning in distributed/cloud environments. I obtained my habilitation (HDR) on November 2016 from University of Rennes 1.
 
-I joined Technicolor in 2009, with a PhD on distributed systems (from University of Rennes 1), and a background on peer-to-peer systems, and graph mining/algorithms.
+### News
+* Co-chair of [Eurosys 2018](http://2018.middleware-conference.org/) industry track, in Rennes
+* Prends part à ALGOTEL 2019 à Toulouse, en tant que co-program chair
+* WOS8 will be co-located with Eurosys 2018, on December Tue 11th !
 
-I am currently working on data-mining and big-data processing in distributed/cloud environments. I obtained my habilitation (HDR) on November 2016 from University of Rennes 1.
+### Recent publications
+* Adversarial Frontier Stitching for Remote Neural Network Watermarking
+Erwan Le Merrer, Patrick Perez, Gilles Trédan.
+ArXiv 2017.
+
+* Distributed deep learning on edge-devices: feasibility via adaptive compression
+Corentin Hardy, Erwan Le Merrer, Bruno Sericola.
+In IEEE NCA, 2017. _Best paper award_
+
+* Sequences, Items And Latent Links: Recommendation With Consumed Item Packs
+Rachid Guerraoui, Erwan Le Merrer, Rhicheek Patra, Jean-Ronan Vigouroux.
+ArXiv 2017.
+
+* The topological face of recommendation
+Erwan Le Merrer, Gilles Trédan.
+In Compex Networks 2017.
+
+* Uncovering Influence Cookbooks : Reverse Engineering the Topological Impact in Peer Ranking Services
+Erwan Le Merrer, Gilles Trédan.
+In ACM CSCW, 2017.
+
+### Awards
+
+* IEEE NCA 2017 best paper award, for paper "Distributed deep learning on edge-devices: feasibility via adaptive compression", with Corentin Hardy and Bruno Sericola.
+* Paper co-authors are awarded prize "La recherche 2015", for work on cold storage, from Eurosys 2014.
+* Prix “Bretagne jeune chercheur” 2011, mention spéciale.
+
+### Service
+
+I was in the program committee of the following conferences: MMSYS 2017, HiPC 2016, SSS 2010,2016, PODC's DCC 2016, INFOCOM's DCC 2017, Middleware 2011, ICDCN 2012, INFOCOM's NOM 2014, 2016, 2017, ALGOTEL 2013,2014,2015.
+
+Co-organizing WOS with INRIA, a workshop on storage, cloud processing and data analytics, in every year Rennes.
+
+I teach big-data storage and processing as a consultant in INSA (Rennes) and Telecom Bretagne (Brest).
+
+I have co-authored 5 patents (granted), and 30 pending.
+
