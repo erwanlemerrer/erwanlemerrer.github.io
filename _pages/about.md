@@ -36,6 +36,11 @@ In Compex Networks 2017.
 Erwan Le Merrer, Gilles Trédan.
 In ACM CSCW, 2017.
 
+### Code
+
+* Second order centrality code, [available here](https://github.com/erwanlemerrer/second-order-centrality) for [comcom paper](http://homepages.laas.fr/gtredan/pdf/SOC_COMCOM2010.pdf)
+* Corentin's code for distributed deep learning (NCA best paper) [here](https://github.com/Hardy-c/AdaComp) and for random neural layers [here](https://github.com/Hardy-c/DNN-with-RNL)
+
 ### Awards
 
 * IEEE NCA 2017 best paper award, for paper "Distributed deep learning on edge-devices: feasibility via adaptive compression", with Corentin Hardy and Bruno Sericola.
