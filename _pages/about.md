@@ -16,23 +16,23 @@ I joined Technicolor in 2009, with a PhD on distributed systems (from University
 * WOS8 will be co-located with Eurosys 2018, on December Tue 11th !
 
 ### Recent publications
-* Adversarial Frontier Stitching for Remote Neural Network Watermarking
+* _Adversarial Frontier Stitching for Remote Neural Network Watermarking_,
 Erwan Le Merrer, Patrick Perez, Gilles Trédan.
 ArXiv 2017.
 
-* Distributed deep learning on edge-devices: feasibility via adaptive compression
+* _Distributed deep learning on edge-devices: feasibility via adaptive compression_,
 Corentin Hardy, Erwan Le Merrer, Bruno Sericola.
 In IEEE NCA, 2017. _Best paper award_
 
-* Sequences, Items And Latent Links: Recommendation With Consumed Item Packs
+* _Sequences, Items And Latent Links: Recommendation With Consumed Item Packs_,
 Rachid Guerraoui, Erwan Le Merrer, Rhicheek Patra, Jean-Ronan Vigouroux.
 ArXiv 2017.
 
-* The topological face of recommendation
+* _The topological face of recommendation_,
 Erwan Le Merrer, Gilles Trédan.
-In Compex Networks 2017.
+In Complex Networks 2017.
 
-* Uncovering Influence Cookbooks : Reverse Engineering the Topological Impact in Peer Ranking Services
+* _Uncovering Influence Cookbooks : Reverse Engineering the Topological Impact in Peer Ranking Services_,
 Erwan Le Merrer, Gilles Trédan.
 In ACM CSCW, 2017.
 
@@ -55,5 +55,5 @@ Co-organizing WOS with INRIA, a workshop on storage, cloud processing and data a
 
 I teach big-data storage and processing as a consultant in INSA (Rennes) and Telecom Bretagne (Brest).
 
-I have co-authored 5 patents (granted), and 30 pending.
+I have co-authored 6 patents (granted), and 30 pending.
 
