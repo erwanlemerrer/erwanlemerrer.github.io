@@ -11,9 +11,9 @@ Hello,
 I joined Technicolor in 2009, with a PhD on distributed systems (from University of Rennes 1), and a background on peer-to-peer systems, and graph mining/algorithms. I am currently working on machine learning in distributed/cloud environments. I obtained my habilitation (HDR) on November 2016 from University of Rennes 1.
 
 ### News
+* WOS8 will be co-located with Middleware 2018, on December Tue 11th
 * Co-chair of [Middleware 2018](http://2018.middleware-conference.org/) industry track, in Rennes
 * Prends part à ALGOTEL 2019 à Toulouse, en tant que co-program chair
-* WOS8 will be co-located with Eurosys 2018, on December Tue 11th !
 
 ### Recent publications
 * _Adversarial Frontier Stitching for Remote Neural Network Watermarking_,
