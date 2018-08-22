@@ -17,9 +17,13 @@ I joined Technicolor in 2009, with a PhD on distributed systems (from University
 * Prends part à ALGOTEL 2019 à Toulouse, en tant que co-program chair
 
 ### Recent publications
+* _zoNNscan : a boundary-entropy index for zone inspection of neural models_,
+Adel Jaouen, Erwan Le Merrer.
+[ArXiv 2018](https://arxiv.org/abs/1808.06797).
+
 * _Adversarial Frontier Stitching for Remote Neural Network Watermarking_,
 Erwan Le Merrer, Patrick Perez, Gilles Trédan.
-ArXiv 2017.
+[ArXiv 2017](https://arxiv.org/abs/1711.01894).
 
 * _Distributed deep learning on edge-devices: feasibility via adaptive compression_,
 Corentin Hardy, Erwan Le Merrer, Bruno Sericola.
@@ -39,8 +43,9 @@ In ACM CSCW, 2017.
 
 ### Code
 
-* Second order centrality code, [available here](https://github.com/erwanlemerrer/second-order-centrality) for [comcom paper](http://homepages.laas.fr/gtredan/pdf/SOC_COMCOM2010.pdf)
-* Corentin's code for distributed deep learning (NCA best paper) [here](https://github.com/Hardy-c/AdaComp) and for random neural layers [here](https://github.com/Hardy-c/DNN-with-RNL)
+* zoNNscan code, for analysis of decision boundaries, [available here](https://github.com/technicolor-research/zoNNscan).
+* Second order centrality code, [available here](https://github.com/erwanlemerrer/second-order-centrality) for [comcom paper](http://homepages.laas.fr/gtredan/pdf/SOC_COMCOM2010.pdf).
+* Corentin's code for distributed deep learning (NCA best paper) [here](https://github.com/Hardy-c/AdaComp) and for random neural layers [here](https://github.com/Hardy-c/DNN-with-RNL).
 
 ### Awards
 
