@@ -44,7 +44,7 @@ In ACM CSCW, 2017.
 ### Code
 
 * zoNNscan code, for analysis of decision boundaries, [available here](https://github.com/technicolor-research/zoNNscan).
-* Second order centrality code, [available here](https://github.com/erwanlemerrer/second-order-centrality) for [comcom paper](http://homepages.laas.fr/gtredan/pdf/SOC_COMCOM2010.pdf).
+* Second order centrality code now part of the [Networkx library](https://github.com/networkx/networkx/blob/master/networkx/algorithms/centrality/second_order.py), from [ComCom paper](http://homepages.laas.fr/gtredan/pdf/SOC_COMCOM2010.pdf).
 * Corentin's code for distributed deep learning (NCA best paper) [here](https://github.com/Hardy-c/AdaComp) and for random neural layers [here](https://github.com/Hardy-c/DNN-with-RNL).
 
 ### Awards
