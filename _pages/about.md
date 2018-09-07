@@ -11,6 +11,7 @@ Hello,
 I joined Technicolor in 2009, with a PhD on distributed systems (from University of Rennes 1), and a background on peer-to-peer systems, and graph mining/algorithms. I am currently working on machine learning in distributed/cloud environments. I obtained my habilitation (HDR) on November 2016 from University of Rennes 1.
 
 ### News
+* Second order centrality code now part of the [Networkx library](https://github.com/networkx/networkx/blob/master/networkx/algorithms/centrality/second_order.py) v2.2
 * WOS8 will be co-located with Middleware 2018, on December Tue 11th
 * Co-chair of [Middleware 2018](http://2018.middleware-conference.org/) industry track, in Rennes
 * Will talk about "Decision boundaries & security related questions" @ the [Deep Learning : from theory to applications workshop](https://www.lebesgue.fr/content/sem2018-deeplearning-program) in Sept. 2018 in Rennes
