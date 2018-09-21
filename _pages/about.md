@@ -14,7 +14,7 @@ I joined Technicolor in 2009, with a PhD on distributed systems (from University
 * Second order centrality code now part of the [Networkx library](https://github.com/networkx/networkx/blob/master/networkx/algorithms/centrality/second_order.py) v2.2
 * WOS8 will be co-located with Middleware 2018, on December Tue 11th
 * Co-chair of [Middleware 2018](http://2018.middleware-conference.org/) industry track, in Rennes
-* Will talk about "Decision boundaries & security related questions" @ the [Deep Learning : from theory to applications workshop](https://www.lebesgue.fr/content/sem2018-deeplearning-program) in Sept. 2018 in Rennes
+* Will talk about ["Decision boundaries & security related questions"](https://github.com/erwanlemerrer/erwanlemerrer.github.io/blob/master/files/presWSDL-LeMerrer.pdf) @ the [Deep Learning : from theory to applications workshop](https://www.lebesgue.fr/content/sem2018-deeplearning-program) in Sept. 2018 in Rennes
 * Prends part à ALGOTEL 2019 à Toulouse, en tant que co-program chair
 
 ### Thoughts (free format)
