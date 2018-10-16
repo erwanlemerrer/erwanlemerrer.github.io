@@ -17,11 +17,12 @@ I joined Technicolor in 2009, with a PhD on distributed systems (from University
 * Will talk about ["Decision boundaries & security related questions"](https://github.com/erwanlemerrer/erwanlemerrer.github.io/blob/master/files/presWSDL-LeMerrer.pdf) @ the [Deep Learning : from theory to applications workshop](https://www.lebesgue.fr/content/sem2018-deeplearning-program) in Sept. 2018 in Rennes
 * Prends part à ALGOTEL 2019 à Toulouse, en tant que co-program chair
 
-### Thoughts (free format)
-
-* "_N'importe quelle chose devient intéressante si vous la regardez assez longtemps._" Flaubert.
-
 ### Recent publications
+
+* _Gossiping GANs_,
+Corentin Hardy, Erwan Le Merrer, Bruno Sericola.
+In Middleware's Workshop on Distributed Infrastructures for Deep Learning, 2018.
+
 * _zoNNscan : a boundary-entropy index for zone inspection of neural models_,
 Adel Jaouen, Erwan Le Merrer.
 [ArXiv 2018](https://arxiv.org/abs/1808.06797).
