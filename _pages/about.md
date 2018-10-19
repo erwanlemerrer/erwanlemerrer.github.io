@@ -21,7 +21,7 @@ I joined Technicolor in 2009, with a PhD on distributed systems (from University
 
 * _Gossiping GANs_,
 Corentin Hardy, Erwan Le Merrer, Bruno Sericola.
-In Middleware's Workshop on Distributed Infrastructures for Deep Learning, 2018.
+In Middleware's Workshop on Distributed Infrastructures for Deep Learning, 2018. [[preprint]](https://github.com/erwanlemerrer/erwanlemerrer.github.io/blob/master/files/gossiping_gan_HLMS_DIDL2018_preprint.pdf)
 
 * _zoNNscan : a boundary-entropy index for zone inspection of neural models_,
 Adel Jaouen, Erwan Le Merrer.
@@ -41,7 +41,7 @@ ArXiv 2017.
 
 * _The topological face of recommendation_,
 Erwan Le Merrer, Gilles Trédan.
-In Complex Networks 2017.
+In Complex Networks 2017. [[preprint]](https://arxiv.org/pdf/1704.08991.pdf)
 
 * _Uncovering Influence Cookbooks : Reverse Engineering the Topological Impact in Peer Ranking Services_,
 Erwan Le Merrer, Gilles Trédan.
