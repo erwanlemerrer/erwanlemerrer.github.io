@@ -8,13 +8,16 @@ redirect_from:
   - /about.html
 ---
 Hello,
-I joined Technicolor in 2009, with a PhD on distributed systems (from University of Rennes 1), and a background on peer-to-peer systems, and graph mining/algorithms. I am currently working on machine learning in distributed/cloud environments. I obtained my habilitation (HDR) on November 2016 from University of Rennes 1.
+
+from Nov. 2018, I am on an "advanced research position" at INRIA, in the [WIDE team](https://team.inria.fr/wide/team/). My current and main topic of research is the study of black-box algorithms and its attached scalable computation.
+
+I was a senior research scientist at Technicolor R&I (2009-2018), where I worked on scalable storage, processing and machine learning for data analytics and monitoring of home devices. I own a PhD on distributed systems from University of Rennes 1, and a background on peer-to-peer systems, and graph mining/algorithms. My Ph.D. thesis was financed by Orange Labs (where I stayed btw 2004-2007). I obtained my habilitation (HDR) on November 2016 from University of Rennes 1.
 
 ### News
 * Second order centrality code now part of the [Networkx library](https://github.com/networkx/networkx/blob/master/networkx/algorithms/centrality/second_order.py) v2.2
 * WOS8 will be co-located with Middleware 2018, on December Tue 11th
 * Co-chair of [Middleware 2018](http://2018.middleware-conference.org/) industry track, in Rennes
-* Will talk about ["Decision boundaries & security related questions"](https://github.com/erwanlemerrer/erwanlemerrer.github.io/blob/master/files/presWSDL-LeMerrer.pdf) @ the [Deep Learning : from theory to applications workshop](https://www.lebesgue.fr/content/sem2018-deeplearning-program) in Sept. 2018 in Rennes
+* Talked about ["Decision boundaries & security related questions"](https://github.com/erwanlemerrer/erwanlemerrer.github.io/blob/master/files/presWSDL-LeMerrer.pdf) @ the [Deep Learning : from theory to applications workshop](https://www.lebesgue.fr/content/sem2018-deeplearning-program) in Sept. 2018 in Rennes
 * Prends part à ALGOTEL 2019 à Toulouse, en tant que co-program chair
 
 ### Recent publications
@@ -67,5 +70,5 @@ Co-organizing WOS with INRIA, a workshop on storage, cloud processing and data a
 
 I teach big-data storage and processing as a consultant in INSA (Rennes) and Telecom Bretagne (Brest).
 
-I have co-authored 6 patents (granted), and 30 pending.
+I have co-authored [6 granted patents, and 30 pending demands](https://patents.google.com/?inventor=merrer+erwan&oq=inventor:le+merrer+erwan).
 
