@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Erwan Le Merrer - Senior Researcher at Technicolor"
+title                    : "Erwan Le Merrer - INRIA"
 title_separator          : "-"
 name                     : &name "Erwan Le Merrer"
-description              : &description "Senior Researcher at Technicolor"
+description              : &description "on an Advanced Reseach Position"
 url                      : https://erwanlemerrer.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "erwanlemerrer.github.io"
