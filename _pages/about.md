@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 Hello,
-
-from Nov. 2018, I am on an "advanced research position" at INRIA, in the [WIDE team](https://team.inria.fr/wide/team/). My current and main topic of research is the study of [black-box algorithms](https://github.com/erwanlemerrer/blackbox-algorithms) in the context of recommender systems, and the attached scalable computation.
+since Nov. 2018, I am on an "advanced research position" at INRIA, in the [WIDE team](https://team.inria.fr/wide/team/). My current and main topic of research is the study of [black-box algorithms](https://github.com/erwanlemerrer/blackbox-algorithms) in the context of recommender systems, and the attached scalable computation.
 
 I was a senior research scientist at Technicolor R&I (2009-2018), where I worked on scalable storage, processing and machine learning for data analytics and monitoring of home devices. I own a PhD on distributed systems from University of Rennes 1, and a background on peer-to-peer systems, and graph mining/algorithms. My Ph.D. thesis was financed by Orange Labs (where I stayed btw 2004-2007). I obtained my habilitation (HDR) on November 2016 from University of Rennes 1.
 
@@ -24,7 +23,7 @@ I was a senior research scientist at Technicolor R&I (2009-2018), where I worked
 
 * _Gossiping GANs_,
 Corentin Hardy, Erwan Le Merrer, Bruno Sericola.
-In Middleware's Workshop on Distributed Infrastructures for Deep Learning, 2018. [[preprint]](https://github.com/erwanlemerrer/erwanlemerrer.github.io/blob/master/files/gossiping_gan_HLMS_DIDL2018_preprint.pdf)
+In Middleware's Workshop on Distributed Infrastructures for Deep Learning, 2018. [[preprint]](https://github.com/erwanlemerrer/erwanlemerrer.github.io/blob/master/files/gossiping_gan_HLMS_DIDL2018_preprint.pdf) [[ACM ref]](https://dl.acm.org/citation.cfm?id=3286563)
 
 * _zoNNscan : a boundary-entropy index for zone inspection of neural models_,
 Adel Jaouen, Erwan Le Merrer.
@@ -70,5 +69,5 @@ Co-organizing WOS with INRIA, a workshop on storage, cloud processing and data a
 
 I teach big-data storage and processing as a consultant in INSA (Rennes) and Telecom Bretagne (Brest).
 
-I have co-authored [6 granted patents, and 30 pending demands](https://patents.google.com/?inventor=merrer+erwan&oq=inventor:le+merrer+erwan).
+I have co-authored [7 granted patents, and 30 pending demands](https://patents.google.com/?inventor=merrer+erwan&oq=inventor:le+merrer+erwan).
 
