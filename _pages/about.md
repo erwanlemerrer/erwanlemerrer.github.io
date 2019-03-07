@@ -21,6 +21,10 @@ I was a senior research scientist at Technicolor R&I (2009-2018), where I worked
 
 ### Recent publications
 
+* _TamperNN: Efficient Tampering Detection of Deployed Neural Nets_,
+Erwan Le Merrer, Gilles Trédan.
+[ArXiv Feb 2019](https://arxiv.org/abs/1903.00317)
+
 * _MD-GAN: Multi-Discriminator Generative Adversarial Networks for Distributed Datasets_,
 Corentin Hardy, Erwan Le Merrer, Bruno Sericola.
 In IPDPS, 2019. [preprint](https://arxiv.org/pdf/1811.03850v2.pdf).
@@ -75,5 +79,5 @@ Co-organizing WOS with INRIA, a workshop on storage, cloud processing and data a
 
 I teach big-data storage and processing as a consultant in INSA (Rennes) and Telecom Bretagne (Brest).
 
-I have co-authored [7 granted patents, and 30 pending demands](https://patents.google.com/?inventor=merrer+erwan&oq=inventor:le+merrer+erwan).
+I have co-authored [8 granted patents, and 30 pending demands](https://patents.google.com/?inventor=merrer+erwan&oq=inventor:le+merrer+erwan).
 
