@@ -22,6 +22,10 @@ I was a senior research scientist at Technicolor R&I (2009-2018), where I worked
 
 ### Recent publications
 
+* _Unified and Scalable Incremental Recommenders with Consumed Item Packs_,
+Rachid Guerraoui, Erwan Le Merrer, Rhicheek Patra, Jean-Ronan Vigouroux.
+In Euro-par 2019. [preprint] (https://arxiv.org/pdf/1711.06100.pdf).
+
 * _TamperNN: Efficient Tampering Detection of Deployed Neural Nets_,
 Erwan Le Merrer, Gilles Trédan.
 [ArXiv Feb 2019](https://arxiv.org/abs/1903.00317)
@@ -45,10 +49,6 @@ Erwan Le Merrer, Patrick Perez, Gilles Trédan.
 * _Distributed deep learning on edge-devices: feasibility via adaptive compression_,
 Corentin Hardy, Erwan Le Merrer, Bruno Sericola.
 In IEEE NCA, 2017. _Best paper award_
-
-* _Sequences, Items And Latent Links: Recommendation With Consumed Item Packs_,
-Rachid Guerraoui, Erwan Le Merrer, Rhicheek Patra, Jean-Ronan Vigouroux.
-ArXiv 2017.
 
 * _The topological face of recommendation_,
 Erwan Le Merrer, Gilles Trédan.
