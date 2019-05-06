@@ -24,15 +24,15 @@ I was a senior research scientist at Technicolor R&I (2009-2018), where I worked
 
 * _Unified and Scalable Incremental Recommenders with Consumed Item Packs_,
 Rachid Guerraoui, Erwan Le Merrer, Rhicheek Patra, Jean-Ronan Vigouroux.
-In Euro-par 2019. [preprint](https://arxiv.org/pdf/1711.06100.pdf).
+In Euro-par 2019. [[preprint]](https://arxiv.org/pdf/1711.06100.pdf).
 
 * _TamperNN: Efficient Tampering Detection of Deployed Neural Nets_,
 Erwan Le Merrer, Gilles Trédan.
-[ArXiv Feb 2019](https://arxiv.org/abs/1903.00317)
+[[ArXiv preprint Feb 2019]](https://arxiv.org/abs/1903.00317)
 
 * _MD-GAN: Multi-Discriminator Generative Adversarial Networks for Distributed Datasets_,
 Corentin Hardy, Erwan Le Merrer, Bruno Sericola.
-In IPDPS, 2019. [preprint](https://arxiv.org/pdf/1811.03850v2.pdf).
+In IPDPS, 2019. [[preprint]](https://arxiv.org/pdf/1811.03850v2.pdf).
 
 * _Gossiping GANs_,
 Corentin Hardy, Erwan Le Merrer, Bruno Sericola.
@@ -40,23 +40,23 @@ In Middleware's Workshop on Distributed Infrastructures for Deep Learning, 2018.
 
 * _zoNNscan : a boundary-entropy index for zone inspection of neural models_,
 Adel Jaouen, Erwan Le Merrer.
-[ArXiv 2018](https://arxiv.org/abs/1808.06797).
+[[ArXiv preprint 2018]](https://arxiv.org/abs/1808.06797).
 
 * _Adversarial Frontier Stitching for Remote Neural Network Watermarking_,
 Erwan Le Merrer, Patrick Perez, Gilles Trédan.
-[ArXiv 2017](https://arxiv.org/abs/1711.01894).
+[[ArXiv preprint 2017]](https://arxiv.org/abs/1711.01894).
 
 * _Distributed deep learning on edge-devices: feasibility via adaptive compression_,
 Corentin Hardy, Erwan Le Merrer, Bruno Sericola.
-In IEEE NCA, 2017. _Best paper award_
+In IEEE NCA, 2017. _Best paper award_ [[preprint]](https://arxiv.org/pdf/1702.04683.pdf).
 
 * _The topological face of recommendation_,
 Erwan Le Merrer, Gilles Trédan.
-In Complex Networks 2017. [[preprint]](https://arxiv.org/pdf/1704.08991.pdf)
+In Complex Networks 2017. [[preprint]](https://arxiv.org/pdf/1704.08991.pdf).
 
 * _Uncovering Influence Cookbooks : Reverse Engineering the Topological Impact in Peer Ranking Services_,
 Erwan Le Merrer, Gilles Trédan.
-In ACM CSCW, 2017.
+In ACM CSCW, 2017. [[preprint]](https://arxiv.org/pdf/1608.07481.pdf).
 
 ### Code
 
