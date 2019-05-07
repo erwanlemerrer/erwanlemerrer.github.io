@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 Hello,
-since Nov. 2018, I am on an "advanced research position" at Inria, in the [WIDE team](https://team.inria.fr/wide/team/). My current and main topic of research is the study of [black-box algorithms](https://github.com/erwanlemerrer/blackbox-algorithms) in the context of recommender systems, and the attached scalable computation.
+since Nov. 2018, I am on an "advanced research position" at Inria, in the [WIDE team](https://team.inria.fr/wide/team/). My current and main topic of research is the study of [black-box algorithms](https://github.com/erwanlemerrer/blackbox-algorithms) in the context of recommender systems, and the related scalable computation.
 
 I was a senior research scientist at Technicolor R&I (2009-2018), where I worked on scalable storage, processing and machine learning for data analytics and monitoring of home devices. I own a PhD on distributed systems from University of Rennes 1, and a background on peer-to-peer systems, and graph mining/algorithms. My Ph.D. thesis was financed by Orange Labs (where I stayed btw 2004-2007). I obtained my habilitation (HDR) on November 2016 from University of Rennes 1.
 
@@ -18,7 +18,6 @@ I was a senior research scientist at Technicolor R&I (2009-2018), where I worked
 * Talk video about ["Decision boundaries & security related questions"](https://github.com/erwanlemerrer/erwanlemerrer.github.io/blob/master/files/presWSDL-LeMerrer.pdf) @ the [Deep Learning : from theory to applications workshop](https://www.lebesgue.fr/content/sem2018-deeplearning-program) in Sept. 2018 in Rennes: <a href="https://www.lebesgue.fr/video/2876" >VIDEO HERE</a>.
 * Prends part à [ALGOTEL 2019](https://www.irit.fr/algotel2019/), en tant que co-program chair.
 * Second order centrality code now part of the [Networkx library](https://github.com/networkx/networkx/blob/master/networkx/algorithms/centrality/second_order.py) v2.2.
-
 
 ### Recent publications
 
@@ -73,6 +72,7 @@ In ACM CSCW, 2017. [[preprint]](https://arxiv.org/pdf/1608.07481.pdf).
 ### Service
 
 I was co-chair of [Middleware 2018](http://2018.middleware-conference.org/) industry track, in Rennes.
+[ALGOTEL 2019](https://www.irit.fr/algotel2019/) program co-chair.
 
 I was in the program committee of the following conferences: MMSYS 2017, HiPC 2016, SSS 2010,2016, PODC's DCC 2016, INFOCOM's DCC 2017, Middleware 2011, ICDCN 2012, INFOCOM's NOM 2014, 2016, 2017, ALGOTEL 2013,2014,2015.
 
@@ -80,5 +80,5 @@ Co-organizing WOS with INRIA, a workshop on storage, cloud processing and data a
 
 I teach big-data storage and processing as a consultant in INSA (Rennes) and Telecom Bretagne (Brest).
 
-I have co-authored [8 granted patents, and 30 pending demands](https://patents.google.com/?inventor=merrer+erwan&oq=inventor:le+merrer+erwan).
+I have co-authored [8 granted patents, and around 37 pending demands](https://patents.google.com/?inventor=merrer+erwan&oq=inventor:le+merrer+erwan).
 
