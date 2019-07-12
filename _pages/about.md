@@ -30,6 +30,10 @@ In Euro-par 2019. [[preprint]](https://arxiv.org/pdf/1711.06100.pdf).
 Erwan Le Merrer, Gilles Trédan.
 [[ArXiv preprint Feb 2019]](https://arxiv.org/abs/1903.00317)
 
+* _Application-aware adaptive partitioning for graph processing systems_,
+Erwan Le Merrer, Gilles Trédan.
+(6p short) In MASCOTS 2019.
+
 * _MD-GAN: Multi-Discriminator Generative Adversarial Networks for Distributed Datasets_,
 Corentin Hardy, Erwan Le Merrer, Bruno Sericola.
 In IPDPS, 2019. [[preprint]](https://arxiv.org/pdf/1811.03850v2.pdf).
