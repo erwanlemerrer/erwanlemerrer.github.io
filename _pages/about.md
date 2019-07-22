@@ -17,18 +17,18 @@ I was a senior research scientist at Technicolor R&I (2009-2018), where I worked
 * Atelier "algorithmes en boite-noire", à venir, le [10 octobre 2019 à Lyon](http://atelier-blackbox.conf.citi-lab.fr/).
 * Article Emergences/Inria ["Plus de transparence pour les algorithmes de recommandation"](http://emergences.inria.fr/2019/newsletter-n56/l56-recommandations) par J-M Prima.
 * Talk video about ["Decision boundaries & security related questions"](https://github.com/erwanlemerrer/erwanlemerrer.github.io/blob/master/files/presWSDL-LeMerrer.pdf) @ the [Deep Learning : from theory to applications workshop](https://www.lebesgue.fr/content/sem2018-deeplearning-program) in Sept. 2018 in Rennes: <a href="https://www.lebesgue.fr/video/2876" >VIDEO HERE</a>.
-* Prends part à [ALGOTEL 2019](https://www.irit.fr/algotel2019/) [AlgoTel](https://algotel.eu.org/), en tant que co-program chair.
+* Maintient du meta-site [AlgoTel](https://algotel.eu.org/).
 * Second order centrality code now part of the [Networkx library](https://github.com/networkx/networkx/blob/master/networkx/algorithms/centrality/second_order.py) v2.2.
 
 ### Recent publications
 
+* _TamperNN: Efficient Tampering Detection of Deployed Neural Nets_,
+Erwan Le Merrer, Gilles Trédan.
+In ISSRE, 2019. [[preprint]](https://arxiv.org/abs/1903.00317)
+
 * _Unified and Scalable Incremental Recommenders with Consumed Item Packs_,
 Rachid Guerraoui, Erwan Le Merrer, Rhicheek Patra, Jean-Ronan Vigouroux.
 In Euro-par 2019. [[preprint]](https://arxiv.org/pdf/1711.06100.pdf).
-
-* _TamperNN: Efficient Tampering Detection of Deployed Neural Nets_,
-Erwan Le Merrer, Gilles Trédan.
-[[ArXiv preprint Feb 2019]](https://arxiv.org/abs/1903.00317)
 
 * _Application-aware adaptive partitioning for graph processing systems_,
 Erwan Le Merrer, Gilles Trédan.
@@ -64,6 +64,7 @@ In ACM CSCW, 2017. [[preprint]](https://arxiv.org/pdf/1608.07481.pdf).
 
 ### Code
 
+* Pushed [non-randomness computation for graphs](https://networkx.github.io/documentation/latest/reference/algorithms/generated/networkx.algorithms.non_randomness.non_randomness.html#networkx.algorithms.non_randomness.non_randomness), by Ying & Wu, in NetworkX 2.4.
 * zoNNscan code, for analysis of decision boundaries, [available here](https://github.com/technicolor-research/zoNNscan).
 * Second order centrality code now part of the [Networkx library](https://github.com/networkx/networkx/blob/master/networkx/algorithms/centrality/second_order.py), from [ComCom paper](http://homepages.laas.fr/gtredan/pdf/SOC_COMCOM2010.pdf).
 * Corentin's code for distributed deep learning (NCA best paper) [here](https://github.com/Hardy-c/AdaComp) and for random neural layers [here](https://github.com/Hardy-c/DNN-with-RNL).
