@@ -10,14 +10,13 @@ redirect_from:
 Hello,
 since Nov. 2018, I am on an "advanced research position" at Inria, in the [WIDE team](https://team.inria.fr/wide/team/). My current and main topic of research is the study of [black-box algorithms](https://github.com/erwanlemerrer/blackbox-algorithms) in the context of recommender systems, and the related scalable computation.
 
-I was a senior research scientist at Technicolor R&I (2009-2018), where I worked on scalable storage, processing and machine learning for data analytics and monitoring of home devices. I own a PhD on distributed systems from University of Rennes 1, and a background on peer-to-peer systems, and graph mining/algorithms. My Ph.D. thesis was financed by Orange Labs (where I stayed btw 2004-2007). I obtained my habilitation (HDR) on November 2016 from University of Rennes 1. I am the president and sysadmin of the gozdata association, that built the gozmail service, built from free software.
+I was a senior research scientist at Technicolor R&I (2009-2018), where I worked on scalable storage, processing and machine learning for data analytics and monitoring of home devices. I own a PhD on distributed systems from University of Rennes 1, and a background on peer-to-peer systems, and graph mining/algorithms. My Ph.D. thesis was financed by Orange Labs (where I stayed btw 2004-2007). I obtained my habilitation (HDR) on November 2016 from University of Rennes 1. I am the president and sysadmin of the gozdata association, that provides the gozmail service, built from free software.
 
 ### News
 
 * Atelier "algorithmes en boite-noire", à venir, le [10 octobre 2019 à Lyon](http://atelier-blackbox.conf.citi-lab.fr/).
 * Article Emergences/Inria ["Plus de transparence pour les algorithmes de recommandation"](http://emergences.inria.fr/2019/newsletter-n56/l56-recommandations) par J-M Prima.
 * Talk video about ["Decision boundaries & security related questions"](https://github.com/erwanlemerrer/erwanlemerrer.github.io/blob/master/files/presWSDL-LeMerrer.pdf) @ the [Deep Learning : from theory to applications workshop](https://www.lebesgue.fr/content/sem2018-deeplearning-program) in Sept. 2018 in Rennes: <a href="https://www.lebesgue.fr/video/2876" >VIDEO HERE</a>.
-* Maintient du meta-site [AlgoTel](https://algotel.eu.org/).
 * Second order centrality code now part of the [Networkx library](https://github.com/networkx/networkx/blob/master/networkx/algorithms/centrality/second_order.py) v2.2.
 
 ### Recent publications
@@ -77,7 +76,7 @@ In ACM CSCW, 2017. [[preprint]](https://arxiv.org/pdf/1608.07481.pdf).
 
 ### Service
 
-As my main participation to scientific events, I was co-chair of [Middleware 2018](http://2018.middleware-conference.org/) industry track, in Rennes, and [ALGOTEL 2019](https://www.irit.fr/algotel2019/) program co-chair.
+As my main participation to scientific events, I was co-chair of [Middleware 2018](http://2018.middleware-conference.org/) industry track, in Rennes, and [AlgoTel](https://algotel.eu.org/) 2019 program co-chair.
 Co-organizing WOS with INRIA and Interdigital (ex Technicolor), a workshop on storage, cloud processing and data analytics, in every year Rennes: [WOS archive](https://team.inria.fr/wide/wos/).
 
 I have co-authored [8 granted patents, and around 37 pending demands](https://patents.google.com/?inventor=merrer+erwan&oq=inventor:le+merrer+erwan).
