@@ -21,6 +21,10 @@ I was a senior research scientist at Technicolor R&I (2009-2018), where I worked
 
 ### Recent publications
 
+* _Adversarial Frontier Stitching for Remote Neural Network Watermarking_,
+Erwan Le Merrer, Patrick Perez, Gilles Trédan.
+In the journal of Neural Computing and Applications, 2019. [[ArXiv preprint]](https://arxiv.org/abs/1711.01894).
+
 * _TamperNN: Efficient Tampering Detection of Deployed Neural Nets_,
 Erwan Le Merrer, Gilles Trédan.
 In ISSRE, 2019. [[preprint]](https://arxiv.org/abs/1903.00317)
@@ -44,10 +48,6 @@ In Middleware's Workshop on Distributed Infrastructures for Deep Learning, 2018.
 * _zoNNscan : a boundary-entropy index for zone inspection of neural models_,
 Adel Jaouen, Erwan Le Merrer.
 [[ArXiv preprint 2018]](https://arxiv.org/abs/1808.06797).
-
-* _Adversarial Frontier Stitching for Remote Neural Network Watermarking_,
-Erwan Le Merrer, Patrick Perez, Gilles Trédan.
-[[ArXiv preprint 2017]](https://arxiv.org/abs/1711.01894).
 
 * _Distributed deep learning on edge-devices: feasibility via adaptive compression_,
 Corentin Hardy, Erwan Le Merrer, Bruno Sericola.
