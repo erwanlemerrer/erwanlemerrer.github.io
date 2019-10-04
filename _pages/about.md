@@ -21,6 +21,10 @@ I was a senior research scientist at Technicolor R&I (2009-2018), where I worked
 
 ### Recent publications
 
+* _The Bouncer Problem: Challenges to Remote Explainability_,
+Erwan Le Merrer, Gilles Trédan.
+[[ArXiv preprint 2019]](https://arxiv.org/pdf/1910.01432.pdf).
+
 * _Adversarial Frontier Stitching for Remote Neural Network Watermarking_,
 Erwan Le Merrer, Patrick Perez, Gilles Trédan.
 In the journal of Neural Computing and Applications, 2019. [[editor]](https://link.springer.com/article/10.1007/s00521-019-04434-z?wt_mc=Internal.Event.1.SEM.ArticleAuthorOnlineFirst&utm_source=ArticleAuthorOnlineFirst&utm_medium=email&utm_content=AA_en_06082018&ArticleAuthorOnlineFirst_20190820)
