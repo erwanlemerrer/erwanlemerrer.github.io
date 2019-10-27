@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 Hello,
-since Nov. 2018, I am on an "advanced research position" at Inria, in the [WIDE team](https://team.inria.fr/wide/team/). My current and main topic of research is the study of [black-box algorithms](https://github.com/erwanlemerrer/blackbox-algorithms) in the context of recommender systems, and the related scalable computation.
+since Nov. 2018, I am on an "advanced research position" at Inria, in the [WIDE team](https://team.inria.fr/wide/team/). My current and main topics of research are
+* the study of [black-box algorithms](https://github.com/erwanlemerrer/blackbox-algorithms) in the context of recommender systems, and the related scalable computation
+* algorithms for the distribution of machine learning (deep networks, GANs)
 
 I was a senior research scientist at Technicolor R&I (2009-2018), where I worked on scalable storage, processing and machine learning for data analytics and monitoring of home devices. I own a PhD on distributed systems from University of Rennes 1, and a background on peer-to-peer systems, and graph mining/algorithms. My Ph.D. thesis was financed by Orange Labs (where I stayed btw 2004-2007). I obtained my habilitation (HDR) on November 2016 from University of Rennes 1. I am the president and sysadmin of the gozdata association, that provides the gozmail service, built from free software.
 
