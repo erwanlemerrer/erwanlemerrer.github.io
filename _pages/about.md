@@ -16,7 +16,8 @@ I was a senior research scientist at Technicolor R&I (2009-2018), where I worked
 
 ### News
 
-* Atelier "algorithmes en boite-noire", à venir, le [10 octobre 2019 à Lyon](http://atelier-blackbox.conf.citi-lab.fr/).
+* Article from Algorithm Watch (Berlin) on our "bouncer problem" [“Explainable AI” doesn’t work for online services – now there’s proof](https://algorithmwatch.org/en/story/explainable-ai-doesnt-work-for-online-services-now-theres-proof/)
+* Atelier "algorithmes en boite-noire", le [10 octobre 2019 à Lyon](http://atelier-blackbox.conf.citi-lab.fr/).
 * Article Emergences/Inria ["Plus de transparence pour les algorithmes de recommandation"](http://emergences.inria.fr/2019/newsletter-n56/l56-recommandations) par J-M Prima.
 * Talk video about ["Decision boundaries & security related questions"](https://github.com/erwanlemerrer/erwanlemerrer.github.io/blob/master/files/presWSDL-LeMerrer.pdf) @ the [Deep Learning : from theory to applications workshop](https://www.lebesgue.fr/content/sem2018-deeplearning-program) in Sept. 2018 in Rennes: <a href="https://www.lebesgue.fr/video/2876" >VIDEO HERE</a>.
 * Second order centrality code now part of the [Networkx library](https://github.com/networkx/networkx/blob/master/networkx/algorithms/centrality/second_order.py) v2.2.
