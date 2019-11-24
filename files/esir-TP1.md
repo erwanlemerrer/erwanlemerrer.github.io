@@ -21,6 +21,7 @@ Démarrage rapide sur NetworkX [ici](https://networkx.github.io/documentation/st
 [Le graphe Zachary Karate Club](http://konect.uni-koblenz.de/networks/ucidata-zachary)
 
 * importez le graphe "karate club" dans G
+* afficher son nombre de noeuds
 * affichez le; qu'est ce qu'un layout ? Essayez en plusieurs
 * affichez le plus haut degré de G
 * affichez (en texte) la distribution des degrés des noeuds de G
@@ -28,6 +29,7 @@ Démarrage rapide sur NetworkX [ici](https://networkx.github.io/documentation/st
 * affichez le coefficient de clustering moyen de G
 * affichez le diamètre de G
 * affichez la conductance du groupe de noeuds [4,5,6,10,16]
+* extraire S, le sous graphe de G composé par les noeuds donnés à l'exercice précédent
 * affichez la connectivité algébrique de G. Conclusion?
 * chercher la fonction "articulation_points" dans la doc networkx; quel est son but? Exécutez la sur G
 * chercher la fonction "bridges" dans la doc networkx, quel est son but? Exécutez la sur G
