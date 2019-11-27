@@ -78,7 +78,7 @@ G = nx.DiGraph()
 * affichez le plus haut degré de G
 
 ```python
-    print("Plus haut degré du graphe: ", max([d for n,d in np.array(G.degree)]))
+    print("Plus haut degré du graphe: ", max([int(d) for n,d in np.array(G.degree)]))
 ```
 * affichez (en texte) la distribution des degrés des noeuds de G
 
