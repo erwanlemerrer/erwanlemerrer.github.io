@@ -33,6 +33,9 @@ Propos principal: les mesures d'influence dans les graphes. Puis un modèle de p
 ## Propagation épidémique sur un graphe
 * une épidémie chez les personnages de GoT: programmez un modèle épidémique SIS simplifié (avec une seule variable delta et pas de boucles sur les états), en simulation pour ronde. Passez en par un statut booléen 'infected' sur chaque noeud. Affichez un tableau contenant l'état 'infected' des noeuds après chaque ronde
 
-* BONUS: programmez l'équation de résiliance donnée dans le poly ;)
+* démarrez une infection à partir de 'Daryn-Hornwood' (ie, infected=True) (delta=0.9), combien d'infectés après 10 rounds?
+
+* même chose à partir de 'Eddard-Stark' (le noeud le plus central d'après les 4 centralités étudiées), combien d'infectés? Conclusion?
+
 
 Questions/commentaires: erwan.le-merrer@inria.fr
