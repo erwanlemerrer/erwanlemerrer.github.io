@@ -15,7 +15,7 @@ Propos principal: extraire les communautés d'un graphe réel.
 
 * combien des 10 noeuds les plus centraux selon la betweenness centrality appartiennent au précédent 11-core? Conclusion?
 
-* exécutez l'algorithme de détection de communautés qui utilise la notion de modularité. Conclusion sur sa capacité à détecter les communautés de ce graphe?
+* ~~exécutez l'algorithme de détection de communautés qui utilise la notion de modularité. Conclusion sur sa capacité à détecter les communautés de ce graphe?~~
 
 * regardez l'algorithme de [girvan_newman](https://en.wikipedia.org/wiki/Girvan%E2%80%93Newman_algorithm): les communautés sont créées à partir de la suppression d'arêtes. Quel est le critère pour sélectionner les arêtes à supprimer prioritairement?
 
