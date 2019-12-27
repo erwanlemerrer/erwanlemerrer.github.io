@@ -86,5 +86,7 @@ In ACM CSCW, 2017. [[preprint]](https://arxiv.org/pdf/1608.07481.pdf).
 As my main participation to scientific events, I was co-chair of [Middleware 2018](http://2018.middleware-conference.org/) industry track, in Rennes, and [AlgoTel](https://algotel.eu.org/) 2019 program co-chair.
 Co-organizing WOS with INRIA and Interdigital (ex Technicolor), a workshop on storage, cloud processing and data analytics, in every year Rennes: [WOS archive](https://team.inria.fr/wide/wos/).
 
-I have co-authored [8 granted patents, and around 37 pending demands](https://patents.google.com/?inventor=merrer+erwan&oq=inventor:le+merrer+erwan).
+I have co-authored [8 granted patents, and around 39 pending demands](https://patents.google.com/?inventor=merrer+erwan&oq=inventor:le+merrer+erwan).
 
+### :!?
+[Wishlist de bouquins](https://annuel.framapad.org/p/erwan-wishlist-livres), just in case ;)
