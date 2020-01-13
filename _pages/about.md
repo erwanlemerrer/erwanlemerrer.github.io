@@ -89,4 +89,4 @@ Co-organizing WOS with INRIA and Interdigital (ex Technicolor), a workshop on st
 I have co-authored [8 granted patents, and around 39 pending demands](https://patents.google.com/?inventor=merrer+erwan&oq=inventor:le+merrer+erwan).
 
   
-                                                                                  [.](https://annuel.framapad.org/p/erwan-wishlist-livres)
+   [.](https://annuel.framapad.org/p/erwan-wishlist-livres)
