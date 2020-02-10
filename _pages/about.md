@@ -16,6 +16,7 @@ I was a senior research scientist at Technicolor R&I (2009-2018), where I worked
 
 ### News
 
+* Joined the board of the [*Société Informatique de France*](https://www.societe-informatique-de-france.fr/).
 * Article from Algorithm Watch (Berlin) on our "bouncer problem" [“Explainable AI” doesn’t work for online services – now there’s proof](https://algorithmwatch.org/en/story/explainable-ai-doesnt-work-for-online-services-now-theres-proof/)
 * Atelier "algorithmes en boite-noire", le [10 octobre 2019 à Lyon](http://atelier-blackbox.conf.citi-lab.fr/).
 * Article Emergences/Inria ["Plus de transparence pour les algorithmes de recommandation"](http://emergences.inria.fr/2019/newsletter-n56/l56-recommandations) par J-M Prima.
