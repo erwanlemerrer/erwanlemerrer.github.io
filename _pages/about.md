@@ -69,6 +69,28 @@ In Complex Networks 2017. [[preprint]](https://arxiv.org/pdf/1704.08991.pdf).
 Erwan Le Merrer, Gilles Trédan.
 In ACM CSCW, 2017. [[preprint]](https://arxiv.org/pdf/1608.07481.pdf).
 
+### Selected publications
+
+* _Adversarial Frontier Stitching for Remote Neural Network Watermarking_,
+Erwan Le Merrer, Patrick Perez, Gilles Trédan.
+**Neural Computing and Applications**, 2019.
+
+* _Frugal topology construction for stream aggregation in the cloud_,
+ Rachid Guerraoui, Erwan Le Merrer, Rhicheek Patra, Bao-Duy Tran.
+ **Infocom**, 2016.
+ 
+* _Archiving cold data in warehouses with clustered network coding_,
+Fabien André, Anne-Marie Kermarrec, Erwan Le Merrer, Nicolas Le Scouarnec, Gilles Straub, Alexandre van Kempen.
+**Eurosys**, 2014.
+
+* _Second order centrality: Distributed assessment of nodes criticity in complex networks_,
+Anne-Marie Kermarrec, Erwan Le Merrer, Bruno Sericola, Gilles Trédan.
+**Computer Communications**, 2011.
+
+* _Peer counting and sampling in overlay networks based on random walks_,
+Ayalvadi J. Ganesh, Anne-Marie Kermarrec, Erwan Le Merrer, Laurent Massoulié.
+**Distributed computing**, 2007.
+
 ### Code
 
 * Pushed [non-randomness computation for graphs](https://networkx.github.io/documentation/latest/reference/algorithms/generated/networkx.algorithms.non_randomness.non_randomness.html#networkx.algorithms.non_randomness.non_randomness), by Ying & Wu, in NetworkX 2.4.
