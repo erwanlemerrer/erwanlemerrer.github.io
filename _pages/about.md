@@ -16,6 +16,7 @@ I was a senior research scientist at Technicolor R&I (2009-2018), where I worked
 
 ### News
 
+* Semestre [Supervision de systèmes dynamiques](https://semestres-cyber.inria.fr/supsec/).
 * Article sur les enjeux de l'explicabilité, mentionant nos travaux, sur [internetactu.net](http://www.internetactu.net/2019/11/14/de-lexplicabilite-des-systemes-les-enjeux-de-lexplication-des-decisions-automatisees/).
 * Talk au [THCON20 @ Toulouse avec G. Trédan](https://www.youtube.com/watch?v=pW6gAhEGkSM). 
 * Joined the board of the [*Société Informatique de France*](https://www.societe-informatique-de-france.fr/).
