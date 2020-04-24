@@ -15,7 +15,7 @@ since Nov. 2018, I am on an "advanced research position" at Inria, in the [WIDE 
 >the ones we ask for? May not be does it not want to be analyzed and
 >observed at all and taking this for a challenge (which is true), does
 >it respond with another challenge? [...] the object analyzed today
->triumphs everywhere, by its object position, the subject of analysis."
+>triumphs everywhere, by its object position, over the subject of analysis."
 (Jean Baudrillard, Fatal Strategies.)
 
 My main current research activity is trying to disprove that nice Baudrillard quote, by studying [black-box algorithms](https://github.com/erwanlemerrer/blackbox-algorithms) in the context of recommender systems, or neural-network models.
