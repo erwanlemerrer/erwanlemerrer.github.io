@@ -8,9 +8,18 @@ redirect_from:
   - /about.html
 ---
 Hello,
-since Nov. 2018, I am on an "advanced research position" at Inria, in the [WIDE team](https://team.inria.fr/wide/team/). My current and main topics of research are
-* the study of [black-box algorithms](https://github.com/erwanlemerrer/blackbox-algorithms) in the context of recommender systems, and the related scalable computation
-* algorithms for the distribution of machine learning (deep networks, GANs)
+since Nov. 2018, I am on an "advanced research position" at Inria, in the [WIDE team](https://team.inria.fr/wide/team/). 
+
+>"Maybe, not content to be alienated by observation, maybe does the
+>object deceive us? Maybe it invented original answers, and not only
+>the ones we ask for? May not be does it not want to be analyzed and
+>observed at all and taking this for a challenge (which is true), does
+>it respond with another challenge? [...] the object analyzed today
+>triumphs everywhere, by its object position, the subject of analysis."
+(Jean Baudrillard, Fatal Strategies.)
+
+My main current research activity is trying to disprove that nice Baudrillard quote, by studying [black-box algorithms](https://github.com/erwanlemerrer/blackbox-algorithms) in the context of recommender systems, or neural-network models.
+I am also interested in algorithms for the distribution of machine learning (deep networks, GANs).
 
 I was a senior research scientist at Technicolor R&I (2009-2018), where I worked on scalable storage, processing and machine learning for data analytics and monitoring of home devices. I own a PhD on distributed systems from University of Rennes 1, and a background on peer-to-peer systems, and graph mining/algorithms. My Ph.D. thesis was financed by Orange Labs (where I stayed btw 2004-2007). I obtained my habilitation (HDR) on November 2016 from University of Rennes 1. I am the president and sysadmin of the gozdata association, that provides the gozmail service, built from free software.
 
