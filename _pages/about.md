@@ -38,9 +38,17 @@ I was a senior research scientist at Technicolor R&I (2009-2018), where I worked
 
 ### Recent publications
 
-* _The Bouncer Problem: Challenges to Remote Explainability_,
+* _Remote Explainability faces the bouncer problem_,
 Erwan Le Merrer, Gilles Trédan.
-[[ArXiv preprint 2019]](https://arxiv.org/pdf/1910.01432.pdf).
+In Nature Machine Intelligence [[ArXiv preprint 2019]](https://arxiv.org/pdf/1910.01432.pdf).
+
+* _The Imitation Game: Algorithm Selection by Exploiting Black-Box Recommenders_,
+Georgios Damaskinos, Rachid Guerraoui, Erwan Le Merrer and Christoph Neumann.
+In NETYS, 2020.
+
+* _zoNNscan : a boundary-entropy index for zone inspection of neural models_,
+Adel Jaouen, Erwan Le Merrer.
+In Monte Carlo Search workshop (MCS) @ IJCAI 2020 [[ArXiv preprint 2018]](https://arxiv.org/abs/1808.06797).
 
 * _Adversarial Frontier Stitching for Remote Neural Network Watermarking_,
 Erwan Le Merrer, Patrick Perez, Gilles Trédan.
@@ -65,10 +73,6 @@ In IPDPS, 2019. [[preprint]](https://arxiv.org/pdf/1811.03850v2.pdf).
 * _Gossiping GANs_,
 Corentin Hardy, Erwan Le Merrer, Bruno Sericola.
 In Middleware's Workshop on Distributed Infrastructures for Deep Learning, 2018. [[preprint]](https://github.com/erwanlemerrer/erwanlemerrer.github.io/blob/master/files/gossiping_gan_HLMS_DIDL2018_preprint.pdf) [[ACM ref]](https://dl.acm.org/citation.cfm?id=3286563)
-
-* _zoNNscan : a boundary-entropy index for zone inspection of neural models_,
-Adel Jaouen, Erwan Le Merrer.
-[[ArXiv preprint 2018]](https://arxiv.org/abs/1808.06797).
 
 * _Distributed deep learning on edge-devices: feasibility via adaptive compression_,
 Corentin Hardy, Erwan Le Merrer, Bruno Sericola.
