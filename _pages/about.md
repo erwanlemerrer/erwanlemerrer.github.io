@@ -60,11 +60,11 @@ In ISSRE, 2019. [[preprint]](https://arxiv.org/abs/1903.00317) [[editor]](https:
 
 * _Unified and Scalable Incremental Recommenders with Consumed Item Packs_,
 Rachid Guerraoui, Erwan Le Merrer, Rhicheek Patra, Jean-Ronan Vigouroux.
-In Euro-par 2019. [[preprint]](https://arxiv.org/pdf/1711.06100.pdf).
+In Euro-par 2019. [[preprint]](https://arxiv.org/pdf/1711.06100.pdf) [[editor]](https://link.springer.com/chapter/10.1007/978-3-030-29400-7_17)
 
 * _Application-aware adaptive partitioning for graph processing systems_,
 Erwan Le Merrer, Gilles Trédan.
-(6p short) In MASCOTS 2019. [[preprint]](https://hal.archives-ouvertes.fr/hal-02193594/document)
+(6p short) In MASCOTS 2019. [[preprint]](https://hal.archives-ouvertes.fr/hal-02193594/document) [[editor]](https://ieeexplore.ieee.org/document/8842862)
 
 * _MD-GAN: Multi-Discriminator Generative Adversarial Networks for Distributed Datasets_,
 Corentin Hardy, Erwan Le Merrer, Bruno Sericola.
@@ -90,7 +90,7 @@ In ACM CSCW, 2017. [[preprint]](https://arxiv.org/pdf/1608.07481.pdf) [[editor]]
 
 * _Adversarial Frontier Stitching for Remote Neural Network Watermarking_,
 Erwan Le Merrer, Patrick Perez, Gilles Trédan.
-**Neural Computing and Applications**, 2019.
+**Neural Computing and Applications**, 2020.
 
 * _Frugal topology construction for stream aggregation in the cloud_,
  Rachid Guerraoui, Erwan Le Merrer, Rhicheek Patra, Bao-Duy Tran.
