@@ -56,7 +56,7 @@ In Neural Comput & Applic 32, 9233–9244 (2020). [[editor]](https://link.spring
 
 * _TamperNN: Efficient Tampering Detection of Deployed Neural Nets_,
 Erwan Le Merrer, Gilles Trédan.
-In ISSRE, 2019. [[preprint]](https://arxiv.org/abs/1903.00317)
+In ISSRE, 2019. [[preprint]](https://arxiv.org/abs/1903.00317) [[editor]](https://ieeexplore.ieee.org/document/8987572) 
 
 * _Unified and Scalable Incremental Recommenders with Consumed Item Packs_,
 Rachid Guerraoui, Erwan Le Merrer, Rhicheek Patra, Jean-Ronan Vigouroux.
@@ -68,7 +68,7 @@ Erwan Le Merrer, Gilles Trédan.
 
 * _MD-GAN: Multi-Discriminator Generative Adversarial Networks for Distributed Datasets_,
 Corentin Hardy, Erwan Le Merrer, Bruno Sericola.
-In IPDPS, 2019. [[preprint]](https://arxiv.org/pdf/1811.03850v2.pdf).
+In IPDPS, 2019. [[preprint]](https://arxiv.org/pdf/1811.03850v2.pdf) [[editor]](https://ieeexplore.ieee.org/document/8821025)
 
 * _Gossiping GANs_,
 Corentin Hardy, Erwan Le Merrer, Bruno Sericola.
@@ -76,15 +76,15 @@ In Middleware's Workshop on Distributed Infrastructures for Deep Learning, 2018.
 
 * _Distributed deep learning on edge-devices: feasibility via adaptive compression_,
 Corentin Hardy, Erwan Le Merrer, Bruno Sericola.
-In IEEE NCA, 2017. _Best paper award_ [[preprint]](https://arxiv.org/pdf/1702.04683.pdf).
+In IEEE NCA, 2017. _Best paper award_ [[preprint]](https://arxiv.org/pdf/1702.04683.pdf) [[editor]](https://ieeexplore.ieee.org/document/8171350)
 
 * _The topological face of recommendation_,
 Erwan Le Merrer, Gilles Trédan.
-In Complex Networks 2017. [[preprint]](https://arxiv.org/pdf/1704.08991.pdf).
+In Complex Networks 2017. [[preprint]](https://arxiv.org/pdf/1704.08991.pdf) [[editor]](https://link.springer.com/chapter/10.1007/978-3-319-72150-7_72)
 
 * _Uncovering Influence Cookbooks : Reverse Engineering the Topological Impact in Peer Ranking Services_,
 Erwan Le Merrer, Gilles Trédan.
-In ACM CSCW, 2017. [[preprint]](https://arxiv.org/pdf/1608.07481.pdf).
+In ACM CSCW, 2017. [[preprint]](https://arxiv.org/pdf/1608.07481.pdf) [[editor]](https://dl.acm.org/doi/abs/10.1145/2998181.2998257)
 
 ### Selected publications
 
