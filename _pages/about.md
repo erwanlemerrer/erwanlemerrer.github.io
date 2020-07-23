@@ -52,7 +52,7 @@ In Monte Carlo Search workshop (MCS) @ IJCAI 2020 [[ArXiv preprint 2018]](https:
 
 * _Adversarial Frontier Stitching for Remote Neural Network Watermarking_,
 Erwan Le Merrer, Patrick Perez, Gilles Trédan.
-In the journal of Neural Computing and Applications, 2019. [[editor]](https://link.springer.com/article/10.1007/s00521-019-04434-z?wt_mc=Internal.Event.1.SEM.ArticleAuthorOnlineFirst&utm_source=ArticleAuthorOnlineFirst&utm_medium=email&utm_content=AA_en_06082018&ArticleAuthorOnlineFirst_20190820)  [[preprint]](https://arxiv.org/abs/1711.01894) 
+In Neural Comput & Applic 32, 9233–9244 (2020). [[editor]](https://link.springer.com/article/10.1007/s00521-019-04434-z)  [[preprint]](https://arxiv.org/abs/1711.01894) [[citation]](https://link.springer.com/article/10.1007/s00521-019-04434-z.ris) 
 
 * _TamperNN: Efficient Tampering Detection of Deployed Neural Nets_,
 Erwan Le Merrer, Gilles Trédan.
