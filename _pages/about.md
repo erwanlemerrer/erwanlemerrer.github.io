@@ -40,7 +40,7 @@ I was a senior research scientist at Technicolor R&I (2009-2018), where I worked
 
 * _Remote Explainability faces the bouncer problem_,
 Erwan Le Merrer, Gilles Trédan.
-In Nature Machine Intelligence [[ArXiv preprint 2019]](https://arxiv.org/pdf/1910.01432.pdf).
+Preprint [[ArXiv preprint 2019]](https://arxiv.org/pdf/1910.01432.pdf).
 
 * _The Imitation Game: Algorithm Selection by Exploiting Black-Box Recommenders_,
 Georgios Damaskinos, Rachid Guerraoui, Erwan Le Merrer and Christoph Neumann.
