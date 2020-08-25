@@ -25,7 +25,7 @@ I was a senior research scientist at Technicolor R&I (2009-2018), where I worked
 
 ### News
 
-* New article in Nature Machine Intelligence, do not trust remote AI explanations! [[Article link]](https://www.nature.com/articles/s42256-020-0216-z#citeas)
+* New article in Nature Machine Intelligence, do not trust remote AI explanations! [[Article link]](https://rdcu.be/b6qB4)
 * Launched the [whosban.org](https://whosban.org) website, to check the *shadow banning* practice on Twitter !
 * Semestre [Supervision de systèmes dynamiques](https://semestres-cyber.inria.fr/supsec/).
 * Article sur les enjeux de l'explicabilité, mentionant nos travaux, sur [internetactu.net](http://www.internetactu.net/2019/11/14/de-lexplicabilite-des-systemes-les-enjeux-de-lexplication-des-decisions-automatisees/).
@@ -41,7 +41,7 @@ I was a senior research scientist at Technicolor R&I (2009-2018), where I worked
 
 * _Remote Explainability faces the bouncer problem_,
 Erwan Le Merrer, Gilles Trédan.
-In  Nat Mach Intell (2020). [Nature](https://www.nature.com/articles/s42256-020-0216-z#citeas) [doi](https://doi.org/10.1038/s42256-020-0216-z).
+In  Nat Mach Intell (2020). [[Nature article full access]](https://rdcu.be/b6qB4) [doi](https://doi.org/10.1038/s42256-020-0216-z).
 Preprint [[ArXiv preprint 2019]](https://arxiv.org/pdf/1910.01432.pdf).
 
 * _The Imitation Game: Algorithm Selection by Exploiting Black-Box Recommenders_,
