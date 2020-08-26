@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "Erwan's Blog"
+title: "Notes and thoughts"
 permalink: /blog
 author_profile: true
 ---
 
-# From Dead Hand to Flash Collapse: risky machine to machine chain reactions.
-#### Erwan Le Merrer (elemerrer@acm.org), June 2020
+## From Dead Hand to Flash Collapse: risky machine to machine chain reactions.
+##### Erwan Le Merrer (elemerrer@acm.org), June 2020
 
 _Machine learning based algorithms are now in the wild, and read their environment to react to it. The past has already exhibited relatively benign forms of cascades or chain reactions between these. With the increasing interconnectivity of networks and complexity of algorithms, unpredictable chain reactions might lead to severe flash collapses. This possibility stays largely under the shadow of some less likely events such as a threatening strong artificial intelligence._
 
