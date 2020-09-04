@@ -25,8 +25,8 @@ I was a senior research scientist at Technicolor R&I (2009-2018), where I worked
 
 ### News
 
-* New article in Nature Machine Intelligence, do not trust remote AI explanations! [[Article link]](https://rdcu.be/b6qB4)
-* Launched the [whosban.org](https://whosban.org) website, to check the *shadow banning* practice on Twitter !
+* New article in Nature Machine Intelligence, do not trust remote AI explanations... [[Article link]](https://rdcu.be/b6qB4)
+* Launched the [whosban.org](https://whosban.org) website, to check the *shadow banning* practice on Twitter.
 * Semestre [Supervision de systèmes dynamiques](https://semestres-cyber.inria.fr/supsec/).
 * Article sur les enjeux de l'explicabilité, mentionant nos travaux, sur [internetactu.net](http://www.internetactu.net/2019/11/14/de-lexplicabilite-des-systemes-les-enjeux-de-lexplication-des-decisions-automatisees/).
 * Talk au [THCON20 @ Toulouse avec G. Trédan](https://www.youtube.com/watch?v=pW6gAhEGkSM). 
@@ -44,9 +44,13 @@ Erwan Le Merrer, Gilles Trédan.
 In  Nat Mach Intell (2020). [[Nature article full access]](https://rdcu.be/b6qB4) [doi](https://doi.org/10.1038/s42256-020-0216-z).
 Preprint [[ArXiv preprint 2019]](https://arxiv.org/pdf/1910.01432.pdf).
 
+* _FeGAN: Scaling Distributed GANs_,
+Rachid Guerraoui, Arsany Guirguis, Anne-Marie Kermarrec, Erwan Le Merrer.
+In Middleware, 2020.
+
 * _The Imitation Game: Algorithm Selection by Exploiting Black-Box Recommenders_,
 Georgios Damaskinos, Rachid Guerraoui, Erwan Le Merrer and Christoph Neumann.
-In NETYS, 2020.
+In NETYS, 2020. [[Preprint]](https://github.com/erwanlemerrer/erwanlemerrer.github.io/blob/master/files/imitation_blackbox_recommenders_netys-2020.pdf).
 
 * _zoNNscan : a boundary-entropy index for zone inspection of neural models_,
 Adel Jaouen, Erwan Le Merrer.
