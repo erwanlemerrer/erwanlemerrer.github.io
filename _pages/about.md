@@ -26,6 +26,7 @@ I was a senior research scientist at Technicolor R&I (2009-2018), where I worked
 ### News
 
 * New article in Nature Machine Intelligence, do not trust remote AI explanations... [[Article link]](https://rdcu.be/b6qB4)
+* Juin 2020: participation à la task force "Régulation des GAFA / Transparence et audit des algorithmes" auprès de la Direction Générale des Entreprises (DGE).
 * Launched the [whosban.org](https://whosban.org) website, to check the *shadow banning* practice on Twitter.
 * Semestre [Supervision de systèmes dynamiques](https://semestres-cyber.inria.fr/supsec/).
 * Article sur les enjeux de l'explicabilité, mentionant nos travaux, sur [internetactu.net](http://www.internetactu.net/2019/11/14/de-lexplicabilite-des-systemes-les-enjeux-de-lexplication-des-decisions-automatisees/).
@@ -134,5 +135,6 @@ Co-organizing WOS with INRIA and Interdigital (ex Technicolor), a workshop on st
 
 I have co-authored [8 granted patents, and around 39 pending demands](https://patents.google.com/?inventor=merrer+erwan&oq=inventor:le+merrer+erwan).
 
-  
+I have contributed to produce a document on "Transparency and audit of algorithms" regarding the GAFAM, for the French DGE. In general, I am broadly interested in the impact of technology on society.
+
    [.](https://annuel.framapad.org/p/erwan-wishlist-livres)
