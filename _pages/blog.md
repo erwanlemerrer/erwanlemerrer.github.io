@@ -5,6 +5,8 @@ permalink: /blog
 author_profile: true
 ---
 
+_Following opinions are solely mine. Toutes les opinions exprimées ici n'engagent que ma personne._
+
 ## From Dead Hand to Flash Collapse: risky machine to machine chain reactions.
 ##### Erwan Le Merrer (elemerrer@acm.org), June 2020
 
@@ -32,3 +34,6 @@ This opens up for the creation of autonomous agents that will be inclined in rea
 indirectly influence other algorithms by writing the data some others are going to read, and so on and so forth. In that light, millions of algorithms may very soon depend on each other, in a non controlled way, to make decisions. And these dependencies will create cascade effects that are unlikely to be be interrupted by humans, due to their flash occurrence. The naïve will to create "automatic stops" is bound to encounter the problem that those might be impossible to model and, as their implementation precisely depends on the overwhelming complexity of the data and algorithms themselves.
 
 We are then possibly already in a era where unstable clusters of algorithms are getting more and more interleaved, forming a emergent system reaching all domains of online interactions and decision making processes. The question now becomes: “how can a major chain reaction not occur in the coming years?”.
+
+## Lettre ouverte à M. Loïg Chesnais-Girard pour une prise de position sur la situation courante au Bélarus. (09/09/2020)
+[Lettre ouverte](xx).
