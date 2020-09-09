@@ -36,4 +36,4 @@ indirectly influence other algorithms by writing the data some others are going 
 We are then possibly already in a era where unstable clusters of algorithms are getting more and more interleaved, forming a emergent system reaching all domains of online interactions and decision making processes. The question now becomes: “how can a major chain reaction not occur in the coming years?”.
 
 ## Lettre ouverte à M. Loïg Chesnais-Girard pour une prise de position sur la situation courante au Bélarus. (09/09/2020)
-[Lettre ouverte](xx).
+[Lettre ouverte](https://github.com/erwanlemerrer/erwanlemerrer.github.io/blob/master/files/belarus-region_bretagne.pdf).
