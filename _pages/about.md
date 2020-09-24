@@ -47,7 +47,7 @@ Preprint [[ArXiv preprint 2019]](https://arxiv.org/pdf/1910.01432.pdf).
 
 * _FeGAN: Scaling Distributed GANs_,
 Rachid Guerraoui, Arsany Guirguis, Anne-Marie Kermarrec, Erwan Le Merrer.
-In Middleware, 2020.
+In Middleware, 2020. [[Preprint]](https://github.com/erwanlemerrer/erwanlemerrer.github.io/raw/master/files/middleware2020-GGKLM-FeGAN-preprint.pdf).
 
 * _The Imitation Game: Algorithm Selection by Exploiting Black-Box Recommenders_,
 Georgios Damaskinos, Rachid Guerraoui, Erwan Le Merrer and Christoph Neumann.
