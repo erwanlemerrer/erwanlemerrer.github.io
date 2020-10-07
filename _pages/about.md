@@ -26,13 +26,14 @@ I was a senior research scientist at Technicolor R&I (2009-2018), where I worked
 ### News
 
 * New article in Nature Machine Intelligence, do not trust remote AI explanations... [[Article link]](https://rdcu.be/b6qB4)
+  * press: [Do explanations for data-based predictions actually increase users' trust in AI?](https://techxplore.com/news/2020-10-explanations-data-based-users-ai.html) Tech Xplore.
+  * press: [De l’explicabilité des systèmes : les enjeux de l’explication des décisions automatisées](http://www.internetactu.net/2019/11/14/de-lexplicabilite-des-systemes-les-enjeux-de-lexplication-des-decisions-automatisees/) internetactu.net.
+  * press: [Explainable AI” doesn’t work for online services – now there’s proof](https://algorithmwatch.org/en/story/explainable-ai-doesnt-work-for-online-services-now-theres-proof/) Algorithm Watch.
 * Juin 2020: participation à la task force "Régulation des GAFA / Transparence et audit des algorithmes" auprès de la Direction Générale des Entreprises (DGE).
 * Launched the [whosban.org](https://whosban.org) website, to check the *shadow banning* practice on Twitter.
 * Semestre [Supervision de systèmes dynamiques](https://semestres-cyber.inria.fr/supsec/).
-* Article sur les enjeux de l'explicabilité, mentionant nos travaux, sur [internetactu.net](http://www.internetactu.net/2019/11/14/de-lexplicabilite-des-systemes-les-enjeux-de-lexplication-des-decisions-automatisees/).
 * Talk au [THCON20 @ Toulouse avec G. Trédan](https://www.youtube.com/watch?v=pW6gAhEGkSM). 
 * Joined the board of the [*Société Informatique de France*](https://www.societe-informatique-de-france.fr/).
-* Article from Algorithm Watch (Berlin) on our "bouncer problem" [“Explainable AI” doesn’t work for online services – now there’s proof](https://algorithmwatch.org/en/story/explainable-ai-doesnt-work-for-online-services-now-theres-proof/)
 * Atelier "algorithmes en boite-noire", le [10 octobre 2019 à Lyon](http://atelier-blackbox.conf.citi-lab.fr/).
 * Article Emergences/Inria ["Plus de transparence pour les algorithmes de recommandation"](http://emergences.inria.fr/2019/newsletter-n56/l56-recommandations) par J-M Prima.
 * Talk video about ["Decision boundaries & security related questions"](https://github.com/erwanlemerrer/erwanlemerrer.github.io/blob/master/files/presWSDL-LeMerrer.pdf) @ the [Deep Learning : from theory to applications workshop](https://www.lebesgue.fr/content/sem2018-deeplearning-program) in Sept. 2018 in Rennes: <a href="https://www.lebesgue.fr/video/2876" >VIDEO HERE</a>.
