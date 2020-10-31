@@ -18,7 +18,7 @@ since Nov. 2018, I am on an "advanced research position" at Inria, in the [WIDE 
 >triumphs everywhere, by its object position, over the subject of analysis."
 (Jean Baudrillard, Fatal Strategies.)
 
-My main current research activity is trying to disprove that nice Baudrillard quote, by studying [black-box algorithms](https://github.com/erwanlemerrer/blackbox-algorithms) in the context of recommender systems, or neural-network models.
+My main current research activity is trying to disprove that quote, by studying [black-box algorithms](https://github.com/erwanlemerrer/blackbox-algorithms) in the context of recommender systems, neural-network models, or decision-making algorithms in general.
 I am also interested in algorithms for the distribution of machine learning (deep networks, GANs).
 
 I was a senior research scientist at Technicolor R&I (2009-2018), where I worked on scalable storage, processing and machine learning for data analytics and monitoring of home devices. I own a PhD on distributed systems from University of Rennes 1, and a background on peer-to-peer systems, and graph mining/algorithms. My Ph.D. thesis was financed by Orange Labs (where I stayed btw 2004-2007). I obtained my habilitation (HDR) on November 2016 from University of Rennes 1. I am the president and sysadmin of the gozdata association, that provides the gozmail service, built from free software.
@@ -29,6 +29,7 @@ I was a senior research scientist at Technicolor R&I (2009-2018), where I worked
   * press: [Do explanations for data-based predictions actually increase users' trust in AI?](https://techxplore.com/news/2020-10-explanations-data-based-users-ai.html) Tech Xplore.
   * press: [De l’explicabilité des systèmes : les enjeux de l’explication des décisions automatisées](http://www.internetactu.net/2019/11/14/de-lexplicabilite-des-systemes-les-enjeux-de-lexplication-des-decisions-automatisees/) internetactu.net.
   * press: [Explainable AI” doesn’t work for online services – now there’s proof](https://algorithmwatch.org/en/story/explainable-ai-doesnt-work-for-online-services-now-theres-proof/) Algorithm Watch.
+* Arsany's code for FeGAN (Middleware paper) and MD-GAN (IPDPS paper) available [here](https://github.com/LPD-EPFL/FeGAN).
 * Juin 2020: participation à la task force "Régulation des GAFA / Transparence et audit des algorithmes" auprès de la Direction Générale des Entreprises (DGE).
 * Launched the [whosban.org](https://whosban.org) website, to check the *shadow banning* practice on Twitter.
 * Semestre [Supervision de systèmes dynamiques](https://semestres-cyber.inria.fr/supsec/).
@@ -118,6 +119,7 @@ Ayalvadi J. Ganesh, Anne-Marie Kermarrec, Erwan Le Merrer, Laurent Massoulié.
 
 ### Code
 
+* Arsany's code for FeGAN and MD-GAN available [here](https://github.com/LPD-EPFL/FeGAN).
 * Pushed [non-randomness computation for graphs](https://networkx.github.io/documentation/latest/reference/algorithms/generated/networkx.algorithms.non_randomness.non_randomness.html#networkx.algorithms.non_randomness.non_randomness), by Ying & Wu, in NetworkX 2.4.
 * zoNNscan code, for analysis of decision boundaries, [available here](https://github.com/technicolor-research/zoNNscan).
 * Second order centrality code now part of the [Networkx library](https://github.com/networkx/networkx/blob/master/networkx/algorithms/centrality/second_order.py), from [ComCom paper](http://homepages.laas.fr/gtredan/pdf/SOC_COMCOM2010.pdf).
