@@ -18,7 +18,7 @@ Démarrage rapide sur NetworkX [ici](https://networkx.github.io/documentation/st
 
 ## Etude d'un graphe réel
 
-[Le graphe Zachary Karate Club](http://konect.uni-koblenz.de/networks/ucidata-zachary)
+[Le graphe Zachary Karate Club](https://en.wikipedia.org/wiki/Zachary's_karate_club)
 
 * importez le graphe "karate club" dans G
 * affichez le; qu'est ce qu'un layout ? Essayez en plusieurs
