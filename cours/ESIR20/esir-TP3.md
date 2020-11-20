@@ -1,5 +1,5 @@
 # Cours "Network science" - Erwan Le Merrer
-# TP3 du 29/11/2019
+# TP3 du 20/11/2020
 
 [NetworkX](https://networkx.github.io/) et sa documentation [ici](https://networkx.github.io/documentation/stable/index.html).
 
