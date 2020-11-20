@@ -121,5 +121,14 @@ Sa documentation [ici](https://networkx.github.io/documentation/stable/index.htm
         cptr += len(walk('0','10',FB))
     print("Hitting time empirique: ", cptr/100)
 ```
+* créez un spanner de FB, dans le graphe FBS, avec un stretch de 10. Afficher le nombre d'arêtes de FBS, pour vérifier l'efficacité de l'algorithme de spanning
+ 
+
+* testez le hitting time moyen sur FBS maintenant. Quelle différence avec celui sur FB? Conclusion?
+
+
+* BONUS qu'est ce qu'un ensemble dominant ([dominating set](https://networkx.github.io/documentation/stable/reference/algorithms/approximation.html?highlight=dominating#module-networkx.algorithms.approximation.dominating_set))? En trouver un pour le Karate Club, puis afficher G avec ses noeuds dominants en rouge
+
+* BONUS: programmez l'équation de résiliance donnée dans le poly ;)
 
 Questions/commentaires: erwan.le-merrer@inria.fr
