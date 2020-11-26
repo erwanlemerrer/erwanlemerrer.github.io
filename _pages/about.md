@@ -26,7 +26,7 @@ I was a senior research scientist at Technicolor R&I (2009-2018), where I worked
 ### News
 
 * New article in Nature Machine Intelligence, do not trust remote AI explanations... [[Article link]](https://rdcu.be/b6qB4)
-  * press: [Do explanations for data-based predictions actually increase users' trust in AI?](https://techxplore.com/news/2020-10-explanations-data-based-users-ai.html) Tech Xplore.
+  * press: [Do explanations for data-based predictions actually increase users' trust in AI?](https://techxplore.com/news/2020-10-explanations-data-based-users-ai.html) Tech Xplore. Rebranded in [Techhq](https://techhq.com/2020/10/how-much-should-we-trust-explainable-ai/).
   * press: [De l’explicabilité des systèmes : les enjeux de l’explication des décisions automatisées](http://www.internetactu.net/2019/11/14/de-lexplicabilite-des-systemes-les-enjeux-de-lexplication-des-decisions-automatisees/) internetactu.net.
   * press: [Explainable AI” doesn’t work for online services – now there’s proof](https://algorithmwatch.org/en/story/explainable-ai-doesnt-work-for-online-services-now-theres-proof/) Algorithm Watch.
 * Arsany's code for FeGAN (Middleware paper) and MD-GAN (IPDPS paper) available [here](https://github.com/LPD-EPFL/FeGAN).
