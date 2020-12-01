@@ -40,6 +40,12 @@ I was a senior research scientist at Technicolor R&I (2009-2018), where I worked
 * Talk video about ["Decision boundaries & security related questions"](https://github.com/erwanlemerrer/erwanlemerrer.github.io/blob/master/files/presWSDL-LeMerrer.pdf) @ the [Deep Learning : from theory to applications workshop](https://www.lebesgue.fr/content/sem2018-deeplearning-program) in Sept. 2018 in Rennes: <a href="https://www.lebesgue.fr/video/2876" >VIDEO HERE</a>.
 * Second order centrality code now part of the [Networkx library](https://github.com/networkx/networkx/blob/master/networkx/algorithms/centrality/second_order.py) v2.2.
 
+### Under submission
+
+* _SurFree: a fast surrogate-free black-box attack_,
+Thibault Maho, Teddy Furon, Erwan Le Merrer.
+Preprint [[Arxiv 2020]](https://arxiv.org/abs/2011.12807).
+
 ### Recent publications
 
 * _Remote Explainability faces the bouncer problem_,
