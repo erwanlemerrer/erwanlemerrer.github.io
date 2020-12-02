@@ -44,7 +44,7 @@ I was a senior research scientist at Technicolor R&I (2009-2018), where I worked
 
 * _SurFree: a fast surrogate-free black-box attack_,
 Thibault Maho, Teddy Furon, Erwan Le Merrer.
-Preprint [[Arxiv 2020]](https://arxiv.org/abs/2011.12807).
+Preprint [[Arxiv 2020]](https://arxiv.org/abs/2011.12807), [[code]](https://github.com/t-maho/SurFree).
 
 ### Recent publications
 
@@ -125,6 +125,7 @@ Ayalvadi J. Ganesh, Anne-Marie Kermarrec, Erwan Le Merrer, Laurent Massoulié.
 
 ### Code
 
+* Thibault's code for SurFree, a surrogate free black-box adversarial attack, [[here]](https://github.com/t-maho/SurFree).
 * Arsany's code for FeGAN and MD-GAN available [here](https://github.com/LPD-EPFL/FeGAN).
 * Pushed [non-randomness computation for graphs](https://networkx.github.io/documentation/latest/reference/algorithms/generated/networkx.algorithms.non_randomness.non_randomness.html#networkx.algorithms.non_randomness.non_randomness), by Ying & Wu, in NetworkX 2.4.
 * zoNNscan code, for analysis of decision boundaries, [available here](https://github.com/technicolor-research/zoNNscan).
