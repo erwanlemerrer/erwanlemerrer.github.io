@@ -14,6 +14,3 @@
 * [TP4](https://github.com/erwanlemerrer/erwanlemerrer.github.io/blob/master/cours/ESIR20/esir-TP4.md) -> [corrigé](https://github.com/erwanlemerrer/erwanlemerrer.github.io/blob/master/cours/ESIR20/esir-TP4-correction.md)
 
 * [TP5](https://github.com/erwanlemerrer/erwanlemerrer.github.io/blob/master/cours/ESIR20/esir-TP5.md) -> [corrigé](https://github.com/erwanlemerrer/erwanlemerrer.github.io/blob/master/cours/ESIR20/esir-TP5-correction.md)
-
-* [TP6](https://github.com/erwanlemerrer/erwanlemerrer.github.io/blob/master/cours/ESIR20/esir-TP6.md) -> [corrigé](https://github.com/erwanlemerrer/erwanlemerrer.github.io/blob/master/cours/ESIR20/esir-TP6-correction.md)
-
