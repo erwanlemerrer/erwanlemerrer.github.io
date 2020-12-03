@@ -113,6 +113,33 @@ Propos principal: les mesures d'influence dans les graphes. Puis un modèle de p
 ```
 
 ## Propagation épidémique sur un graphe
-* une épidémie chez les personnages de GoT: programmez un modèle épidémique SIS simplifié (avec une seule variable delta et pas de boucles sur les états), en simulation pour ronde. Passez en par un statut booléen 'infected' sur chaque noeud. Affichez un tableau contenant l'état 'infected' des noeuds après chaque ronde
+* une épidémie chez les personnages de GoT: programmez un modèle épidémique SIS simplifié (avec une seule variable delta et pas de boucles sur les états), en simulation par ronde. Passez en par un statut booléen 'infected' sur chaque noeud. Affichez un tableau contenant l'état 'infected' des noeuds après chaque ronde
+
+```python
+    delta = 0.9
+    infecte = False
+    nx.set_node_attributes(GoT, infecte, 'infected')
+    
+    def infection_simulation(patient_zero,nb_rounds,delta,G):
+        GoT.nodes[patient_zero]['infected'] = True
+
+        for i in range(nb_rounds):
+            for i in GoT.nodes():
+                # infection des voisins
+                if(GoT.nodes[i]['infected']):
+                    for j in list(GoT.neighbors(i)):
+                        if random.random() < 1-delta: GoT.nodes[j]['infected'] = True
+                # guerison
+                if(GoT.nodes[i]['infected']):
+                    if random.random() < delta: GoT.nodes[j]['infected'] = False       
+        # end of round
+        return([GoT.nodes[x]['infected'] for x in GoT.nodes()])
+
+    # démarrez une infection à partir de 'Daryn-Hornwood' (ie, infected=True) (delta=0.9), combien d'infectés après 10 rounds?
+    print(sum(infection_simulation('Daryn-Hornwood',10,delta,GoT)))
+    
+    # même chose à partir de 'Eddard-Stark', combien d'infectés? Conclusion?
+    print(sum(infection_simulation('Eddard-Stark',10,delta,GoT)))
+```
 
 Questions/commentaires: erwan.le-merrer@inria.fr
