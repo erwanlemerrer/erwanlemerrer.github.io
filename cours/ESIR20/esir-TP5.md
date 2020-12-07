@@ -23,6 +23,6 @@ Propos principal: comparer de petits graphes.
 
 * comparez ces quantités à celles d'un graphe Barabasi-Albert comportant également 34 noeuds (eg, nx.barabasi\_albert_graph(34, 2)). Conclusion de similarité cohérente avec la comparaison d'autres caractéristiques des deux réseaux? (eg, shortest path et average clustering)
 
-* BONUS: regardez les "graph kernels" à base de marches aléatoires (eg, [ici](https://github.com/ysig/GraKeL/blob/master/grakel/kernels/random_walk.py)). (Ceux ci permettent une comparaison en temps polynomial, et donc de plus grand graphes)
+* BONUS: regardez les "graph kernels" à base de marches aléatoires (eg, [ici](https://github.com/ysig/GraKeL)). (Ceux ci permettent une comparaison en temps polynomial, et donc de plus grand graphes)
 
 Questions/commentaires: erwan.le-merrer@inria.fr
