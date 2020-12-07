@@ -3,7 +3,7 @@
 ### exam (QCM) le 10/12/20 @ 16h15
 
 ## Ressources
-* Slides cours courant: [poly](https://github.com/erwanlemerrer/erwanlemerrer.github.io/blob/master/cours/ESIR20/slides-c4.pdf)
+* Slides cours courant: [poly](https://github.com/erwanlemerrer/erwanlemerrer.github.io/blob/master/cours/ESIR20/slides-c5.pdf)
 
 * [TP1](https://github.com/erwanlemerrer/erwanlemerrer.github.io/blob/master/cours/ESIR20/esir-TP1.md) -> [corrigé](https://github.com/erwanlemerrer/erwanlemerrer.github.io/blob/master/cours/ESIR20/esir-TP1-correction.md)
 
