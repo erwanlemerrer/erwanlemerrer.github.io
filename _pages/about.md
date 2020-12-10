@@ -48,9 +48,13 @@ Preprint [[Arxiv 2020]](https://arxiv.org/abs/2011.12807), [[code]](https://gith
 
 ### Recent publications
 
+* _Setting the Record Straighter on Shadow Banning_,
+Erwan Le Merrer, Benoît Morgan, Gilles Trédan.
+In INFOCOM (2021). Preprint [[ArXiv preprint 2020]](https://arxiv.org/abs/2012.05101).
+
 * _Remote Explainability faces the bouncer problem_,
 Erwan Le Merrer, Gilles Trédan.
-In  Nat Mach Intell (2020). [[Nature article full access]](https://rdcu.be/b6qB4) [doi](https://doi.org/10.1038/s42256-020-0216-z).
+In Nature Machine Intelligence (2020). [[Nature article full access]](https://rdcu.be/b6qB4) [doi](https://doi.org/10.1038/s42256-020-0216-z).
 Preprint [[ArXiv preprint 2019]](https://arxiv.org/pdf/1910.01432.pdf).
 
 * _FeGAN: Scaling Distributed GANs_,
