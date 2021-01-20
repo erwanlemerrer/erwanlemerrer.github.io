@@ -51,6 +51,7 @@ Preprint [[Arxiv 2020]](https://arxiv.org/abs/2011.12807), [[code]](https://gith
 * _Setting the Record Straighter on Shadow Banning_,
 Erwan Le Merrer, Benoît Morgan, Gilles Trédan.
 In INFOCOM (2021). Preprint [[ArXiv preprint 2020]](https://arxiv.org/abs/2012.05101).
+  * press: [Exploring the underpinnings of shadowbanning on Twitter](https://techxplore.com/news/2021-01-exploring-underpinnings-shadowbanning-twitter.html) TechXplore.
 
 * _Remote Explainability faces the bouncer problem_,
 Erwan Le Merrer, Gilles Trédan.
