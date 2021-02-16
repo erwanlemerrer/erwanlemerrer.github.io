@@ -27,20 +27,15 @@ I was a senior research scientist at Technicolor R&I (2009-2018), where I worked
 
 * Talk at Forum Numerica jan'21: [The Bouncer and the Boundary: Modern Decision-Making Algorithms and Their Explanations](https://ds4h.univ-cotedazur.eu/research-and-labs/forum-numerica-seminar-series/forum-numerica-the-bouncer-and-the-boundary-modern-decision-marking-algorithms-and-their-explanations).
 * Papier accepted in INFOCOM 2021:  _Setting the Record Straighter on Shadow Banning_, about the shadow banning practices in Twitter.
+  * Launched the [whosban.org](https://whosban.org) website, to check how shadow banned you are on Twitter.
 * New article in Nature Machine Intelligence, do not trust remote AI explanations... [[Article link]](https://rdcu.be/b6qB4)
   * press: [Do explanations for data-based predictions actually increase users' trust in AI?](https://techxplore.com/news/2020-10-explanations-data-based-users-ai.html) Tech Xplore. Rebranded in [Techhq](https://techhq.com/2020/10/how-much-should-we-trust-explainable-ai/).
   * press: [De l’explicabilité des systèmes : les enjeux de l’explication des décisions automatisées](http://www.internetactu.net/2019/11/14/de-lexplicabilite-des-systemes-les-enjeux-de-lexplication-des-decisions-automatisees/) internetactu.net.
   * press: [Explainable AI” doesn’t work for online services – now there’s proof](https://algorithmwatch.org/en/story/explainable-ai-doesnt-work-for-online-services-now-theres-proof/) Algorithm Watch.
-* Arsany's code for FeGAN (Middleware paper) and MD-GAN (IPDPS paper) available [here](https://github.com/LPD-EPFL/FeGAN).
 * Juin 2020: participation à la task force "Régulation des GAFA / Transparence et audit des algorithmes" auprès de la Direction Générale des Entreprises (DGE).
-* Launched the [whosban.org](https://whosban.org) website, to check the *shadow banning* practice on Twitter.
 * Semestre [Supervision de systèmes dynamiques](https://semestres-cyber.inria.fr/supsec/).
 * Talk au [THCON20 @ Toulouse avec G. Trédan](https://www.youtube.com/watch?v=pW6gAhEGkSM). 
-* Joined the board of the [*Société Informatique de France*](https://www.societe-informatique-de-france.fr/).
-* Atelier "algorithmes en boite-noire", le [10 octobre 2019 à Lyon](http://atelier-blackbox.conf.citi-lab.fr/).
-* Article Emergences/Inria ["Plus de transparence pour les algorithmes de recommandation"](http://emergences.inria.fr/2019/newsletter-n56/l56-recommandations) par J-M Prima.
-* Talk video about ["Decision boundaries & security related questions"](https://github.com/erwanlemerrer/erwanlemerrer.github.io/blob/master/files/presWSDL-LeMerrer.pdf) @ the [Deep Learning : from theory to applications workshop](https://www.lebesgue.fr/content/sem2018-deeplearning-program) in Sept. 2018 in Rennes: <a href="https://www.lebesgue.fr/video/2876" >VIDEO HERE</a>.
-* Second order centrality code now part of the [Networkx library](https://github.com/networkx/networkx/blob/master/networkx/algorithms/centrality/second_order.py) v2.2.
+* Feb 2020: joined the board of the [*Société Informatique de France*](https://www.societe-informatique-de-france.fr/).
 
 ### Under submission
 
@@ -114,6 +109,10 @@ In ACM CSCW, 2017. [[preprint]](https://arxiv.org/pdf/1608.07481.pdf) [[editor]]
 
 ### Selected publications
 
+* _Remote Explainability faces the bouncer problem_,
+Erwan Le Merrer, Gilles Trédan.
+**Nature Machine Intelligence**, 2020.
+
 * _Adversarial Frontier Stitching for Remote Neural Network Watermarking_,
 Erwan Le Merrer, Patrick Perez, Gilles Trédan.
 **Neural Computing and Applications**, 2020.
@@ -130,10 +129,6 @@ Fabien André, Anne-Marie Kermarrec, Erwan Le Merrer, Nicolas Le Scouarnec, Gill
 Anne-Marie Kermarrec, Erwan Le Merrer, Bruno Sericola, Gilles Trédan.
 **Computer Communications**, 2011.
 
-* _Peer counting and sampling in overlay networks based on random walks_,
-Ayalvadi J. Ganesh, Anne-Marie Kermarrec, Erwan Le Merrer, Laurent Massoulié.
-**Distributed computing**, 2007.
-
 ### Code
 
 * Thibault's code for SurFree, a surrogate free black-box adversarial attack, [[here]](https://github.com/t-maho/SurFree).
@@ -148,6 +143,12 @@ Ayalvadi J. Ganesh, Anne-Marie Kermarrec, Erwan Le Merrer, Laurent Massoulié.
 * IEEE NCA 2017 best paper award, for paper "Distributed deep learning on edge-devices: feasibility via adaptive compression", with Corentin Hardy and Bruno Sericola.
 * Paper co-authors are awarded prize "La recherche 2015", for work on cold storage, from Eurosys 2014.
 * Prix “Bretagne jeune chercheur” 2011, mention spéciale.
+
+### Communication
+
+* Atelier "algorithmes en boite-noire", le [10 octobre 2019 à Lyon](http://atelier-blackbox.conf.citi-lab.fr/).
+* Article Emergences/Inria ["Plus de transparence pour les algorithmes de recommandation"](http://emergences.inria.fr/2019/newsletter-n56/l56-recommandations) par J-M Prima.
+* Talk video about ["Decision boundaries & security related questions"](https://github.com/erwanlemerrer/erwanlemerrer.github.io/blob/master/files/presWSDL-LeMerrer.pdf) @ the [Deep Learning : from theory to applications workshop](https://www.lebesgue.fr/content/sem2018-deeplearning-program) in Sept. 2018 in Rennes: <a href="https://www.lebesgue.fr/video/2876" >VIDEO HERE</a>.
 
 ### Service
 
