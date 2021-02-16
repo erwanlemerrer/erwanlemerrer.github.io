@@ -48,6 +48,10 @@ I was a senior research scientist at Technicolor R&I (2009-2018), where I worked
 Thibault Maho, Teddy Furon, Erwan Le Merrer.
 Preprint [[Arxiv 2020]](https://arxiv.org/abs/2011.12807), [[code]](https://github.com/t-maho/SurFree).
 
+* _RoBIC: A benchmark suite for assessing classifiers robustness_,
+Thibault Maho, Benoît Bonnet, Teddy Furon, Erwan Le Merrer.
+Preprint [[Arxiv 2021]](https://arxiv.org/abs/2102.05368), [[code]](https://gitlab.inria.fr/tmaho/robustness_benchmark).
+
 ### Recent publications
 
 * _Setting the Record Straighter on Shadow Banning_,
