@@ -18,15 +18,17 @@ since Nov. 2018, I am on an "advanced research position" at Inria, in the [WIDE 
 >triumphs everywhere, by its object position, over the subject of analysis."
 (Jean Baudrillard, Fatal Strategies.)
 
-My main current research activity is trying to disprove that quote, by studying [black-box algorithms](https://github.com/erwanlemerrer/blackbox-algorithms) in the context of recommender systems, neural-network models, or decision-making algorithms in general.
-I am also interested in algorithms for the distribution of machine learning (deep networks, GANs).
+My main current research activity is trying to disprove that quote, by studying [black-box algorithms](https://github.com/erwanlemerrer/blackbox-algorithms) in the context of recommender systems, neural-network models, or decision-making algorithms in general. I co-organized with Gilles and Antoine the workshop ["Algorithmes en Boite-Noire"](http://atelier-blackbox.conf.citi-lab.fr/), in a continuous attempt to link several research domains on this societal question.
+
+### Background
 
 I was a senior research scientist at Technicolor R&I (2009-2018), where I worked on scalable storage, processing and machine learning for data analytics and monitoring of home devices. I own a PhD on distributed systems from University of Rennes 1, and a background on peer-to-peer systems, and graph mining/algorithms. My Ph.D. thesis was financed by Orange Labs (where I stayed btw 2004-2007). I obtained my habilitation (HDR) on November 2016 from University of Rennes 1. I am the president and sysadmin of the gozdata association, that provides the gozmail service, built from free software.
 
 ### News
 
+* Paper accepted in CVPR 2021: _SurFree: a fast surrogate-free black-box attack_, presenting a fast (in number of queries) attack to find adversial examples.
 * Talk at Forum Numerica jan'21: [The Bouncer and the Boundary: Modern Decision-Making Algorithms and Their Explanations](https://ds4h.univ-cotedazur.eu/research-and-labs/forum-numerica-seminar-series/forum-numerica-the-bouncer-and-the-boundary-modern-decision-marking-algorithms-and-their-explanations).
-* Papier accepted in INFOCOM 2021:  _Setting the Record Straighter on Shadow Banning_, about the shadow banning practices in Twitter.
+* Paper accepted in INFOCOM 2021:  _Setting the Record Straighter on Shadow Banning_, about the shadow banning practices in Twitter.
   * Launched the [whosban.org](https://whosban.org) website, to check how shadow banned you are on Twitter.
 * New article in Nature Machine Intelligence, do not trust remote AI explanations... [[Article link]](https://rdcu.be/b6qB4)
   * press: [Do explanations for data-based predictions actually increase users' trust in AI?](https://techxplore.com/news/2020-10-explanations-data-based-users-ai.html) Tech Xplore. Rebranded in [Techhq](https://techhq.com/2020/10/how-much-should-we-trust-explainable-ai/).
@@ -39,15 +41,15 @@ I was a senior research scientist at Technicolor R&I (2009-2018), where I worked
 
 ### Under submission
 
-* _SurFree: a fast surrogate-free black-box attack_,
-Thibault Maho, Teddy Furon, Erwan Le Merrer.
-Preprint [[Arxiv 2020]](https://arxiv.org/abs/2011.12807), [[code]](https://github.com/t-maho/SurFree).
-
 * _RoBIC: A benchmark suite for assessing classifiers robustness_,
 Thibault Maho, Benoît Bonnet, Teddy Furon, Erwan Le Merrer.
 Preprint [[Arxiv 2021]](https://arxiv.org/abs/2102.05368), [[code]](https://gitlab.inria.fr/tmaho/robustness_benchmark).
 
 ### Recent publications
+
+* _SurFree: a fast surrogate-free black-box attack_,
+Thibault Maho, Teddy Furon, Erwan Le Merrer.
+In CVPR (2021). Preprint [[Arxiv 2020]](https://arxiv.org/abs/2011.12807), [[code]](https://github.com/t-maho/SurFree).
 
 * _Setting the Record Straighter on Shadow Banning_,
 Erwan Le Merrer, Benoît Morgan, Gilles Trédan.
