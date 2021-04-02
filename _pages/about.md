@@ -30,6 +30,8 @@ I was a senior research scientist at Technicolor R&I (2009-2018), where I worked
 * Talk at Forum Numerica jan'21: [The Bouncer and the Boundary: Modern Decision-Making Algorithms and Their Explanations](https://ds4h.univ-cotedazur.eu/research-and-labs/forum-numerica-seminar-series/forum-numerica-the-bouncer-and-the-boundary-modern-decision-marking-algorithms-and-their-explanations).
 * Paper accepted in INFOCOM 2021:  _Setting the Record Straighter on Shadow Banning_, about the shadow banning practices in Twitter.
   * Launched the [whosban.org](https://whosban.org) website, to check how shadow banned you are on Twitter.
+* Related to our black-box observations of YouTube recommendations
+  * (short) press: [Comment reprendre le contrôle sur l’algo : des tips utilisateurs à l’utopie algorithmique](https://ctrlzmag.com/comment-reprendre-le-controle-sur-lalgo-des-tips-utilisateurs-a-lutopie-algorithmique/) 
 * New article in Nature Machine Intelligence, do not trust remote AI explanations... [[Article link]](https://rdcu.be/b6qB4)
   * press: [Do explanations for data-based predictions actually increase users' trust in AI?](https://techxplore.com/news/2020-10-explanations-data-based-users-ai.html) Tech Xplore. Rebranded in [Techhq](https://techhq.com/2020/10/how-much-should-we-trust-explainable-ai/).
   * press: [De l’explicabilité des systèmes : les enjeux de l’explication des décisions automatisées](http://www.internetactu.net/2019/11/14/de-lexplicabilite-des-systemes-les-enjeux-de-lexplication-des-decisions-automatisees/) internetactu.net.
