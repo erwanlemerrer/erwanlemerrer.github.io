@@ -11,6 +11,15 @@ _Following opinions are solely mine. Toutes les opinions exprimées ici n'engage
 
 _"En examinant le statut actuel du savoir scientifique, on constate qu'alors même que ce dernier paraît plus subordonné que jamais aux puissances et qu'avec les nouvelles technologies il risque même de devenir l'un des principaux enjeux de leurs conflits, la question de la double légitimation, bien loin de s'estomper, ne peut manquer de se poser avec d'autant plus d'acuité. Car elle se pose sous la forme la plus complète, celle de la réversion, qui fait apparaître que savoir et pouvoir sont les deux faces d'une même question: qui décide ce qu’est savoir, et qui sait ce qu’il convient de décider ? La question du savoir à l’âge de l’informatique est plus que jamais une affaire de gouvernement."_ Lyotard, La condition postmoderne, 1979.
 
+_"L'invasion de notre pensée, comme de notre sensibilité, par des
+processus mécaniques est le fait décisif. Ce qui conduit d'un côté à
+un art que l'on peut qualifier de mécanique, susceptible de maîtriser
+la combinatoire ou d'explorer le champ des possibles défini par une
+originalité de base, d'un autre côté à un art de déflagration, de
+décompensation, qui exprime le malheur de l'homme hypnotisé, asservi
+par la Technique même qu'il croit dominer."_ Ellul, L'Empire du non-sens. L'art et la société technicienne, 1980.
+
+
 ## From Dead Hand to Flash Collapse: risky machine to machine chain reactions.
 ##### Erwan Le Merrer (elemerrer@acm.org), June 2020
 
