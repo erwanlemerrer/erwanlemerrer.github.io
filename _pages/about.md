@@ -30,7 +30,7 @@ I was a senior research scientist at Technicolor R&I (2009-2018), where I worked
 * Paper accepted in CVPR 2021: _SurFree: a fast surrogate-free black-box attack_, presenting a fast (in number of queries) attack to find adversial examples.
 * Talk at Forum Numerica jan'21: [The Bouncer and the Boundary: Modern Decision-Making Algorithms and Their Explanations](https://ds4h.univ-cotedazur.eu/research-and-labs/forum-numerica-seminar-series/forum-numerica-the-bouncer-and-the-boundary-modern-decision-marking-algorithms-and-their-explanations).
 * Paper accepted in INFOCOM 2021:  _Setting the Record Straighter on Shadow Banning_, about the shadow banning practices in Twitter.
-  * Launched the [whosban.org](https://whosban.org) website, to check how shadow banned you are on Twitter.
+  * Launched the [whosban.eu.org](https://whosban.eu.org) website, to check how shadow banned you are on Twitter.
 * Related to our black-box observations of YouTube recommendations
   * (short) press: [Comment reprendre le contrôle sur l’algo : des tips utilisateurs à l’utopie algorithmique](https://ctrlzmag.com/comment-reprendre-le-controle-sur-lalgo-des-tips-utilisateurs-a-lutopie-algorithmique/) 
 * New article in Nature Machine Intelligence, do not trust remote AI explanations... [[Article link]](https://rdcu.be/b6qB4)
