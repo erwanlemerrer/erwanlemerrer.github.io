@@ -27,6 +27,7 @@ I was a senior research scientist at Technicolor R&I (2009-2018), where I worked
 ### News
 
 * I am the PI of the Audita associate team, btw EPFL (SaCS team) and Inria (WIDE), starting in 2021.
+* I am at the scientific board of [REGALIA](https://www.inria.fr/fr/le-projet-pilote-regalia-au-service-de-la-regulation-des-algorithmes).
 * Paper accepted in CVPR 2021: _SurFree: a fast surrogate-free black-box attack_, presenting a fast (in number of queries) attack to find adversial examples.
 * Talk at Forum Numerica jan'21: [The Bouncer and the Boundary: Modern Decision-Making Algorithms and Their Explanations](https://ds4h.univ-cotedazur.eu/research-and-labs/forum-numerica-seminar-series/forum-numerica-the-bouncer-and-the-boundary-modern-decision-marking-algorithms-and-their-explanations).
 * Paper accepted in INFOCOM 2021:  _Setting the Record Straighter on Shadow Banning_, about the shadow banning practices in Twitter.
