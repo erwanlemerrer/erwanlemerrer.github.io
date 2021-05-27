@@ -19,6 +19,8 @@ originalité de base, d'un autre côté à un art de déflagration, de
 décompensation, qui exprime le malheur de l'homme hypnotisé, asservi
 par la Technique même qu'il croit dominer."_ Ellul, L'Empire du non-sens. L'art et la société technicienne, 1980.
 
+_"La logique de la recherche, c'est cet engregnage de problèmes dans lequel le chercheur est pris et qui l'entraîne, comme malgré lui. [...] Ce qu'on ne comprend pas en France, pays de l'essayisme, de l'originalité, de l'intelligence, c'est que la méthode et l'organisation collective du travail de recherche peuvent produire de l'intelligence, des engrenages de problèmes et de méthodes plus intelligents que les chercheurs. Être intelligent scientifiquement, c'est se mettre dans une situation génératrice de vrais problèmes, de vraies difficultés."_ Bourdieu, Questions de sociologie, 1980.
+
 
 ## From Dead Hand to Flash Collapse: risky machine to machine chain reactions.
 ##### Erwan Le Merrer (elemerrer@acm.org), June 2020
