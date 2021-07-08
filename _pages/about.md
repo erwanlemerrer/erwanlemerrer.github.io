@@ -20,40 +20,36 @@ since Nov. 2018, I am on an "advanced research position" at Inria, in the [WIDE 
 
 My main current research activity is trying to disprove that quote, by studying [black-box algorithms](https://github.com/erwanlemerrer/blackbox-algorithms) in the context of recommender systems, neural-network models, or decision-making algorithms in general. I co-organized with Gilles and Antoine the workshop ["Algorithmes en Boite-Noire"](http://atelier-blackbox.conf.citi-lab.fr/), in a continuous attempt to link several research domains on this societal question.
 
-### Background
-
-I was a senior research scientist at Technicolor R&I (2009-2018), where I worked on scalable storage, processing and machine learning for data analytics and monitoring of home devices. I own a PhD on distributed systems from University of Rennes 1, and a background on peer-to-peer systems, and graph mining/algorithms. My Ph.D. thesis was financed by Orange Labs (where I stayed btw 2004-2007). I obtained my habilitation (HDR) on November 2016 from University of Rennes 1. I am the president and sysadmin of the gozdata association, that provides the gozmail service, built from free software. I am a board member of the [Société Informatique de France](https://www.societe-informatique-de-france.fr/).
 
 ### News
 
+* Article ["Le problème du videur : la crédibilité des explications de l’IA en question"](https://interstices.info/le-probleme-du-videur-la-credibilite-des-explications-de-lia-en-question/) on interstices.info.
 * I am the PI of the Audita associate team, btw EPFL (SaCS team) and Inria (WIDE), starting in 2021.
 * I am at the scientific board of [REGALIA](https://www.inria.fr/fr/le-projet-pilote-regalia-au-service-de-la-regulation-des-algorithmes).
 * Paper accepted in CVPR 2021: _SurFree: a fast surrogate-free black-box attack_, presenting a fast (in number of queries) attack to find adversial examples.
-* Talk at Forum Numerica jan'21: [The Bouncer and the Boundary: Modern Decision-Making Algorithms and Their Explanations](https://ds4h.univ-cotedazur.eu/research-and-labs/forum-numerica-seminar-series/forum-numerica-the-bouncer-and-the-boundary-modern-decision-marking-algorithms-and-their-explanations).
 * Paper accepted in INFOCOM 2021:  _Setting the Record Straighter on Shadow Banning_, about the shadow banning practices in Twitter.
   * Launched the [whosban.eu.org](https://whosban.eu.org) website, to check how shadow banned you are on Twitter.
 * Related to our black-box observations of YouTube recommendations
   * (short) press: [Comment reprendre le contrôle sur l’algo : des tips utilisateurs à l’utopie algorithmique](https://ctrlzmag.com/comment-reprendre-le-controle-sur-lalgo-des-tips-utilisateurs-a-lutopie-algorithmique/) 
 * New article in Nature Machine Intelligence, do not trust remote AI explanations... [[Article link]](https://rdcu.be/b6qB4)
+  * pres: ["Le problème du videur : la crédibilité des explications de l’IA en question"](https://interstices.info/le-probleme-du-videur-la-credibilite-des-explications-de-lia-en-question/) sur interstices.info.
   * press: [Do explanations for data-based predictions actually increase users' trust in AI?](https://techxplore.com/news/2020-10-explanations-data-based-users-ai.html) Tech Xplore. Rebranded in [Techhq](https://techhq.com/2020/10/how-much-should-we-trust-explainable-ai/).
   * press: [De l’explicabilité des systèmes : les enjeux de l’explication des décisions automatisées](http://www.internetactu.net/2019/11/14/de-lexplicabilite-des-systemes-les-enjeux-de-lexplication-des-decisions-automatisees/) internetactu.net.
   * press: [Explainable AI” doesn’t work for online services – now there’s proof](https://algorithmwatch.org/en/story/explainable-ai-doesnt-work-for-online-services-now-theres-proof/) Algorithm Watch.
 * Juin 2020: participation à la task force "Régulation des GAFA / Transparence et audit des algorithmes" auprès de la Direction Générale des Entreprises (DGE).
 * Semestre [Supervision de systèmes dynamiques](https://semestres-cyber.inria.fr/supsec/).
-* Talk au [THCON20 @ Toulouse avec G. Trédan](https://www.youtube.com/watch?v=pW6gAhEGkSM). 
 * Feb 2020: joined the board of the [*Société Informatique de France*](https://www.societe-informatique-de-france.fr/).
 
-### Under submission
-
-* _RoBIC: A benchmark suite for assessing classifiers robustness_,
-Thibault Maho, Benoît Bonnet, Teddy Furon, Erwan Le Merrer.
-Preprint [[Arxiv 2021]](https://arxiv.org/abs/2102.05368), [[code]](https://gitlab.inria.fr/tmaho/robustness_benchmark).
 
 ### Recent publications
 
 * _SurFree: a fast surrogate-free black-box attack_,
 Thibault Maho, Teddy Furon, Erwan Le Merrer.
 In CVPR (2021). Preprint [[Arxiv 2020]](https://arxiv.org/abs/2011.12807), [[code]](https://github.com/t-maho/SurFree).
+
+* _RoBIC: A benchmark suite for assessing classifiers robustness_,
+Thibault Maho, Benoît Bonnet, Teddy Furon, Erwan Le Merrer.
+In ICIP (2021) Preprint [[Arxiv 2021]](https://arxiv.org/abs/2102.05368), [[code]](https://gitlab.inria.fr/tmaho/robustness_benchmark).
 
 * _Setting the Record Straighter on Shadow Banning_,
 Erwan Le Merrer, Benoît Morgan, Gilles Trédan.
@@ -144,7 +140,12 @@ Anne-Marie Kermarrec, Erwan Le Merrer, Bruno Sericola, Gilles Trédan.
 * Second order centrality code now part of the [Networkx library](https://github.com/networkx/networkx/blob/master/networkx/algorithms/centrality/second_order.py), from [ComCom paper](http://homepages.laas.fr/gtredan/pdf/SOC_COMCOM2010.pdf).
 * Corentin's code for distributed deep learning (NCA best paper) [here](https://github.com/Hardy-c/AdaComp) and for random neural layers [here](https://github.com/Hardy-c/DNN-with-RNL).
 
-### Awards
+
+### Background
+
+I was a senior research scientist at Technicolor R&I (2009-2018), where I worked on scalable storage, processing and machine learning for data analytics and monitoring of home devices. I own a PhD on distributed systems from University of Rennes 1, and a background on peer-to-peer systems, and graph mining/algorithms. My Ph.D. thesis was financed by Orange Labs (where I stayed btw 2004-2007). I obtained my habilitation (HDR) on November 2016 from University of Rennes 1. I am the president and sysadmin of the gozdata association, that provides the gozmail service, built from free software. I am a board member of the [Société Informatique de France](https://www.societe-informatique-de-france.fr/).
+
+#### Awards
 
 * IEEE NCA 2017 best paper award, for paper "Distributed deep learning on edge-devices: feasibility via adaptive compression", with Corentin Hardy and Bruno Sericola.
 * Paper co-authors are awarded prize "La recherche 2015", for work on cold storage, from Eurosys 2014.
@@ -152,6 +153,8 @@ Anne-Marie Kermarrec, Erwan Le Merrer, Bruno Sericola, Gilles Trédan.
 
 ### Communication
 
+* Talk at Forum Numerica jan'21: [The Bouncer and the Boundary: Modern Decision-Making Algorithms and Their Explanations](https://ds4h.univ-cotedazur.eu/research-and-labs/forum-numerica-seminar-series/forum-numerica-the-bouncer-and-the-boundary-modern-decision-marking-algorithms-and-their-explanations).
+* Talk au [THCON20 @ Toulouse avec G. Trédan](https://www.youtube.com/watch?v=pW6gAhEGkSM). 
 * Atelier "algorithmes en boite-noire", le [10 octobre 2019 à Lyon](http://atelier-blackbox.conf.citi-lab.fr/).
 * Article Emergences/Inria ["Plus de transparence pour les algorithmes de recommandation"](http://emergences.inria.fr/2019/newsletter-n56/l56-recommandations) par J-M Prima.
 * Talk video about ["Decision boundaries & security related questions"](https://github.com/erwanlemerrer/erwanlemerrer.github.io/blob/master/files/presWSDL-LeMerrer.pdf) @ the [Deep Learning : from theory to applications workshop](https://www.lebesgue.fr/content/sem2018-deeplearning-program) in Sept. 2018 in Rennes: <a href="https://www.lebesgue.fr/video/2876" >VIDEO HERE</a>.
