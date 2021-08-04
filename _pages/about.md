@@ -58,8 +58,7 @@ In INFOCOM (2021). Preprint [[ArXiv preprint 2020]](https://arxiv.org/abs/2012.0
 
 * _Remote Explainability faces the bouncer problem_,
 Erwan Le Merrer, Gilles Trédan.
-In Nature Machine Intelligence (2020). [[Nature article full access]](https://rdcu.be/b6qB4) [doi](https://doi.org/10.1038/s42256-020-0216-z) [[citation]](https://github.com/erwanlemerrer/erwanlemerrer.github.io/blob/master/files/citations/LMT20-nat.bib).
-Preprint [[ArXiv preprint 2019]](https://arxiv.org/pdf/1910.01432.pdf).
+In Nature Machine Intelligence (2020). [Paper PDF](https://raw.githubusercontent.com/erwanlemerrer/erwanlemerrer.github.io/master/files/LeMerrer_et_al-2020-Nature_Machine_Intelligence.pdf) [doi](https://doi.org/10.1038/s42256-020-0216-z) [[citation]](https://github.com/erwanlemerrer/erwanlemerrer.github.io/blob/master/files/citations/LMT20-nat.bib).
 
 * _FeGAN: Scaling Distributed GANs_,
 Rachid Guerraoui, Arsany Guirguis, Anne-Marie Kermarrec, Erwan Le Merrer.
