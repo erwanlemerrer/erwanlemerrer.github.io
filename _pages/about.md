@@ -36,6 +36,7 @@ My main current research activity is trying to disprove that quote, by studying 
   * press: [Do explanations for data-based predictions actually increase users' trust in AI?](https://techxplore.com/news/2020-10-explanations-data-based-users-ai.html) Tech Xplore. Rebranded in [Techhq](https://techhq.com/2020/10/how-much-should-we-trust-explainable-ai/).
   * press: [De l’explicabilité des systèmes : les enjeux de l’explication des décisions automatisées](http://www.internetactu.net/2019/11/14/de-lexplicabilite-des-systemes-les-enjeux-de-lexplication-des-decisions-automatisees/) internetactu.net.
   * press: [Explainable AI” doesn’t work for online services – now there’s proof](https://algorithmwatch.org/en/story/explainable-ai-doesnt-work-for-online-services-now-theres-proof/) Algorithm Watch.
+  * press: [It’s Too Easy to Hide Bias in Deep-Learning Systems](https://spectrum.ieee.org/its-too-easy-to-hide-bias-in-deeplearning-systems) IEEE spectrum.
 * Juin 2020: participation à la task force "Régulation des GAFA / Transparence et audit des algorithmes" auprès de la Direction Générale des Entreprises (DGE).
 * Semestre [Supervision de systèmes dynamiques](https://semestres-cyber.inria.fr/supsec/).
 * Feb 2020: joined the board of the [*Société Informatique de France*](https://www.societe-informatique-de-france.fr/).
