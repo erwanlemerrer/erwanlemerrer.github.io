@@ -54,7 +54,7 @@ In ICIP (2021) Preprint [[Arxiv 2021]](https://arxiv.org/abs/2102.05368), [[code
 
 * _Setting the Record Straighter on Shadow Banning_,
 Erwan Le Merrer, Benoît Morgan, Gilles Trédan.
-In INFOCOM (2021). Preprint [[ArXiv preprint 2020]](https://arxiv.org/abs/2012.05101).
+In INFOCOM (2021). [[IEEE link]](https://ieeexplore.ieee.org/document/9488792) [[ArXiv preprint 2020]](https://arxiv.org/abs/2012.05101).
   * press: [Exploring the underpinnings of shadowbanning on Twitter](https://techxplore.com/news/2021-01-exploring-underpinnings-shadowbanning-twitter.html) TechXplore.
 
 * _Remote Explainability faces the bouncer problem_,
