@@ -28,17 +28,13 @@ G = nx.DiGraph()
 ```python
     print(G.out_degree(0))
 ```
-* affichez le nombre de noeuds, puis le nombre d'arêtes de G
 
-```python
-**************************************************************************** BUG
-```
 * vérifiez que l'arête (0, 3) n'existe pas, grâce à la fonction appropriée
 
 ```python
     print(G.has_edge(0, 3))
-
 ```
+
 * inversez la direction des arêtes de G
 
 ```python
@@ -101,10 +97,8 @@ G = nx.DiGraph()
 ```
 * affichez le coefficient de clustering moyen de G
 
-**************************************************************************** BUG
-
 ```python
-    print("Indiv. clustering coefficients: ", str(nx.clustering(G)[4]))
+    print("Average clustering coefficient: ", nx.average_clustering(G))
 ```
 * affichez le diamètre de G
 
