@@ -1,5 +1,5 @@
 # Cours "Network science" - Erwan Le Merrer
-# TP1 du 25/11/2019
+# TD1 du 13/11/2021
 
 Nous utiliserons [NetworkX](https://networkx.github.io/) pour la manipulation des concepts abordés dans le poly.
 La documentation est disponible [ici](https://networkx.github.io/documentation/stable/index.html).
