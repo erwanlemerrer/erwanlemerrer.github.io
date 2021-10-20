@@ -1,5 +1,7 @@
 # Cours Network Science (erwan.le-merrer@inria.fr)
 
+http://shorturl.at/dvEUW
+
 ## Ressources
 * Slides cours courant: [poly](https://github.com/erwanlemerrer/erwanlemerrer.github.io/blob/master/files/cours/slides-c2.pdf)
 
