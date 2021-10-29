@@ -1,13 +1,3 @@
----
-permalink: /
-#title: "Erwan Le Merrer"
-excerpt: "Various info"
-author_profile: true
-redirect_from: 
-  - /info/
-  - /info.html
----
-
 
 #### Awards
 
