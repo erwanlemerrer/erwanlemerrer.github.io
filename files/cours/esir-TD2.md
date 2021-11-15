@@ -35,17 +35,4 @@
 
 * empiriquement le "hitting time" est la cardinalité du chemin (retourné dans l'exercice précédent). Pour 100 essais, quel est le hitting time moyen sur FB entre les noeuds '0' et '10'?
 
-* créez un spanner de FB, dans le graphe FBS, avec un stretch de 10. Afficher le nombre d'arêtes de FBS, pour vérifier l'efficacité de l'algorithme de spanning
- 
-* testez le hitting time moyen sur FBS maintenant. Quelle différence avec celui sur FB? Conclusion?
-
-
-## Retour sur le graphe karate club!
-    
-* programmez le modèle épidémique SIS simplifié (avec une seule variable delta et pas de boucles), en simulation pour ronde, sur le graphe karate club, placé dans G. Affichez un tableau contenant l'état 'infecte' des noeuds après chaque ronde
-
-* BONUS qu'est ce qu'un ensemble dominant ([dominating set](https://networkx.github.io/documentation/stable/reference/algorithms/approximation.html?highlight=dominating#module-networkx.algorithms.approximation.dominating_set))? En trouver un pour G, puis afficher G avec ses noeuds dominants en rouge
-
-* BONUS: programmez l'équation de résiliance donnée dans le poly ;)
-
 Questions/commentaires: erwan.le-merrer@inria.fr
