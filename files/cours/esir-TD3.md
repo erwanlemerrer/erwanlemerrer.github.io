@@ -41,12 +41,4 @@ Propos principal: les mesures d'influence dans les graphes. Puis un modèle de p
 
 * tester si le sampling à base de marches aléatoires pour détecter les attaques (cf poly) classe les noeuds qui ont servi à l'attaque parmi les plus probablement "faux" de G (ie, quid de leur fréquence d'échantillonnage? Afficher le sampling rate pour 1000 marches aléatoires partant chacune d'un noeud aléatoire de G
 
-## Propagation épidémique sur un graphe
-* une épidémie chez les personnages de GoT: programmez un modèle épidémique SIS simplifié (avec une seule variable delta et pas de boucles sur les états), en simulation pour ronde. Passez en par un statut booléen 'infected' sur chaque noeud. Affichez un tableau contenant l'état 'infected' des noeuds après chaque ronde
-
-* démarrez une infection à partir de 'Daryn-Hornwood' (ie, infected=True) (delta=0.9), combien d'infectés après 10 rounds?
-
-* même chose à partir de 'Eddard-Stark' (le noeud le plus central d'après les 4 centralités étudiées), combien d'infectés? Conclusion?
-
-
 Questions/commentaires: erwan.le-merrer@inria.fr
