@@ -95,7 +95,7 @@ https://github.com/GiulioRossetti/ndlib/blob/master/ndlib/models/epidemics/SISMo
 ```python
     from networkx.algorithms import community
     parts = list(community.greedy_modularity_communities(GoT))
-    print("Number of communities detected: ", len(parts)) # 187, ie, all in it !!!
+    print("Number of communities detected: ", len(sorted(parts[0]))) # 187, ie, all in the first partition: does not work
 ```
 * utilisez le pour créer un partitionnement en 10 communautés
  
