@@ -13,7 +13,7 @@ La matrice d'adjacence qui change dans le temps:
 
 * utilisez cette fonction pour générer des matrices d'adjacence, en les transformant en graphe à chaque appel, avec nx.from_numpy_array(matrix). Affichez successivement plusieurs des graphes ainsi créés.
 
-* le paquet part du noeud 0, et doit atteindre le noeud 99, par sélection aléatoire d'un voisin du noeud courant à chaque étape. Ecrire la fonction implémentant cela, qui prend en paramètre le noeud de départ du paquet, le noeud destinataire, et le nombre de noeuds dans le graphe.
+* le paquet part du noeud 0, et doit atteindre le noeud 99, par sélection d'un voisin d'ID supérieur noeud courant à chaque étape, s'il existe. Ecrire la fonction implémentant cela, qui prend en paramètre le noeud de départ du paquet, le noeud destinataire, et le nombre de noeuds dans le graphe.
 
 * affichez une réalisation de ce voyage du paquet. Quelle est l'espérance empirique de l'atteinte du destinataire par ce paquet?
 
