@@ -15,7 +15,7 @@ La matrice d'adjacence qui change dans le temps:
 
 * le paquet part du noeud 0, et doit atteindre le noeud 99, par sélection d'un voisin d'ID supérieur noeud courant à chaque étape, s'il existe. Ecrire la fonction implémentant cela, qui prend en paramètre le noeud de départ du paquet, le noeud destinataire, et le nombre de noeuds dans le graphe.
 
-* affichez une réalisation de ce voyage du paquet. Quelle est l'espérance empirique de l'atteinte du destinataire par ce paquet?
+* Afficher une réalisation de ce voyage du paquet. Quelle est l'espérance empirique du temps t d'atteinte du destinataire par ce paquet?
 
 * nous allons créer la fonction "présence". Générez 100 graphes successifs (ie, t0 à t99) dans un tableau, puis écrivez une fonction de présence retournant True ou False sur la présence d'une arête particulière à un instant t donné en paramètre.
 
