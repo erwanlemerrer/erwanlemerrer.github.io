@@ -35,6 +35,7 @@ _"La logique de la recherche, c'est cet engregnage de problèmes dans lequel le 
 
 #### Notes for later...
 * [Making the Right Move to Senior Researcher: some challenges and hints](https://hal-lirmm.ccsd.cnrs.fr/lirmm-03240377/file/Valduriez-sigrec-2021.pdf)
+* [Comprehensive Python Cheatsheet](https://gto76.github.io/python-cheatsheet/)
 
 ## From Dead Hand to Flash Collapse: risky machine to machine chain reactions.
 ##### Erwan Le Merrer (elemerrer@acm.org), June 2020
