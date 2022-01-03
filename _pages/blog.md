@@ -33,6 +33,7 @@ _"La logique de la recherche, c'est cet engregnage de problèmes dans lequel le 
 ##### Where to shoot
 * [Top Computer Science Conferences ](https://research.com/conference-rankings/computer-science)
 * [Conference Ranks](http://www.conferenceranks.com/)
+* Conference acceptance rates: [here](https://sites.cs.ucsb.edu/~almeroth/conf/stats/), [here](https://www.lamsade.dauphine.fr/~sikora/ratio/confs.php) and [here](https://www.lamsade.dauphine.fr/~sikora/ratio/confs.php)
 
 ##### Data + compute
 * [Public APIs](https://github.com/public-apis/public-apis)
