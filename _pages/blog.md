@@ -26,6 +26,7 @@ _"La logique de la recherche, c'est cet engregnage de problèmes dans lequel le 
 #### Ph.D. thesis
 ##### Common advice
 
+* for a thesis [funding @irisa](http://www.irisa.fr/en/funding-thesis)
 * [Lessons from my PhD](https://web.eecs.utk.edu/~azh/blog/lessonsfrommyphd.html)
 * To get acquainted with community habits [Best Paper Awards in Computer Science](https://jeffhuang.com/best_paper_awards/)
 
