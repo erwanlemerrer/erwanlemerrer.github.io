@@ -34,7 +34,15 @@ _"La logique de la recherche, c'est cet engregnage de problèmes dans lequel le 
 * [Top Computer Science Conferences ](https://research.com/conference-rankings/computer-science)
 * [Conference Ranks](http://www.conferenceranks.com/)
 
-#### Notes for later...
+##### Data + compute
+* [Public APIs](https://github.com/public-apis/public-apis)
+* Getting [started with grid5000](https://www.grid5000.fr/w/Getting_Started)
+
+#### Drafts and books
+* [Learning Theory from First Principles, by F. Bach](https://www.di.ens.fr/~fbach/ltfp_book.pdf)
+* [Networks, Crowds, and Markets: Reasoning about a Highly Connected World](https://www.cs.cornell.edu/home/kleinber/networks-book/networks-book.pdf)
+
+#### Various
 * [Making the Right Move to Senior Researcher: some challenges and hints](https://hal-lirmm.ccsd.cnrs.fr/lirmm-03240377/file/Valduriez-sigrec-2021.pdf)
 * [Comprehensive Python Cheatsheet](https://gto76.github.io/python-cheatsheet/)
 
