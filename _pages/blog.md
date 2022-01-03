@@ -21,6 +21,20 @@ par la Technique même qu'il croit dominer."_ Ellul, L'Empire du non-sens. L'art
 
 _"La logique de la recherche, c'est cet engregnage de problèmes dans lequel le chercheur est pris et qui l'entraîne, comme malgré lui. [...] Ce qu'on ne comprend pas en France, pays de l'essayisme, de l'originalité, de l'intelligence, c'est que la méthode et l'organisation collective du travail de recherche peuvent produire de l'intelligence, des engrenages de problèmes et de méthodes plus intelligents que les chercheurs. Être intelligent scientifiquement, c'est se mettre dans une situation génératrice de vrais problèmes, de vraies difficultés."_ Bourdieu, Questions de sociologie, 1980.
 
+## Good links
+
+#### Ph.D. thesis
+##### Common advice
+
+* [Lessons from my PhD](https://web.eecs.utk.edu/~azh/blog/lessonsfrommyphd.html)
+* To get acquainted with community habits [Best Paper Awards in Computer Science](https://jeffhuang.com/best_paper_awards/)
+
+##### Where to shoot
+* [Top Computer Science Conferences ](https://research.com/conference-rankings/computer-science)
+* [Conference Ranks](http://www.conferenceranks.com/)
+
+#### Notes for later...
+* [Making the Right Move to Senior Researcher: some challenges and hints](https://hal-lirmm.ccsd.cnrs.fr/lirmm-03240377/file/Valduriez-sigrec-2021.pdf)
 
 ## From Dead Hand to Flash Collapse: risky machine to machine chain reactions.
 ##### Erwan Le Merrer (elemerrer@acm.org), June 2020
