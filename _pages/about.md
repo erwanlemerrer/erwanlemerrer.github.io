@@ -85,5 +85,6 @@ Erwan Le Merrer, Patrick Perez, Gilles Trédan.
 In Neural Comput & Applic 32, 9233–9244 (2020). [[editor]](https://link.springer.com/article/10.1007/s00521-019-04434-z)  [[preprint]](https://arxiv.org/abs/1711.01894) [[citation]](https://link.springer.com/article/10.1007/s00521-019-04434-z.ris) 
 
 
+*Profile photo © Inria / Photo B. Fourrier*
 
    [.](https://annuel.framapad.org/p/erwan-wishlist-livres)
