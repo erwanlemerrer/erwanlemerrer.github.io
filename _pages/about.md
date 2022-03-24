@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am on a researcher position at Inria, in the [WIDE team](https://team.inria.fr/wide/team/). 
+I am on a researcher position at Inria (Rennes), in the [WIDE team](https://team.inria.fr/wide/team/). 
 
 >"Maybe, not content to be alienated by observation, maybe does the
 >object deceive us? Maybe it invented original answers, and not only
@@ -20,22 +20,17 @@ I am on a researcher position at Inria, in the [WIDE team](https://team.inria.fr
 
 My main current research activity is trying to disprove that quote, by studying [black-box algorithms](https://github.com/erwanlemerrer/blackbox-algorithms) in the context of recommender systems, neural-network models, or decision-making algorithms in general. I co-organized with Gilles and Antoine the workshop ["Algorithmes en Boite-Noire"](http://atelier-blackbox.conf.citi-lab.fr/), in a continuous attempt to link several research domains on this societal question.
 
-
-### Background
-
-I was a senior research scientist at Technicolor R&I (2009-2018), where I worked on scalable storage, processing and machine learning for data analytics. I own a PhD on distributed systems from University of Rennes 1, and a background on peer-to-peer systems, and graph mining/algorithms. My Ph.D. thesis was financed by Orange Labs (where I stayed btw 2004-2007). I obtained my habilitation (HDR) on November 2016 from University of Rennes 1. I am the president and sysadmin of the gozdata association, that provides the gozmail service, built from free software. I am a board member of the [Société Informatique de France](https://www.societe-informatique-de-france.fr/).
-
-
 ### News
 
+* Launched the [Elections 2022 sur YouTube](https://elections.whosban.eu.org) website, to observe the presence of candidates in recommendations.
 * I am co-chair of Eurosys workshops in Rennes in 2022.
 * Article ["Le problème du videur : la crédibilité des explications de l’IA en question"](https://interstices.info/le-probleme-du-videur-la-credibilite-des-explications-de-lia-en-question/) on interstices.info.
 * I am the PI of the Audita associate team, btw EPFL (SaCS team) and Inria (WIDE), starting in 2021.
 * I am at the scientific board of [REGALIA](https://www.inria.fr/fr/le-projet-pilote-regalia-au-service-de-la-regulation-des-algorithmes).
 * Paper accepted in CVPR 2021: _SurFree: a fast surrogate-free black-box attack_, presenting a fast (in number of queries) attack to find adversial examples.
 * Paper accepted in INFOCOM 2021:  _Setting the Record Straighter on Shadow Banning_, about the shadow banning practices in Twitter.
-  * Launched the [whosban.eu.org](https://whosban.eu.org) website, to check how shadow banned you are on Twitter.
   * Paper cited as an evidence in a question to the European parliament ["Censorship and free market restrictions including shadow banning and concealment or suppression of organic search results on internet"](https://www.europarl.europa.eu/doceo/document/E-9-2021-001037_EN.html).
+  * press: [Exploring the underpinnings of shadowbanning on Twitter](https://techxplore.com/news/2021-01-exploring-underpinnings-shadowbanning-twitter.html) TechXplore.
 * Related to our black-box observations of YouTube recommendations
   * (short) press: [Comment reprendre le contrôle sur l’algo : des tips utilisateurs à l’utopie algorithmique](https://ctrlzmag.com/comment-reprendre-le-controle-sur-lalgo-des-tips-utilisateurs-a-lutopie-algorithmique/) 
 * New article in Nature Machine Intelligence, do not trust remote AI explanations... [[Article link]](https://rdcu.be/b6qB4)
@@ -49,7 +44,7 @@ I was a senior research scientist at Technicolor R&I (2009-2018), where I worked
 * Feb 2020: joined the board of the [*Société Informatique de France*](https://www.societe-informatique-de-france.fr/).
 
 
-### Recent publications
+### Recent publications (others in e.g., scholar)
 
 * _SurFree: a fast surrogate-free black-box attack_,
 Thibault Maho, Teddy Furon, Erwan Le Merrer.
@@ -62,7 +57,6 @@ In ICIP (2021) Preprint [[Arxiv 2021]](https://arxiv.org/abs/2102.05368), [[code
 * _Setting the Record Straighter on Shadow Banning_,
 Erwan Le Merrer, Benoît Morgan, Gilles Trédan.
 In INFOCOM (2021). [[IEEE link]](https://ieeexplore.ieee.org/document/9488792) [[ArXiv preprint 2020]](https://arxiv.org/abs/2012.05101).
-  * press: [Exploring the underpinnings of shadowbanning on Twitter](https://techxplore.com/news/2021-01-exploring-underpinnings-shadowbanning-twitter.html) TechXplore.
 
 * _Remote Explainability faces the bouncer problem_,
 Erwan Le Merrer, Gilles Trédan.
@@ -84,6 +78,9 @@ In Monte Carlo Search workshop (MCS) @ IJCAI 2020 [[ArXiv preprint 2018]](https:
 Erwan Le Merrer, Patrick Perez, Gilles Trédan.
 In Neural Comput & Applic 32, 9233–9244 (2020). [[editor]](https://link.springer.com/article/10.1007/s00521-019-04434-z)  [[preprint]](https://arxiv.org/abs/1711.01894) [[citation]](https://link.springer.com/article/10.1007/s00521-019-04434-z.ris) 
 
+### Background
+
+I was a senior research scientist at Technicolor R&I (2009-2018), where I worked on scalable storage, processing and machine learning for data analytics. I joined Inria in 2018, an on a permanent researcher position in 2021. I obtained my habilitation (HDR) on November 2016 from University of Rennes 1. I am the president and on of the sysadmins of the gozdata association, that provides the gozmail service, built from free software. I am a board member of the [Société Informatique de France](https://www.societe-informatique-de-france.fr/).
 
 *Profile photo © Inria / Photo B. Fourrier*
 
