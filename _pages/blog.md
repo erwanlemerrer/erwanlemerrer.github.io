@@ -11,6 +11,7 @@ _Following opinions are solely mine. Toutes les opinions exprimées ici n'engage
 
 #### Googd Reads
 * [The tech industry controls CS conference funding. What are the dangers?](https://freedom-to-tinker.com/2022/03/11/the-tech-industry-controls-cs-conference-funding-what-are-the-dangers/)
+* [The Grey Hoodie Project: Big Tobacco, Big Tech, and the Threat on Academic Integrity](https://arxiv.org/pdf/2009.13676.pdf)
 
 #### Ph.D. thesis
 ##### Common advice
