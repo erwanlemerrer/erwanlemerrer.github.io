@@ -23,6 +23,8 @@ My main current research activity is trying to disprove that quote, by studying 
 ### News
 
 * Launched the [Elections 2022 sur YouTube](https://elections.whosban.eu.org) website, to observe the presence of candidates in recommendations.
+  * [Pre-print of the general approach to automate measurement, and to measure the "rabbit hole" effect of recommendations.](https://hal.inria.fr/hal-03620039v1)
+  * [Interview (in French) by Le Media TV on YouTube](https://www.youtube.com/watch?v=ZOEJNJr79r8&t=2683s).
 * I am co-chair of Eurosys workshops in Rennes in 2022.
 * Article ["Le problème du videur : la crédibilité des explications de l’IA en question"](https://interstices.info/le-probleme-du-videur-la-credibilite-des-explications-de-lia-en-question/) on interstices.info.
 * I am the PI of the Audita associate team, btw EPFL (SaCS team) and Inria (WIDE), starting in 2021.
