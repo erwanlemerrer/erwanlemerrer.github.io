@@ -33,6 +33,7 @@ _Following opinions are solely mine. Toutes les opinions exprimées ici n'engage
 #### Drafts and books
 * [Learning Theory from First Principles, by F. Bach](https://www.di.ens.fr/~fbach/ltfp_book.pdf)
 * [Networks, Crowds, and Markets: Reasoning about a Highly Connected World](https://www.cs.cornell.edu/home/kleinber/networks-book/networks-book.pdf)
+* [Algorithms for Decision Making](https://algorithmsbook.com/files/dm.pdf)
 
 #### Various
 * [Awesome research tools](https://github.com/emptymalei/awesome-research#academic)
