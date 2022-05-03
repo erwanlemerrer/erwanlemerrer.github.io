@@ -23,7 +23,8 @@ My main current research activity is trying to disprove that quote, by studying 
 ### News
 
 * Launched the [Elections 2022 sur YouTube](https://elections.whosban.eu.org) website, to observe the presence of candidates in recommendations.
-  * [Pre-print of the general approach to automate measurement, and to measure the "rabbit hole" effect of recommendations.](https://hal.inria.fr/hal-03620039v1)
+  * [YouTube Recommendations Do Predict Polls: A note on the 2022 French presidential election ](https://hal.inria.fr/hal-03655608v1).
+  * [Pre-print of the general approach to automate measurement, and to measure the "rabbit hole" effect of recommendations.](https://hal.inria.fr/hal-03620039v1).
   * [Interview (in French) by Le Media TV on YouTube](https://www.youtube.com/watch?v=ZOEJNJr79r8&t=2683s).
 * I am co-chair of Eurosys workshops in Rennes in 2022.
 * Article ["Le problème du videur : la crédibilité des explications de l’IA en question"](https://interstices.info/le-probleme-du-videur-la-credibilite-des-explications-de-lia-en-question/) on interstices.info.
@@ -31,6 +32,7 @@ My main current research activity is trying to disprove that quote, by studying 
 * I am at the scientific board of [REGALIA](https://www.inria.fr/fr/le-projet-pilote-regalia-au-service-de-la-regulation-des-algorithmes).
 * Paper accepted in CVPR 2021: _SurFree: a fast surrogate-free black-box attack_, presenting a fast (in number of queries) attack to find adversial examples.
 * Paper accepted in INFOCOM 2021:  _Setting the Record Straighter on Shadow Banning_, about the shadow banning practices in Twitter.
+  * Well mentioned in a The Atlantic paper on the topic: [Shadowbanning Is Big Tech’s Big Problem](https://www.theatlantic.com/technology/archive/2022/04/social-media-shadowbans-tiktok-twitter/629702/).
   * Paper cited as an evidence in a question to the European parliament ["Censorship and free market restrictions including shadow banning and concealment or suppression of organic search results on internet"](https://www.europarl.europa.eu/doceo/document/E-9-2021-001037_EN.html).
   * press: [Exploring the underpinnings of shadowbanning on Twitter](https://techxplore.com/news/2021-01-exploring-underpinnings-shadowbanning-twitter.html) TechXplore.
 * Related to our black-box observations of YouTube recommendations
