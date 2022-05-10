@@ -18,13 +18,16 @@ I am on a researcher position at Inria (Rennes), in the [WIDE team](https://team
 >triumphs everywhere, by its object position, over the subject of analysis."
 (Jean Baudrillard, Fatal Strategies.)
 
-My main current research activity is trying to disprove that quote, by studying [black-box algorithms](https://github.com/erwanlemerrer/blackbox-algorithms) in the context of recommender systems, neural-network models, or decision-making algorithms in general. I co-organized with Gilles and Antoine the workshop ["Algorithmes en Boite-Noire"](http://atelier-blackbox.conf.citi-lab.fr/), in a continuous attempt to link several research domains on this societal question.
+My main current research activity is trying to disprove that quote, by studying [black-box algorithms](https://github.com/erwanlemerrer/blackbox-algorithms) in the context of recommender systems, neural-network models, or decision-making algorithms in general. I co-organized with Gilles and Antoine the workshop ["Algorithmes en Boite-Noire"](http://atelier-blackbox.conf.citi-lab.fr/), in a continuous attempt to link several research domains on this societal question. e.g.:
+
+* [Monitoring 2022 elections on YouTube](https://elections.audits.eu.org).
+* [Audited shadow banning pratices by Twitter](https://twitter.com/whosban_?lang=en).
 
 ### News
 
 * Launched the [Elections 2022 sur YouTube](https://elections.whosban.eu.org) website, to observe the presence of candidates in recommendations.
-  * [YouTube Recommendations Do Predict Polls: A note on the 2022 French presidential election ](https://hal.inria.fr/hal-03655608v1).
-  * [Pre-print of the general approach to automate measurement, and to measure the "rabbit hole" effect of recommendations.](https://hal.inria.fr/hal-03620039v1).
+  * YouTube Recommendations Do Predict Polls: [A note on the 2022 French presidential election ](https://hal.inria.fr/hal-03655608v1).
+  * Pre-print of the general approach to automate measurement, and to [measure the "rabbit hole" effect of recommendations.](https://hal.inria.fr/hal-03620039v1).
   * [Interview (in French) by Le Media TV on YouTube](https://www.youtube.com/watch?v=ZOEJNJr79r8&t=2683s).
 * I am co-chair of Eurosys workshops in Rennes in 2022.
 * Article ["Le problème du videur : la crédibilité des explications de l’IA en question"](https://interstices.info/le-probleme-du-videur-la-credibilite-des-explications-de-lia-en-question/) on interstices.info.
