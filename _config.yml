@@ -74,7 +74,7 @@ author:
   avatar           : "citations.jpeg"
   bio              : "Researcher      (Доктар навук)"
   location         : "Rennes / Brittany"
-  employer         : 
+  employer         : "+33 299847213"
   googlescholar    : "https://scholar.google.com/citations?user=2jLhHigAAAAJ&hl=fr"
   email            : "erwan.le-merrer@inria.fr"
   uri              : "https://erwanlemerrer.github.io/blog"
@@ -90,20 +90,20 @@ author:
   instagram        :
   lastfm           :
   linkedin         : #"erwan-le-merrer-171a07102/"
-  phone            : "+33 299847213"
+  phone            : 
   orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/ErwanLeMerrer"
+  twitter          : "ErwanLeMerrer"
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
-  press            : "https://erwanlemerrer.github.io/press"
+  uri              : "https://erwanlemerrer.github.io/press"
 
 
 # Reading Files
