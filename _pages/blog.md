@@ -39,6 +39,8 @@ _Following opinions are solely mine. Toutes les opinions exprimées ici n'engage
 * [Awesome research tools](https://github.com/emptymalei/awesome-research#academic)
 * [Making the Right Move to Senior Researcher: some challenges and hints](https://hal-lirmm.ccsd.cnrs.fr/lirmm-03240377/file/Valduriez-sigrec-2021.pdf)
 * [Comprehensive Python Cheatsheet](https://gto76.github.io/python-cheatsheet/)
+* [YouTube crawl](https://tools.digitalmethods.net/netvizz/youtube/)
+* [YT auto video cuts](https://lav.io/notes/videogrep-tutorial/)
 
 ## Citations glanées ça et la ...
 
