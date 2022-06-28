@@ -23,6 +23,10 @@ My main current research activity is trying to disprove that quote, by studying 
 * [Monitoring 2022 elections on YouTube](https://elections.audits.eu.org).
 * [Audited shadow banning pratices by Twitter](https://twitter.com/whosban_?lang=en).
 
+### Hiring a Ph.D candidate
+
+[To start Sept/Oct 2022, on AI-model auditing: "Auditing the mutations of online AI-models"](https://github.com/erwanlemerrer/erwanlemerrer.github.io/blob/master/files/offers/these_proposal_peren_2022.pdf)
+
 ### News
 
 * Launched the [Elections 2022 sur YouTube](https://elections.whosban.eu.org) website, to observe the presence of candidates in recommendations.
