@@ -112,5 +112,8 @@
       {% if author.uri2 %}
         <li><a href="{{ author.uri2 }}"><i class="fa fa-fw fa-chain" aria-hidden="true"></i> {{ default: "Press" }}</a></li>
       {% endif %}    </ul>
+       {% if author.uri3 %}
+        <li><a href="{{ author.uri3 }}"><i class="fa fa-fw fa-chain" aria-hidden="true"></i> {{ default: "Publications" }}</a></li>
+      {% endif %}    </ul>
   </div>
 </div>
