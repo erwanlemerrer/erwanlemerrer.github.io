@@ -5,6 +5,9 @@ permalink: /press
 author_profile: true
 ---
 
+* Article The Conversation [Peut-on faire des sondages politiques avec YouTube ?](https://theconversation.com/peut-on-faire-des-sondages-politiques-avec-youtube-186067)
+* Article Binaire - blog Le Monde [Le recommandeur de Youtube et les sondages électoraux](https://www.lemonde.fr/blog/binaire/2022/07/05/le-recommandeur-les-sondages-et-laudit-en-boite-noire-de-youtube/)
+* Article Inria [Quand la campagne présidentielle inspire les scientifiques](https://www.inria.fr/fr/la-campagne-presidentielle-inspire-les-scientifiques)
 * [Interview (in French) by Le Media TV on YouTube](https://www.youtube.com/watch?v=ZOEJNJr79r8&t=2683s).
 * Article ["Le problème du videur : la crédibilité des explications de l’IA en question"](https://interstices.info/le-probleme-du-videur-la-credibilite-des-explications-de-lia-en-question/) on interstices.info.
 * Paper in INFOCOM 2021:  _Setting the Record Straighter on Shadow Banning_, about the shadow banning practices in Twitter.
