@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "Notes and thoughts"
-permalink: /blog
+title: "Good reads"
+permalink: /readings
 author_profile: true
 ---
 
 _Following opinions are solely mine. Toutes les opinions exprimées ici n'engagent que ma personne._
 
-## Good Rears
+## Good Reads
 
 #### Generic
 * [The tech industry controls CS conference funding. What are the dangers?](https://freedom-to-tinker.com/2022/03/11/the-tech-industry-controls-cs-conference-funding-what-are-the-dangers/)
