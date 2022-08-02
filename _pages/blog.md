@@ -9,7 +9,7 @@ _Following opinions are solely mine. Toutes les opinions exprimées ici n'engage
 
 ## Good links
 
-#### Googd Reads
+#### Good Reads
 * [The tech industry controls CS conference funding. What are the dangers?](https://freedom-to-tinker.com/2022/03/11/the-tech-industry-controls-cs-conference-funding-what-are-the-dangers/)
 * [The Grey Hoodie Project: Big Tobacco, Big Tech, and the Threat on Academic Integrity](https://arxiv.org/pdf/2009.13676.pdf)
 
@@ -19,6 +19,7 @@ _Following opinions are solely mine. Toutes les opinions exprimées ici n'engage
 * for a thesis [funding @irisa](http://www.irisa.fr/en/funding-thesis)
 * [Lessons from my PhD](https://web.eecs.utk.edu/~azh/blog/lessonsfrommyphd.html)
 * To get acquainted with community habits [Best Paper Awards in Computer Science](https://jeffhuang.com/best_paper_awards/)
+* [How to write a bad research paper?](https://www.youtube.com/watch?v=K9BhQaOdtjs)
 * [How/why to do a PhD](https://github.com/macoj/phd)
 
 ##### Where to shoot
