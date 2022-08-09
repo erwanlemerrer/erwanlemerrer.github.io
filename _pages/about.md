@@ -22,11 +22,18 @@ My main current research activity is trying to disprove that quote, by studying 
 * [Monitoring 2022 elections on YouTube](https://elections.audits.eu.org).
 * [Audited shadow banning pratices by Twitter](https://twitter.com/whosban_?lang=en).
 
-### Hiring a Ph.D candidate
+#### Selected publications
 
-[To start Sept/Oct 2022, on AI-model auditing: "Auditing the mutations of online AI-models"](https://github.com/erwanlemerrer/erwanlemerrer.github.io/blob/master/files/offers/these_proposal_peren_2022.pdf)
+* Remote Explainability faces the bouncer problem, *Erwan Le Merrer, Gilles Trédan*. In Nature Machine Intelligence (2020).
+
+* Setting the Record Straighter on Shadow Banning, *Erwan Le Merrer, Benoît Morgan, Gilles Trédan*. In INFOCOM (2021).
+
+* Adversarial Frontier Stitching for Remote Neural Network Watermarking, *Erwan Le Merrer, Patrick Perez, Gilles Trédan*. In Neural Comput & Applic 32, 9233–9244 (2020).
+
+* Second order centrality: Distributed assessment of nodes criticity in complex networks, *AM Kermarrec, E Le Merrer, B Sericola, G Trédan*
+Computer Communications 34 (5), 619-628 (2011).
 
 
-*Profile photo © Inria / Photo B. Fourrier*
+*Photo ©Inria/B. Fourrier*
 
-   [.](https://annuel.framapad.org/p/erwan-wishlist-livres)
+[.](https://annuel.framapad.org/p/erwan-wishlist-livres)
