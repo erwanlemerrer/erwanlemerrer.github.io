@@ -15,3 +15,7 @@
 ### Background
 
 I was a senior research scientist at Technicolor R&I (2009-2018), where I worked on scalable storage, processing and machine learning for data analytics. I joined Inria in 2018, an on a permanent researcher position in 2021. I obtained my habilitation (HDR) on November 2016 from University of Rennes 1. I am the president and on of the sysadmins of the gozdata association, that provides the gozmail service, built from free software. I am a board member of the [Société Informatique de France](https://www.societe-informatique-de-france.fr/).
+
+### Short bio
+
+Erwan Le Merrer is a researcher in Inria Rennes, France. He worked as a senior scientist in Technicolor from 2008 to 2019. He is a board member of the Société Informatique de France, and of the Inria's regulatory project REGALIA. He is now focusing on the algorithmic audit of AI-based decision-making algorithms. 
