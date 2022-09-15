@@ -22,10 +22,6 @@ My current research activity is trying to disprove that quote, by studying [blac
 * [Monitoring 2022 elections on YouTube](https://elections.audits.eu.org).
 * [Audited shadow banning pratices by Twitter](https://twitter.com/whosban_?lang=en).
 
-### Short bio
-
-Erwan Le Merrer is a researcher in Inria Rennes, France. He worked as a senior scientist in Technicolor from 2008 to 2019. He is a board member of the Société Informatique de France, and of the Inria's regulatory project REGALIA. He is now focusing on the algorithmic audit of AI-based decision-making algorithms. 
-
 ### Selected publications
   
 * **Setting the Record Straighter on Shadow Banning**, *Erwan Le Merrer, Benoît Morgan, Gilles Trédan*. In INFOCOM, 2021.
