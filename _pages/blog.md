@@ -7,42 +7,6 @@ author_profile: true
 
 _Following opinions are solely mine. Toutes les opinions exprimées ici n'engagent que ma personne._
 
-## Good links
-
-#### Good Reads
-* [The tech industry controls CS conference funding. What are the dangers?](https://freedom-to-tinker.com/2022/03/11/the-tech-industry-controls-cs-conference-funding-what-are-the-dangers/)
-* [The Grey Hoodie Project: Big Tobacco, Big Tech, and the Threat on Academic Integrity](https://arxiv.org/pdf/2009.13676.pdf)
-
-#### Ph.D. thesis
-##### Common advice
-
-* for a thesis [funding @irisa](http://www.irisa.fr/en/funding-thesis)
-* [Lessons from my PhD](https://web.eecs.utk.edu/~azh/blog/lessonsfrommyphd.html)
-* To get acquainted with community habits [Best Paper Awards in Computer Science](https://jeffhuang.com/best_paper_awards/)
-* [How to write a bad research paper?](https://www.youtube.com/watch?v=K9BhQaOdtjs)
-* [How/why to do a PhD](https://github.com/macoj/phd)
-
-##### Where to shoot
-* [Top Computer Science Conferences ](https://research.com/conference-rankings/computer-science)
-* [Conference Ranks](http://www.conferenceranks.com/)
-* Conference acceptance rates: [here](https://sites.cs.ucsb.edu/~almeroth/conf/stats/), [here](https://www.lamsade.dauphine.fr/~sikora/ratio/confs.php) and [here](https://www.lamsade.dauphine.fr/~sikora/ratio/confs.php)
-
-##### Data + compute
-* [Public APIs](https://github.com/public-apis/public-apis)
-* Getting [started with grid5000](https://www.grid5000.fr/w/Getting_Started)
-
-#### Drafts and books
-* [Learning Theory from First Principles, by F. Bach](https://www.di.ens.fr/~fbach/ltfp_book.pdf)
-* [Networks, Crowds, and Markets: Reasoning about a Highly Connected World](https://www.cs.cornell.edu/home/kleinber/networks-book/networks-book.pdf)
-* [Algorithms for Decision Making](https://algorithmsbook.com/files/dm.pdf)
-
-#### Various
-* [Awesome research tools](https://github.com/emptymalei/awesome-research#academic)
-* [Making the Right Move to Senior Researcher: some challenges and hints](https://hal-lirmm.ccsd.cnrs.fr/lirmm-03240377/file/Valduriez-sigrec-2021.pdf)
-* [Comprehensive Python Cheatsheet](https://gto76.github.io/python-cheatsheet/)
-* [YouTube crawl](https://tools.digitalmethods.net/netvizz/youtube/)
-* [YT auto video cuts](https://lav.io/notes/videogrep-tutorial/)
-
 ## Citations glanées ça et la ...
 
 _"En examinant le statut actuel du savoir scientifique, on constate qu'alors même que ce dernier paraît plus subordonné que jamais aux puissances et qu'avec les nouvelles technologies il risque même de devenir l'un des principaux enjeux de leurs conflits, la question de la double légitimation, bien loin de s'estomper, ne peut manquer de se poser avec d'autant plus d'acuité. Car elle se pose sous la forme la plus complète, celle de la réversion, qui fait apparaître que savoir et pouvoir sont les deux faces d'une même question: qui décide ce qu’est savoir, et qui sait ce qu’il convient de décider ? La question du savoir à l’âge de l’informatique est plus que jamais une affaire de gouvernement."_ Lyotard, La condition postmoderne, 1979.
