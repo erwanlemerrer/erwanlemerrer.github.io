@@ -5,8 +5,6 @@ permalink: /blog
 author_profile: true
 ---
 
-_Following opinions are solely mine. Toutes les opinions exprimées ici n'engagent que ma personne._
-
 ## Good links
 
 #### Good Reads
