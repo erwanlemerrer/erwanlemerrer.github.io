@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Notes and thoughts"
-permalink: /blog
+permalink: /links
 author_profile: true
 ---
 
