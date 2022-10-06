@@ -19,7 +19,7 @@ Hello, I am on a researcher position at Inria, Brittany, France (WIDE team).
 (Jean Baudrillard, Fatal Strategies.)
 
 My current research activity is trying to disprove that quote, by studying [black-box algorithms](https://github.com/erwanlemerrer/blackbox-algorithms) in the context of recommender systems, neural-network models, or decision-making algorithms in general. In other words, I am interested in the audit/understanding of algorithms from the user-side. I co-organized the workshop ["Algorithmes en Boite-Noire"](http://atelier-blackbox.conf.citi-lab.fr/), in an attempt to link several research domains on this societal question. e.g.:
-* [Monitoring 2022 elections on YouTube](https://elections.audits.eu.org).
+* [Monitoring 2022 elections on YouTube](https://www.lemonde.fr/blog/binaire/2022/07/05/le-recommandeur-les-sondages-et-laudit-en-boite-noire-de-youtube/).
 * [Audited shadow banning pratices by Twitter](https://twitter.com/whosban_?lang=en).
 
 ### Selected publications
