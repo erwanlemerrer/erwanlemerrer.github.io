@@ -8,6 +8,10 @@ author_profile: true
 
 ### Recent publications (others in e.g., scholar)
 
+* _Randomized Smoothing Under Attack: How Good is it in Practice?_,
+Thibault Maho, Teddy Furon, Erwan Le Merrer.
+In ICASSP (2022). Preprint [[Arxiv 2022]](https://arxiv.org/abs/2204.14187).
+
 * _SurFree: a fast surrogate-free black-box attack_,
 Thibault Maho, Teddy Furon, Erwan Le Merrer.
 In CVPR (2021). Preprint [[Arxiv 2020]](https://arxiv.org/abs/2011.12807), [[code]](https://github.com/t-maho/SurFree).
