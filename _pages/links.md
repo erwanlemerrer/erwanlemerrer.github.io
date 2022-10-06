@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Notes and thoughts"
+title: "Good links?"
 permalink: /links
 author_profile: true
 ---
