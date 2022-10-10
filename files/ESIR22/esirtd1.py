@@ -1,0 +1,101 @@
+import networkx as nx
+import pylab as plt
+import numpy as np
+
+if __name__ == '__main__':
+    
+    ### Warm-up
+    # creez un graphe "G" dirigé
+    G = nx.DiGraph()
+    # ajoutez 5 noeuds et connectez les en cycle
+    G.add_edges_from([(0, 1), (1, 2), (2, 3), (3, 4), (4, 0)])
+    # affichez le degree sortant du noeud 0
+    print(G.out_degree(0))
+    # affichez le nombre de noeuds, puis le nombre d'arêtes de G
+    print(G.number_of_nodes(), G.number_of_edges())
+    
+    # vérifiez que l'arête (0, 3) n'existe pas grâce à la function idoine
+    print(G.has_edge(0, 3))
+    # inversez la direction des arêtes de G
+    G = G.reverse()
+    # ajoutez l'arête (0, 3), avec nom positionné (attribut) à "raccourci", puis l'afficher
+    G.add_edge(0, 3, nom='raccourci')
+    print(G[0][3])
+    # affichez votre graphe avec la function "draw" et vérifier qu'il est cohérent avec l'exercice
+#     nx.draw(G,nx.spring_layout(G),cmap=plt.get_cmap('seismic'), with_labels=True)
+#     plt.show()
+
+    
+    ### Etude d'un graphe réel
+    # importez le graphe "karate club" dans G
+    G = nx.karate_club_graph()
+    nx.draw(G,nx.spring_layout(G),cmap=plt.get_cmap('seismic'), with_labels=True)
+    plt.show()
+
+    # afficher son nombre de noeuds
+    print("Nombre de noeuds: ", nx.number_of_nodes(G))
+    
+    # affichez le; qu'est ce qu'un layout ?
+    
+    # affichez le plus gros degré de G
+    print("Plus haut degré du graphe: ", max([d for n,d in np.array(G.degree)]))
+
+    # affichez (en texte) la distribution des degres des noeuds de G
+    print("Distribution des degrés: ")
+    degree_sequence = [d for n, d in G.degree()]  # degree sequence
+    hist = {}
+    for d in degree_sequence:
+        if d in hist: hist[d] += 1
+        else: hist[d] = 1
+    print("degree #nodes")
+    for d in hist:
+        print('%d %d' % (d, hist[d]))
+
+    ## ou:
+    plt.hist( [d for n, d in G.degree()] , bins=20)
+    plt.show()
+
+    # affichez le coefficient de clustering du noeud 4
+    print("Indiv. clustering coefficients: ", str(nx.clustering(G)[4]))
+    
+    # affichez le coefficient de clustering moyen de G
+    print("Average clustering coefficient: ", nx.average_clustering(G))
+    
+    # affichez le diamètre de G
+    print("Diameter: ", nx.diameter(G))
+
+    # affichez la conductance du groupe de noeuds [4,5,6,10,16]
+    print("Conductance [4,5,6,10,16]: ", nx.cuts.conductance(G, [4,5,6,10,16]))
+
+    # extraire S, le sous graphe de G composé par les noeuds donnés à l'exercice précédent
+    S = nx.subgraph(G, [4,5,6,10,16])
+
+    # affichez la connectivité algébrique de G
+    print("Algebraic connectivity: ", nx.algebraic_connectivity(G))
+    
+    # chercher la fonction "articulation_points" dans la doc networkx, quel est son but? Exécutez la sur G
+    print("Points d'articulation de G: ", list(nx.articulation_points(G)))
+ 
+     # chercher la fonction "bridges" dans la doc networkx, quel est son but? Exécutez la sur G
+    print("Ponts de G: ", list(nx.bridges(G)))
+        
+    # créez un graphe H, copie de G. Déconnectez H en supprimant le noeud 0, puis affichez de nouveau la connectivité algébrique de G pour vérifier sa propriété traitant de la connectivité du graphe. Qu'en concluez vous?
+    H = G.copy()
+    H.remove_node(0)
+    print("Algebraic connectivity of H: ", nx.algebraic_connectivity(H))
+
+    # affichez le nombre de composant connectés de H
+    print("Number of connected components in H:", nx.number_connected_components(H))
+    
+    # donner un numéro identique aux noeuds (dans un attribut) en fonction de leur appartenance à un même composant (cf exercice précédent). Afficher ces 
+    component = []
+    nx.set_node_attributes(G, component, 'component')
+    c = 0
+    for set in nx.connected_components(H):
+        for n in set:
+            H.nodes[n]['component']=c
+        c+=1
+    for i in H.nodes:
+        print(H.nodes[i]['component'])    
+    
+    # BONUS: coder la fonction de résiliance donnée dans le poly
