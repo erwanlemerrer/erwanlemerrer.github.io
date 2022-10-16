@@ -7,4 +7,6 @@ Doc [NetworkX](https://networkx.org/documentation/stable/reference/index.html) +
 ## Ressources
 * Slides cours courant: [poly](https://github.com/erwanlemerrer/erwanlemerrer.github.io/blob/master/files/ESIR22/slides.pdf)
 
-* [TD1](https://github.com/erwanlemerrer/erwanlemerrer.github.io/blob/master/files/ESIR22/esir-TD1.md) -> corrigé
+* [TD1](https://github.com/erwanlemerrer/erwanlemerrer.github.io/blob/master/files/ESIR22/esir-TD1.md) -> [corrigé](https://github.com/erwanlemerrer/erwanlemerrer.github.io/blob/master/files/ESIR22/esir-TD1-correction.md)
+* [TD2](https://github.com/erwanlemerrer/erwanlemerrer.github.io/blob/master/files/ESIR22/esir-TD2.md) -> corrigé
+
