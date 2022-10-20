@@ -3,8 +3,7 @@
 
 [NetworkX](https://networkx.github.io/) et sa documentation [ici](https://networkx.github.io/documentation/stable/index.html).
 
-Propos principal: les mesures d'influence dans les graphes. Puis un modèle de propagation épidémique simplifié.
-
+Propos principal: les mesures d'influence dans les graphes.
 ## Influence dans un graphe réel
 
 *  téléchargez le fichier des caratères de Games of Thrones "book 1" [ici](https://github.com/mathbeveridge/asoiaf). Importez le dans GoT
