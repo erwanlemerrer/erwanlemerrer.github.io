@@ -22,6 +22,10 @@ My current research activity is trying to disprove that quote, by studying [blac
 * [Monitoring 2022 elections on YouTube](https://www.lemonde.fr/blog/binaire/2022/07/05/le-recommandeur-les-sondages-et-laudit-en-boite-noire-de-youtube/).
 * [Audited shadow banning pratices by Twitter](https://twitter.com/whosban_?lang=en).
 
+### Highlights
+
+Co-organizing [Journée Infrastructures pour la Souveraineté Numérique](https://souverainete.roc.cnam.fr/) in Nov. '22 with [SIF](https://www.societe-informatique-de-france.fr/)/CNAM.
+
 ### Selected publications
   
 * **Setting the Record Straighter on Shadow Banning**, *Erwan Le Merrer, Benoît Morgan, Gilles Trédan*. In INFOCOM, 2021.
