@@ -10,4 +10,5 @@ Doc [NetworkX](https://networkx.org/documentation/stable/reference/index.html) +
 * [TD1](https://github.com/erwanlemerrer/erwanlemerrer.github.io/blob/master/files/ESIR22/esir-TD1.md) -> [corrigé](https://github.com/erwanlemerrer/erwanlemerrer.github.io/blob/master/files/ESIR22/esir-TD1-correction.md)
 * [TD2](https://github.com/erwanlemerrer/erwanlemerrer.github.io/blob/master/files/ESIR22/esir-TD2.md) -> [corrigé](https://github.com/erwanlemerrer/erwanlemerrer.github.io/blob/master/files/ESIR22/esir-TD2-correction.md)
 * [TD3](https://github.com/erwanlemerrer/erwanlemerrer.github.io/blob/master/files/ESIR22/esir-TD3.md) -> [corrigé](https://github.com/erwanlemerrer/erwanlemerrer.github.io/blob/master/files/ESIR22/esir-TD3-correction.md)
+* [TD4](https://github.com/erwanlemerrer/erwanlemerrer.github.io/blob/master/files/ESIR22/esir-TD4.md) -> [corrigé](https://github.com/erwanlemerrer/erwanlemerrer.github.io/blob/master/files/ESIR22/esir-TD4-correction.md)
 
