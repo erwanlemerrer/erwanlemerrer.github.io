@@ -11,7 +11,7 @@ Propos principal: comparer de petits graphes.
 
 * testez sur des graphes un peu plus gros; quelle est la complexité du calcul de la distance d'édition de graphes?
 
-* créez les graphlets G4, G8 et G15 du poly
+* créez les graphlets G2, G4, G8 et G15 du poly
 
 * regardez la définition d'[isomorphisme](https://fr.wikipedia.org/wiki/Isomorphisme_de_graphes). Créez 2 graphes isomorphes de 3 noeuds (ie, G1 ou G2), et vérifiez cette propriété avec la fonction appropriée de NetworkX.
 
@@ -19,7 +19,7 @@ Propos principal: comparer de petits graphes.
      * avec la fonction itertools.combinations(...), itérez sur tous les combinaisons possibles de k noeuds (si le graphlet en paramètre compte k noeuds) dans les noeuds de G; extrayez le sous graphe induit par chaque combinaison, et vérifiez qu'il est connecté.
      * s'il l'est, alors vérifiez s'il est aussi isomorphe au graphlet: si oui vous avez trouvé un graphlet de G, poursuivez.
 
-* importez le graphe Karate Club dans G. Combien de graphlets G4, G8 et G15 dans G?
+* importez le graphe Karate Club dans G. Combien de graphlets G2, G4, G8 et G15 dans G?
 
 * comparez ces quantités à celles d'un graphe Barabasi-Albert comportant également 34 noeuds (eg, nx.barabasi\_albert_graph(34, 2)). Conclusion de similarité cohérente avec la comparaison d'autres caractéristiques des deux réseaux? (eg, shortest path et average clustering)
 
