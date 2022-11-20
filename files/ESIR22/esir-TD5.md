@@ -22,6 +22,5 @@ Propos principal: comparer de petits graphes.
 * importez le graphe Karate Club dans G. Combien de graphlets G4, G8 et G15 dans G?
 
 * comparez ces quantités à celles d'un graphe Barabasi-Albert comportant également 34 noeuds (eg, nx.barabasi\_albert_graph(34, 2)). Conclusion de similarité cohérente avec la comparaison d'autres caractéristiques des deux réseaux? (eg, shortest path et average clustering)
-	* comparer à nouveau avec un nx.erdos_renyi_graph(34, 0.12). Lesquels de ces 3 graphes semblent les plus similaires au regard de cette comparaison par graphlets?
 
 Questions/commentaires: erwan.le-merrer@inria.fr
