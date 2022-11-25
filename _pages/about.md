@@ -25,7 +25,7 @@ My current research activity is trying to disprove that quote, by studying [blac
 
 ### Selected publications
   
-* **Setting the Record Straighter on Shadow Banning**, *Erwan Le Merrer, Benoît Morgan, Gilles Trédan*. In INFOCOM, 2021.
+* **Setting the Record Straighter on Shadow Banning**, *Erwan Le Merrer, Benoît Morgan, Gilles Trédan*. In INFOCOM, 2021. [PDF](https://raw.githubusercontent.com/erwanlemerrer/erwanlemerrer.github.io/master/files/Setting_the_Record_Straighter_on_Shadow_Banning.pdf)
 * **Remote Explainability faces the bouncer problem**, *Erwan Le Merrer, Gilles Trédan*. In Nature Machine Intelligence, 2020. [PDF](https://raw.githubusercontent.com/erwanlemerrer/erwanlemerrer.github.io/master/files/LeMerrer_et_al-2020-Nature_Machine_Intelligence.pdf)
 * **Adversarial Frontier Stitching for Remote Neural Network Watermarking**, *Erwan Le Merrer, Patrick Perez, Gilles Trédan*. In Neural Comput & Applic 32, 9233–9244, 2020
 * **Second order centrality: Distributed assessment of nodes criticity in complex networks**, *AM Kermarrec, E Le Merrer, B Sericola, G Trédan*. Computer Communications 34 (5), 619-628, 2011.
