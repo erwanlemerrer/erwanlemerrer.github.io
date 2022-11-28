@@ -30,6 +30,7 @@ author_profile: true
 * Getting [started with grid5000](https://www.grid5000.fr/w/Getting_Started)
 
 #### Drafts and books
+* [Free computer books !](https://freecomputerbooks.com/)
 * [Learning Theory from First Principles, by F. Bach](https://www.di.ens.fr/~fbach/ltfp_book.pdf)
 * [Networks, Crowds, and Markets: Reasoning about a Highly Connected World](https://www.cs.cornell.edu/home/kleinber/networks-book/networks-book.pdf)
 * [Algorithms for Decision Making](https://algorithmsbook.com/files/dm.pdf)
