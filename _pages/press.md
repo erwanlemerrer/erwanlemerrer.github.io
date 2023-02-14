@@ -23,3 +23,5 @@ author_profile: true
   * press: [De l’explicabilité des systèmes : les enjeux de l’explication des décisions automatisées](http://www.internetactu.net/2019/11/14/de-lexplicabilite-des-systemes-les-enjeux-de-lexplication-des-decisions-automatisees/) internetactu.net.
   * press: [Explainable AI” doesn’t work for online services – now there’s proof](https://algorithmwatch.org/en/story/explainable-ai-doesnt-work-for-online-services-now-theres-proof/) Algorithm Watch.
   * press: [It’s Too Easy to Hide Bias in Deep-Learning Systems](https://spectrum.ieee.org/its-too-easy-to-hide-bias-in-deeplearning-systems) IEEE spectrum.
+* Self published
+  * [From Dead Hand to Flash Collapse: risky machine to machine chain reactions](https://medium.com/@erwan.le-merrer/from-dead-hand-to-flash-collapse-risky-machine-to-machine-chain-reactions-86dd1369048c)
