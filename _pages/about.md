@@ -18,10 +18,16 @@ Hello, I am a researcher at [Inria, Brittany](https://www.inria.fr/fr/centre-inr
 >triumphs everywhere, by its object position, over the subject of analysis."
 (Jean Baudrillard, Fatal Strategies.)
 
-My current research activity is trying to disprove that quote, by studying [black-box algorithms](https://hal.inria.fr/hal-03940259v1/document) (or [links to papers](https://github.com/erwanlemerrer/blackbox-algorithms)) in the context of recommender systems, neural-network models, or decision-making algorithms in general. In other words, I am interested in the [audit/understanding of algorithms from the user-side](https://hal.inria.fr/hal-03851597/document) (FR). I co-organized the workshop ["Algorithmes en Boite-Noire"](http://atelier-blackbox.conf.citi-lab.fr/), in an attempt to link several research domains on this societal question. e.g.:
+My current research activity is trying to disprove that quote, by studying [black-box algorithms](https://hal.inria.fr/hal-03940259v1/document) (or [links to papers](https://github.com/erwanlemerrer/blackbox-algorithms)) in the context of recommender systems, neural-network models, or decision-making algorithms in general. In other words, I am interested in the [audit/understanding of algorithms from the user-side](https://hal.inria.fr/hal-03851597/document) (FR). 
+I co-organize the [WAAA workshop on algorithmic audits of algorithms](https://algorithmic-audits.github.io/), in an attempt to link several research domains on this societal question. e.g.:
 * [Monitoring 2022 elections on YouTube](https://www.lemonde.fr/blog/binaire/2022/07/05/le-recommandeur-les-sondages-et-laudit-en-boite-noire-de-youtube/).
 * [Audited shadow banning pratices by Twitter](https://twitter.com/whosban_?lang=en).
 * Co-organizing [Journée Infrastructures pour la Souveraineté Numérique](https://souverainete.roc.cnam.fr/) in Nov. '22 with [SIF](https://www.societe-informatique-de-france.fr/)/CNAM.
+* Atelier ["Algorithmes en Boite-Noire"](http://atelier-blackbox.conf.citi-lab.fr/), in 2019.
+
+### News
+
+* [WAAA workshop on algorithmic audits of algorithms](https://algorithmic-audits.github.io/) on May 23rd, on Zoom.
 
 ### Selected publications
   
