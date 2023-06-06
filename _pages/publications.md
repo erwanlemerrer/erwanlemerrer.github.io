@@ -8,6 +8,10 @@ author_profile: true
 
 ### Recent publications (others in e.g., scholar)
 
+* _FBI: model fingerprinting with benign inputs_,
+Thibault Maho, Teddy Furon, Erwan Le Merrer.
+In ICASSP (2023). [[PDF]](https://github.com/erwanlemerrer/erwanlemerrer.github.io/blob/master/files/Model_Fingerprinting_with_Benign_Inputs_icassp2023.pdf).
+
 * _Randomized Smoothing Under Attack: How Good is it in Practice?_,
 Thibault Maho, Teddy Furon, Erwan Le Merrer.
 In ICASSP (2022). Preprint [[Arxiv 2022]](https://arxiv.org/abs/2204.14187).
