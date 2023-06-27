@@ -11,6 +11,11 @@ author_profile: true
 * [The tech industry controls CS conference funding. What are the dangers?](https://freedom-to-tinker.com/2022/03/11/the-tech-industry-controls-cs-conference-funding-what-are-the-dangers/)
 * [The Grey Hoodie Project: Big Tobacco, Big Tech, and the Threat on Academic Integrity](https://arxiv.org/pdf/2009.13676.pdf)
 
+#### Go for a column
+* [IEEE Spectrum](https://spectrum.ieee.org/st/about): directly mail editors
+* [IEEE Software](https://www.computer.org/csdl/magazine/so/about/13606): search for column editors
+* [CACM](https://cacm.acm.org/system/assets/0003/8233/082520_Author_Guidelines_CACM.pdf): submit via interface, select viewpoint
+
 #### Ph.D. thesis
 ##### Common advice
 
