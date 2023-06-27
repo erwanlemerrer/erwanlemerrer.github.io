@@ -28,6 +28,7 @@ author_profile: true
 ##### Where to shoot
 * [Top Computer Science Conferences ](https://research.com/conference-rankings/computer-science)
 * [Conference Ranks](http://www.conferenceranks.com/)
+* [China conference Ranks]([http://www.conferenceranks.com/](https://www.ccf.org.cn/en/Bulletin/2019-05-13/663884.shtml)
 * Conference acceptance rates: [here](https://sites.cs.ucsb.edu/~almeroth/conf/stats/), [here](https://www.lamsade.dauphine.fr/~sikora/ratio/confs.php) and [here](https://www.lamsade.dauphine.fr/~sikora/ratio/confs.php)
 
 ##### Data + compute
