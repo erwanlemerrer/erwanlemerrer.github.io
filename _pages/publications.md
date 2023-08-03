@@ -12,6 +12,10 @@ author_profile: true
 Erwan Le Merrer, Gilles Tredan, Ali Yesilkana.
 In Social Network Analysis and Mining 13:100 (2023). [[PDF]](https://trebuchet.public.springernature.app/get_content/73d5dd5e-5764-4199-85d4-3f6f129faa37).
 
+* _FBI: model fingerprinting with benign inputs_, (extended journal version)
+Thibault Maho, Teddy Furon, Erwan Le Merrer.
+In IEEE Transactions on Information Forensics and Security (2023). [[editor]](https://ieeexplore.ieee.org/document/10201933).
+
 * _FBI: model fingerprinting with benign inputs_,
 Thibault Maho, Teddy Furon, Erwan Le Merrer.
 In ICASSP (2023). [[PDF]](https://github.com/erwanlemerrer/erwanlemerrer.github.io/blob/master/files/Model_Fingerprinting_with_Benign_Inputs_icassp2023.pdf).
