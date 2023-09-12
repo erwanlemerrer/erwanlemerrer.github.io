@@ -27,6 +27,12 @@ I co-organize the [WAAA workshop on algorithmic audits of algorithms](https://al
 * Co-organizing [Journée Infrastructures pour la Souveraineté Numérique](https://souverainete.roc.cnam.fr/) in Nov. '22 with [SIF](https://www.societe-informatique-de-france.fr/)/CNAM.
 * Atelier ["Algorithmes en Boite-Noire"](http://atelier-blackbox.conf.citi-lab.fr/), in 2019.
 
+### Last publications
+  
+* **Modeling rabbit‑holes on YouTube**, [SNAM 2023](https://link.springer.com/epdf/10.1007/s13278-023-01105-9?sharing_token=h-O-asHI49VUWS9FxN1Gsve4RwlQNchNByi7wbcMAY6I98PKW1PqhFQJ_JqQyk3TrB05qDb3LUzMDmKOgrupccQliViDle-rwKEi2MZ8xBViaAQhyN41oZBKLLeXchoeIW2kklVHC094I5KD8pxja4-if6-iB0uAI1FnqnYoxjU%3D).
+* **FBI: Fingerprinting models with benign inputs**, [TIFS 2023](https://raw.githubusercontent.com/erwanlemerrer/erwanlemerrer.github.io/master/files/Fingerprinting_Classifiers_With_Benign_Inputs.pdf).
+* **Algorithmic audits of algorithms, and the law**, [AI&ethics 2023](https://hal.inria.fr/hal-03583919).
+
 ### Selected publications
   
 * **Setting the Record Straighter on Shadow Banning**, *Erwan Le Merrer, Benoît Morgan, Gilles Trédan*. In INFOCOM, 2021. [PDF](https://raw.githubusercontent.com/erwanlemerrer/erwanlemerrer.github.io/master/files/Setting_the_Record_Straighter_on_Shadow_Banning.pdf)
