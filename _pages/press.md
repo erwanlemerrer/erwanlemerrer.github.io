@@ -5,6 +5,7 @@ permalink: /press
 author_profile: true
 ---
 
+* Interview dans article Science&vie magazine "Face aux IA - La course au nouveau test de Turing", septembre 2023.
 * Article Binaire - blog Le Monde [ChatGPT et test de Turing inversé](https://www.lemonde.fr/blog/binaire/2023/05/19/chatgpt-et-test-de-turing-inverse/)
 * Article The Conversation [Peut-on faire des sondages politiques avec YouTube ?](https://theconversation.com/peut-on-faire-des-sondages-politiques-avec-youtube-186067)
    * Repris/republié par le [JDD](https://www.lejdd.fr/Politique/comment-des-chercheurs-veulent-utiliser-youtube-pour-faire-des-sondages-dintentions-de-vote-4121868)
