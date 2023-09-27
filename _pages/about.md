@@ -31,7 +31,7 @@ I co-organize the [WAAA workshop on algorithmic audits of algorithms](https://al
   
 * **Modeling rabbit‑holes on YouTube**, [SNAM 2023](https://link.springer.com/epdf/10.1007/s13278-023-01105-9?sharing_token=h-O-asHI49VUWS9FxN1Gsve4RwlQNchNByi7wbcMAY6I98PKW1PqhFQJ_JqQyk3TrB05qDb3LUzMDmKOgrupccQliViDle-rwKEi2MZ8xBViaAQhyN41oZBKLLeXchoeIW2kklVHC094I5KD8pxja4-if6-iB0uAI1FnqnYoxjU%3D).
 * **FBI: Fingerprinting models with benign inputs**, [TIFS 2023](https://raw.githubusercontent.com/erwanlemerrer/erwanlemerrer.github.io/master/files/Fingerprinting_Classifiers_With_Benign_Inputs.pdf).
-* **Algorithmic audits of algorithms, and the law**, [AI&ethics 2023](https://hal.inria.fr/hal-03583919).
+* **Algorithmic audits of algorithms, and the law**, [AI&ethics 2023](https://github.com/erwanlemerrer/erwanlemerrer.github.io/blob/master/files/algorithmic-audit-of-algorithms_aiandethics.pdf).
 
 ### Selected publications
   
