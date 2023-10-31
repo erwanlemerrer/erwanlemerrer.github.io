@@ -17,7 +17,8 @@ author_profile: true
   * Paper cited as an evidence in a question to the European parliament ["Censorship and free market restrictions including shadow banning and concealment or suppression of organic search results on internet"](https://www.europarl.europa.eu/doceo/document/E-9-2021-001037_EN.html).
   * press: [Exploring the underpinnings of shadowbanning on Twitter](https://techxplore.com/news/2021-01-exploring-underpinnings-shadowbanning-twitter.html) TechXplore.
 * Related to our black-box observations of YouTube recommendations
-  * (short) press: [Comment reprendre le contrôle sur l’algo : des tips utilisateurs à l’utopie algorithmique](https://ctrlzmag.com/comment-reprendre-le-controle-sur-lalgo-des-tips-utilisateurs-a-lutopie-algorithmique/) 
+  * (short) press: [Comment reprendre le contrôle sur l’algo : des tips utilisateurs à l’utopie algorithmique](https://ctrlzmag.com/comment-reprendre-le-controle-sur-lalgo-des-tips-utilisateurs-a-lutopie-algorithmique/)
+  * Interview TL;DR "Shadow ban : la menace fantôme", octobre 2023.
 * New article in Nature Machine Intelligence, do not trust remote AI explanations... [[Article link]](https://rdcu.be/b6qB4)
   * press: ["Le problème du videur : la crédibilité des explications de l’IA en question"](https://interstices.info/le-probleme-du-videur-la-credibilite-des-explications-de-lia-en-question/) sur interstices.info.
   * press: [Do explanations for data-based predictions actually increase users' trust in AI?](https://techxplore.com/news/2020-10-explanations-data-based-users-ai.html) Tech Xplore. Rebranded in [Techhq](https://techhq.com/2020/10/how-much-should-we-trust-explainable-ai/).
