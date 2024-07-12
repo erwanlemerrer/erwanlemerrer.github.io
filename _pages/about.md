@@ -37,6 +37,7 @@ I co-organize the [WAAA workshop on algorithmic audits of algorithms](https://al
 ### Last PCs
 * KDD'24: 30TH ACM SIGKDD conference on knowledge discovery and data mining
 * ECAI'24: 27TH European conference on artificial intelligence
+* AIsec'24: 17TH ACM Workshop on Artificial Intelligence and Security 
 * ECML/PKDD'24: European Conference on Machine Learning and Data Mining
 * SDM'24: SIAM International Conference on Data Mining
 * KDD'23: 29TH ACM SIGKDD conference on knowledge discovery and data mining
