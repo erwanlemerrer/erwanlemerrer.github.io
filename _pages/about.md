@@ -8,18 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am a researcher at [Inria, Brittany](https://www.inria.fr/fr/centre-inria-universite-rennes), France ([WIDE](https://team.inria.fr/wide/) team). 
+![LLM graph hallucinations](/images/hallus.png)
+<p align="center">LLMs hallucinate graphs too! -> https://hal.science/hal-04684742</p>
+
+
+
+Hi! I am a researcher at [Inria, Brittany](https://www.inria.fr/fr/centre-inria-universite-rennes), France ([WIDE](https://team.inria.fr/wide/) team). 
 I am leading the scientific council of the [Société Informatique de France](https://www.societe-informatique-de-france.fr/), and I am the president of an association promoting free software for mail/hosting in Brittany.
 
->"Maybe, not content to be alienated by observation, maybe does the
->object deceive us? Maybe it invented original answers, and not only
->the ones we ask for? May not be does it not want to be analyzed and
->observed at all and taking this for a challenge (which is true), does
->it respond with another challenge? [...] the object analyzed today
->triumphs everywhere, by its object position, over the subject of analysis."
-(Jean Baudrillard, Fatal Strategies.)
-
-My current research activity is trying to disprove that quote, by studying [black-box algorithms](https://hal.inria.fr/hal-03940259v1/document) (or [links to papers](https://github.com/erwanlemerrer/blackbox-algorithms)) in the context of recommender systems, neural-network models, or decision-making algorithms in general. In other words, I am interested in the [audit/understanding of algorithms from the user-side](https://hal.inria.fr/hal-03851597/document) (FR). 
+My current research is studying [black-box algorithms](https://hal.inria.fr/hal-03940259v1/document) (or [links to papers](https://github.com/erwanlemerrer/blackbox-algorithms)) in the context of of decision-making algorithms (neural-network models, LLMs, etc). In other words, I am interested in the [audit/understanding of algorithms from the user-side](https://hal.inria.fr/hal-03851597/document) (FR). 
 I co-organize the [WAAA workshop on algorithmic audits of algorithms](https://algorithmic-audits.github.io/), in an attempt to link several research domains on this societal question. e.g.:
 * [WAAA workshop on algorithmic audits of algorithms](https://algorithmic-audits.github.io/), May 23rd 2023, on Zoom.
 * [Monitoring 2022 elections on YouTube](https://www.lemonde.fr/blog/binaire/2022/07/05/le-recommandeur-les-sondages-et-laudit-en-boite-noire-de-youtube/).
