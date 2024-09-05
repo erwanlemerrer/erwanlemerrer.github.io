@@ -9,10 +9,12 @@ redirect_from:
 ---
 
 ![LLM graph hallucinations](/images/hallus.png)
-<p align="center">LLMs hallucinate graphs too! -> https://hal.science/hal-04684742</p>
-
-
-
+------------------------------------------------------------------------->[LLMs hallucinate graphs too!](https://arxiv.org/abs/2409.00159v1)<-----------------------------------------------------------------------------
+<br />
+<br />
+<br />
+<br />
+<br />
 Hi! I am a researcher at [Inria, Brittany](https://www.inria.fr/fr/centre-inria-universite-rennes), France ([WIDE](https://team.inria.fr/wide/) team). 
 I am leading the scientific council of the [Société Informatique de France](https://www.societe-informatique-de-france.fr/), and I am the president of an association promoting free software for mail/hosting in Brittany.
 
