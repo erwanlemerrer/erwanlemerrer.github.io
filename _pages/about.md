@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ![LLM graph hallucinations](/images/hallus.png)
-[LLMs hallucinate graphs too!](https://arxiv.org/abs/2409.00159v1)
+[LLMs hallucinate graphs too!](https://arxiv.org/abs/2409.00159v1) (here prompted for the Karate Club Graph)
 <br />
 <br />
 <br />
@@ -30,7 +30,7 @@ I co-organize the [WAAA workshop on algorithmic audits of algorithms](https://al
 * **Setting the Record Straighter on Shadow Banning**, *Erwan Le Merrer, Benoît Morgan, Gilles Trédan*. In INFOCOM, 2021. [PDF](https://raw.githubusercontent.com/erwanlemerrer/erwanlemerrer.github.io/master/files/Setting_the_Record_Straighter_on_Shadow_Banning.pdf)
 * **Remote Explainability faces the bouncer problem**, *Erwan Le Merrer, Gilles Trédan*. In Nature Machine Intelligence, 2020. [PDF](https://raw.githubusercontent.com/erwanlemerrer/erwanlemerrer.github.io/master/files/LeMerrer_et_al-2020-Nature_Machine_Intelligence.pdf)
 * **Adversarial Frontier Stitching for Remote Neural Network Watermarking**, *Erwan Le Merrer, Patrick Perez, Gilles Trédan*. In Neural Comput & Applic 32, 9233–9244, 2020. [PDF](https://hal.science/hal-02264449/file/main-nca.pdf)
-* **Second order centrality: Distributed assessment of nodes criticity in complex networks**, *AM Kermarrec, E Le Merrer, B Sericola, G Trédan*. Computer Communications 34 (5), 619-628, 2011.
+* **Second order centrality: Distributed assessment of nodes criticity in complex networks**, *AM Kermarrec, E Le Merrer, B Sericola, G Trédan*. Computer Communications 34 (5), 619-628, 2011. [PDF](https://homepages.laas.fr/gtredan/pdf/SOC_COMCOM2010.pdf) & [code in NetworkX](https://networkx.org/documentation/stable/reference/algorithms/generated/networkx.algorithms.centrality.second_order_centrality.html)
 
 ### Last PCs
 * KDD'24: 30TH ACM SIGKDD conference on knowledge discovery and data mining
