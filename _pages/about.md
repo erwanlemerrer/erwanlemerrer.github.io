@@ -14,7 +14,7 @@ redirect_from:
 <br />
 <br />
 
-I am a researcher at [Inria, Brittany](https://www.inria.fr/fr/centre-inria-universite-rennes), France (ARTISHAU team). 
+I am a researcher at Inria, Brittany], France ([ARTISHAU team](https://team.inria.fr/artishau/)). 
 I am leading the scientific council of the [Société Informatique de France](https://www.societe-informatique-de-france.fr/), and I am the president of an association promoting free software for mail/hosting in Brittany.
 
 My current research is studying [black-box algorithms](https://hal.inria.fr/hal-03940259v1/document) (or [links to papers](https://github.com/erwanlemerrer/blackbox-algorithms)) in the context of of decision-making algorithms (neural-network models, LLMs, etc). In other words, I am interested in the [audit/understanding of algorithms from the user-side](https://hal.inria.fr/hal-03851597/document) (FR). 
