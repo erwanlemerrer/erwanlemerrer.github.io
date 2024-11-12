@@ -5,6 +5,7 @@ permalink: /press
 author_profile: true
 ---
 
+* Interview dans article Les Echos ["Face à des IA trop humaines, le défi de l'identification"](https://www.lesechos.fr/idees-debats/sciences-prospective/face-a-des-ia-trop-humaines-le-defi-de-lidentification-2130934), 12 nov 2024.
 * Interview dans article Science&vie magazine ["Face aux IA - La course au nouveau test de Turing"](https://www.science-et-vie.com/article-magazine/la-course-au-nouveau-test-de-turing), septembre 2023.
 * Article Binaire - blog Le Monde [ChatGPT et test de Turing inversé](https://www.lemonde.fr/blog/binaire/2023/05/19/chatgpt-et-test-de-turing-inverse/)
 * Article The Conversation [Peut-on faire des sondages politiques avec YouTube ?](https://theconversation.com/peut-on-faire-des-sondages-politiques-avec-youtube-186067)
