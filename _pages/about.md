@@ -25,7 +25,7 @@ I co-organized the [WAAA workshop on algorithmic audits of algorithms](https://a
 
 ### Recent News
 * Interview dans Les Echos ["Face à des IA trop humaines, le défi de l'identification"](https://www.lesechos.fr/idees-debats/sciences-prospective/face-a-des-ia-trop-humaines-le-defi-de-lidentification-2130934) ou en [PDF](https://github.com/erwanlemerrer/erwanlemerrer.github.io/blob/master/files/Les%20Echos-Face%20a%CC%80%20des%20IA%20trop%20humaines%2C%20le%20de%CC%81fi%20de%20l'identification-12112024.pdf), 12 nov 2024.
-* French ANR project starting, on "passive or active monitoring and auditing of models" (4 years duration). Recruiting a PhD candidate and an engineer.
+* French ANR project starting, on "passive or active monitoring and auditing of models" (4 years duration). Recruiting a PhD candidate and an engineer. More info: [bit.ly/PACMAM](https://bit.ly/PACMAM)
 
 ### Last PCs
 * KDD'24: 30TH ACM SIGKDD conference on knowledge discovery and data mining
