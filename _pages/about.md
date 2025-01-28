@@ -24,7 +24,7 @@ I co-organized the [WAAA workshop on algorithmic audits of algorithms](https://a
 * Atelier ["Algorithmes en Boite-Noire"](http://atelier-blackbox.conf.citi-lab.fr/), in 2019.
 
 ### Recent News
-* Interview for the [Data Skeptic podcast](https://dataskeptic.com/podcast/) on "LLMs hallucinte graphs too", to air soon.
+* Interview for the [Data Skeptic podcast on "LLMs hallucinte graphs too"](https://dataskeptic.com/blog/episodes/2025/auditing-llms-and-twitter), jannuary 2025.
 * Interview dans Les Echos ["Face à des IA trop humaines, le défi de l'identification"](https://www.lesechos.fr/idees-debats/sciences-prospective/face-a-des-ia-trop-humaines-le-defi-de-lidentification-2130934) ou en [PDF](https://github.com/erwanlemerrer/erwanlemerrer.github.io/blob/master/files/Les%20Echos-Face%20a%CC%80%20des%20IA%20trop%20humaines%2C%20le%20de%CC%81fi%20de%20l'identification-12112024.pdf), 12 nov 2024.
 * French ANR project starting, on "passive or active monitoring and auditing of models" (4 years duration). Recruiting a PhD candidate and an engineer. More info: [bit.ly/PACMAM](https://bit.ly/PACMAM)
 
