@@ -5,6 +5,8 @@ permalink: /press
 author_profile: true
 ---
 
+* Interview (French) for Le Télégramme, about our research on YouTube ([ref1](https://www.letelegramme.fr/france/les-exigences-ont-augmente-vingt-ans-apres-la-creation-de-youtube-la-plateforme-a-beaucoup-change-6758580.php)
+[ref2](https://www.letelegramme.fr/france/youtube-symbole-de-ces-algorithmes-qui-nous-gouvernent-6758682.php) [ref3](https://www.letelegramme.fr/france/lun-des-meilleurs-coups-de-google-comment-youtube-est-devenu-une-machine-a-cash-6758659.php)), february 2025.
 * Interview for the [Data Skeptic podcast on "LLMs hallucinte graphs too"](https://dataskeptic.com/blog/episodes/2025/auditing-llms-and-twitter), jannuary 2025.
 * Interview dans article Les Echos ["Face à des IA trop humaines, le défi de l'identification"](https://www.lesechos.fr/idees-debats/sciences-prospective/face-a-des-ia-trop-humaines-le-defi-de-lidentification-2130934) ou en [PDF](https://github.com/erwanlemerrer/erwanlemerrer.github.io/blob/master/files/Les%20Echos-Face%20a%CC%80%20des%20IA%20trop%20humaines%2C%20le%20de%CC%81fi%20de%20l'identification-12112024.pdf), 12 nov 2024.
 * Interview dans article Science&vie magazine ["Face aux IA - La course au nouveau test de Turing"](https://www.science-et-vie.com/article-magazine/la-course-au-nouveau-test-de-turing), septembre 2023.
