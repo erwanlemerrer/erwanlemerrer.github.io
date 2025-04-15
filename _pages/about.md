@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ![LLM graph hallucinations](/images/hallus.png)
-[LLMs hallucinate graphs too!](https://arxiv.org/abs/2409.00159v1) (here prompted for the Karate Club Graph)
+[LLMs hallucinate graphs too!](https://github.com/erwanlemerrer/erwanlemerrer.github.io/blob/master/files/LMGT_llms-hallucinate-graphs-too_complexnetworks2024.pdf) (here prompted for the Karate Club Graph). Extended V2 [here](https://arxiv.org/abs/2409.00159v3).
 <br />
 <br />
 <br />
