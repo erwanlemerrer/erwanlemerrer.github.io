@@ -24,7 +24,7 @@ I co-organized the [WAAA workshop on algorithmic audits of algorithms](https://a
 * Atelier ["Algorithmes en Boite-Noire"](http://atelier-blackbox.conf.citi-lab.fr/), in 2019.
 
 ### Recent News
-* ICML'25 paper "[Robust ML Auditing using Prior Knowledge](https://arxiv.org/abs/2505.04796)".
+* ICML'25 paper "[Robust ML Auditing using Prior Knowledge](https://arxiv.org/abs/2505.04796)"; spotlight top 2,6% papers!
 * AAAI'25 paper "[Queries, Representation & Detection: The Next 100 Model Fingerprinting
 Schemes](https://ojs.aaai.org/index.php/AAAI/article/view/33848/36003)".
 * Interview for the [Data Skeptic podcast on "LLMs hallucinte graphs too"](https://dataskeptic.com/blog/episodes/2025/auditing-llms-and-twitter), jannuary 2025.
