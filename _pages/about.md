@@ -20,7 +20,7 @@ I am leading the scientific council of the [Société Informatique de France](ht
 My current research is **auditing** and **evaluating** [black-box algorithms and AIs](https://hal.inria.fr/hal-03940259v1/document) (or [links to papers](https://github.com/erwanlemerrer/blackbox-algorithms)) in the context of of decision-making methods (neural-network models, LLMs, etc). In other words, I am interested in **auditability**, that is: **what can or cannot be audited/evaluated, and how**. 
 I co-organized the [WAAA workshop on algorithmic audits of algorithms](https://algorithmic-audits.github.io/), in an attempt to link several research domains on this societal question.
 * [Monitoring 2022 elections on YouTube](https://www.lemonde.fr/blog/binaire/2022/07/05/le-recommandeur-les-sondages-et-laudit-en-boite-noire-de-youtube/).
-* [Audited shadow banning pratices by Twitter](https://twitter.com/whosban_?lang=en).
+* [Audited shadow banning practices by Twitter](https://twitter.com/whosban_?lang=en).
 * Atelier ["Algorithmes en Boite-Noire"](http://atelier-blackbox.conf.citi-lab.fr/), in 2019.
 
 ### Recent News
@@ -35,6 +35,7 @@ Schemes](https://ojs.aaai.org/index.php/AAAI/article/view/33848/36003)".
 * French ANR project starting, on "passive or active monitoring and auditing of models" (4 years duration). Recruiting a PhD candidate and an engineer. More info: [bit.ly/PACMAM](https://bit.ly/PACMAM)
 
 ### Last PCs
+* AAAI'26: 40th Annual AAAI Conference on Artificial Intelligence
 * ECAI'25: 28TH European conference on artificial intelligence
 * ECML/PKDD'25: European Conference on Machine Learning and Data Mining
 * KDD'24: 30TH ACM SIGKDD conference on knowledge discovery and data mining
