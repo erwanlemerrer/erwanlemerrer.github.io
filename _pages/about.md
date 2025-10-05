@@ -24,8 +24,9 @@ I co-organized the [WAAA workshop on algorithmic audits of algorithms](https://a
 * Atelier ["Algorithmes en Boite-Noire"](http://atelier-blackbox.conf.citi-lab.fr/), in 2019.
 
 ### Recent News
+* [ERX project, an AI-driven vending machine](https://erx-ai.github.io/), to question the liberty of choice.
 * **New available postdoc position for the sequoIA chair FANG** [here](https://recrutement.inria.fr/public/classic/fr/offres/2025-09201).
-* SRDS'25 paper "Robust Fingerprinting of Graphs with FinG".
+* SRDS'25 paper "Robust Fingerprinting of Graphs with FinG", **best paper award**.
 * ECML'25 paper "[P2NIA: Privacy-Preserving Non-Iterative Auditing](https://arxiv.org/abs/2504.00874)".
 * ICML'25 paper "[Robust ML Auditing using Prior Knowledge](https://arxiv.org/abs/2505.04796)"; spotlight top 2,6% papers!
 * AAAI'25 paper "[Queries, Representation & Detection: The Next 100 Model Fingerprinting
