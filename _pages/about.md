@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ![LLM graph hallucinations](/images/hallus.png)
-[LLMs hallucinate graphs too!](https://github.com/erwanlemerrer/erwanlemerrer.github.io/blob/master/files/LMGT_llms-hallucinate-graphs-too_complexnetworks2024.pdf) (here prompted for the Karate Club Graph). Extended V2 [here](https://arxiv.org/abs/2409.00159v3).
+[LLMs hallucinate graphs too!](https://arxiv.org/abs/2409.00159v3)
 <br />
 <br />
 <br />
@@ -17,21 +17,17 @@ redirect_from:
 I am a researcher at Inria, Brittany, France ([ARTISHAU team](https://team.inria.fr/artishau/)). 
 I am leading the scientific council of the [Société Informatique de France](https://www.societe-informatique-de-france.fr/), and I am the president of an association promoting free software for mail/hosting in Brittany.
 
-My current research is **auditing** and **evaluating** [black-box algorithms and AIs](https://hal.inria.fr/hal-03940259v1/document) (or [links to papers](https://github.com/erwanlemerrer/blackbox-algorithms)) in the context of of decision-making methods (neural-network models, LLMs, etc). In other words, I am interested in **auditability**, that is: **what can or cannot be audited/evaluated, and how**. 
-I co-organized the [WAAA workshop on algorithmic audits of algorithms](https://algorithmic-audits.github.io/), in an attempt to link several research domains on this societal question.
-* [Monitoring 2022 elections on YouTube](https://www.lemonde.fr/blog/binaire/2022/07/05/le-recommandeur-les-sondages-et-laudit-en-boite-noire-de-youtube/).
-* [Audited shadow banning practices by Twitter](https://twitter.com/whosban_?lang=en).
-* Atelier ["Algorithmes en Boite-Noire"](http://atelier-blackbox.conf.citi-lab.fr/), in 2019.
+My current research is about **auditing** and **evaluating** [black-box algorithms and AIs](https://hal.inria.fr/hal-03940259v1/document) (or [links to papers](https://github.com/erwanlemerrer/blackbox-algorithms)) in the context of decision-making methods (algorithms, neural-network models, LLMs, etc). In other words, I am interested in auditability, that is: **what can or cannot be audited/evaluated, and how**. 
 
 ### Recent News
-* [ERX project, an AI-driven vending machine](https://erx-ai.github.io/), to question the liberty of choice.
+* [ERX project, an AI-driven vending machine](https://erx-ai.github.io/) that questions the freedom of choice facing AI-based decisions.
 * **New available postdoc position for the sequoIA chair FANG** [here](https://recrutement.inria.fr/public/classic/fr/offres/2025-09201).
 * SRDS'25 paper "Robust Fingerprinting of Graphs with FinG", **best paper award**.
 * ECML'25 paper "[P2NIA: Privacy-Preserving Non-Iterative Auditing](https://arxiv.org/abs/2504.00874)".
-* ICML'25 paper "[Robust ML Auditing using Prior Knowledge](https://arxiv.org/abs/2505.04796)"; spotlight top 2,6% papers!
+* ICML'25 paper "[Robust ML Auditing using Prior Knowledge](https://arxiv.org/abs/2505.04796)"; spotlight top 2,6% papers.
 * AAAI'25 paper "[Queries, Representation & Detection: The Next 100 Model Fingerprinting
 Schemes](https://ojs.aaai.org/index.php/AAAI/article/view/33848/36003)".
-* Interview for the [Data Skeptic podcast on "LLMs hallucinte graphs too"](https://dataskeptic.com/blog/episodes/2025/auditing-llms-and-twitter), jannuary 2025.
+* Interview for the [Data Skeptic podcast on "LLMs hallucinte graphs too"](https://dataskeptic.com/blog/episodes/2025/auditing-llms-and-twitter), january 2025.
 * Interview dans Les Echos ["Face à des IA trop humaines, le défi de l'identification"](https://www.lesechos.fr/idees-debats/sciences-prospective/face-a-des-ia-trop-humaines-le-defi-de-lidentification-2130934) ou en [PDF](https://github.com/erwanlemerrer/erwanlemerrer.github.io/blob/master/files/Les%20Echos-Face%20a%CC%80%20des%20IA%20trop%20humaines%2C%20le%20de%CC%81fi%20de%20l'identification-12112024.pdf), 12 nov 2024.
 * French ANR project starting, on "passive or active monitoring and auditing of models" (4 years duration). Recruiting a PhD candidate and an engineer. More info: [bit.ly/PACMAM](https://bit.ly/PACMAM)
 
@@ -52,3 +48,9 @@ Schemes](https://ojs.aaai.org/index.php/AAAI/article/view/33848/36003)".
 * **Adversarial Frontier Stitching for Remote Neural Network Watermarking**, *Erwan Le Merrer, Patrick Perez, Gilles Trédan*. In Neural Comput & Applic 32, 9233–9244, 2020. [PDF](https://hal.science/hal-02264449/file/main-nca.pdf)
 * **Second order centrality: Distributed assessment of nodes criticity in complex networks**, *AM Kermarrec, E Le Merrer, B Sericola, G Trédan*. Computer Communications 34 (5), 619-628, 2011. [PDF](https://homepages.laas.fr/gtredan/pdf/SOC_COMCOM2010.pdf) & [code in NetworkX](https://networkx.org/documentation/stable/reference/algorithms/generated/networkx.algorithms.centrality.second_order_centrality.html)
 
+### Audit related projets
+* Co-organized the [WAAA workshop on algorithmic audits of algorithms](https://algorithmic-audits.github.io/)
+* [Monitoring 2022 elections on YouTube](https://www.lemonde.fr/blog/binaire/2022/07/05/le-recommandeur-les-sondages-et-laudit-en-boite-noire-de-youtube/).
+* [Audited shadow banning practices by Twitter](https://twitter.com/whosban_?lang=en).
+* Atelier ["Algorithmes en Boite-Noire"](http://atelier-blackbox.conf.citi-lab.fr/), in 2019.
+* [ERX project, an AI-driven vending machine](https://erx-ai.github.io/), to question the liberty of choice facing AI-based decisions.
