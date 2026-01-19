@@ -20,7 +20,8 @@ I am leading the scientific council of the [Société Informatique de France](ht
 My current research is about **auditing** and **evaluating** [black-box algorithms and AIs](https://hal.inria.fr/hal-03940259v1/document) (or [links to papers](https://github.com/erwanlemerrer/blackbox-algorithms)) in the context of decision-making methods (algorithms, neural-network models, LLMs, etc). In other words, I am interested in auditability, that is: **what can or cannot be audited/evaluated, and how**. 
 
 ### Recent News
-* **New available postdoc position for the sequoIA chair FANG**: bridging audits and AI security, contact me directly.
+* Applied Network Science 2026 article "[LLMs prompted for graphs: hallucinations and generative capabilities](https://arxiv.org/abs/2409.00159)".
+*  **New available postdoc position for the sequoIA chair FANG**: bridging audits and AI security, contact me directly.
 * [ERX project, an AI-driven vending machine](https://erx-ai.github.io/) that questions the freedom of choice facing AI-based decisions.
 * SRDS'25 paper "[Robust Fingerprinting of Graphs with FinG](https://hal.science/hal-05267625v1/document)", **best paper award**.
 * ECML'25 paper "[P2NIA: Privacy-Preserving Non-Iterative Auditing](https://arxiv.org/abs/2504.00874)".
