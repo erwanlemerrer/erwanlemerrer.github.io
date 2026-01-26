@@ -33,6 +33,7 @@ Schemes](https://ojs.aaai.org/index.php/AAAI/article/view/33848/36003)".
 * French ANR project starting, on "passive or active monitoring and auditing of models" (4 years duration). Recruiting a PhD candidate and an engineer. More info: [bit.ly/PACMAM](https://bit.ly/PACMAM)
 
 ### Last PCs
+* ECML/PKDD'26: European Conference on Machine Learning and Data Mining
 * AAAI'26: 40th Annual AAAI Conference on Artificial Intelligence
 * ECAI'25: 28TH European conference on artificial intelligence
 * ECML/PKDD'25: European Conference on Machine Learning and Data Mining
