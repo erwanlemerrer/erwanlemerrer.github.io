@@ -51,6 +51,7 @@ Schemes](https://ojs.aaai.org/index.php/AAAI/article/view/33848/36003)".
 * **Second order centrality: Distributed assessment of nodes criticity in complex networks**, *AM Kermarrec, E Le Merrer, B Sericola, G Trédan*. Computer Communications 34 (5), 619-628, 2011. [PDF](https://homepages.laas.fr/gtredan/pdf/SOC_COMCOM2010.pdf) & [code in NetworkX](https://networkx.org/documentation/stable/reference/algorithms/generated/networkx.algorithms.centrality.second_order_centrality.html)
 
 ### Audit related projets
+* [DigesTube](https://youtube.human09.eu.org): what have you seen during the JOs depending on your profile? Studying recommendations.
 * Co-organized the [WAAA workshop on algorithmic audits of algorithms](https://algorithmic-audits.github.io/)
 * [Monitoring 2022 elections on YouTube](https://www.lemonde.fr/blog/binaire/2022/07/05/le-recommandeur-les-sondages-et-laudit-en-boite-noire-de-youtube/).
 * [Audited shadow banning practices by Twitter](https://twitter.com/whosban_?lang=en).
