@@ -20,6 +20,7 @@ I am leading the scientific council of the [Société Informatique de France](ht
 My current research is about **auditing** and **evaluating** [black-box algorithms and AIs](https://hal.inria.fr/hal-03940259v1/document) (or [links to papers](https://github.com/erwanlemerrer/blackbox-algorithms)) in the context of decision-making methods (algorithms, neural-network models, LLMs, etc). In other words, I am interested in auditability, that is: **what can or cannot be audited/evaluated, and how**. 
 
 ### Recent News
+* CACM opinion accepted "Fade to grey: from black-box to AI-antagonistic audits", to appear Aug. 2026. [Draft](https://github.com/erwanlemerrer/erwanlemerrer.github.io/blob/master/files/fade_to_grey-1.pdf).
 * Applied Network Science 2026 article "[LLMs prompted for graphs: hallucinations and generative capabilities](https://arxiv.org/abs/2409.00159)".
 *  **New available postdoc position for the sequoIA chair FANG**: bridging audits and AI security, contact me directly.
 * [ERX project, an AI-driven vending machine](https://erx-ai.github.io/) that questions the freedom of choice facing AI-based decisions.
@@ -51,9 +52,9 @@ Schemes](https://ojs.aaai.org/index.php/AAAI/article/view/33848/36003)".
 * **Second order centrality: Distributed assessment of nodes criticity in complex networks**, *AM Kermarrec, E Le Merrer, B Sericola, G Trédan*. Computer Communications 34 (5), 619-628, 2011. [PDF](https://homepages.laas.fr/gtredan/pdf/SOC_COMCOM2010.pdf) & [code in NetworkX](https://networkx.org/documentation/stable/reference/algorithms/generated/networkx.algorithms.centrality.second_order_centrality.html)
 
 ### Audit related projets
+* [ERX project, an AI-driven vending machine](https://erx-ai.github.io/), to question the liberty of choice facing AI-based decisions.
 * [DigesTube](https://youtube.human09.eu.org): what have you seen during the JOs depending on your profile? Studying recommendations.
 * Co-organized the [WAAA workshop on algorithmic audits of algorithms](https://algorithmic-audits.github.io/)
 * [Monitoring 2022 elections on YouTube](https://www.lemonde.fr/blog/binaire/2022/07/05/le-recommandeur-les-sondages-et-laudit-en-boite-noire-de-youtube/).
 * [Audited shadow banning practices by Twitter](https://twitter.com/whosban_?lang=en).
 * Atelier ["Algorithmes en Boite-Noire"](http://atelier-blackbox.conf.citi-lab.fr/), in 2019.
-* [ERX project, an AI-driven vending machine](https://erx-ai.github.io/), to question the liberty of choice facing AI-based decisions.
