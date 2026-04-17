@@ -53,7 +53,7 @@ Schemes](https://ojs.aaai.org/index.php/AAAI/article/view/33848/36003)".
 
 ### Audit related projets
 * [ERX project, an AI-driven vending machine](https://erx-ai.github.io/), to question the liberty of choice facing AI-based decisions.
-* [DigesTube](https://youtube.human09.eu.org): what have you seen during the JOs depending on your profile? Studying recommendations.
+* [DigesTube](https://youtube.human09.eu.org): what have you seen during the JOs depending on your profile? [Studying recommendations](https://github.com/erwanlemerrer/erwanlemerrer.github.io/blob/master/files/wac_youtube_JOs_poster5.pdf).
 * Co-organized the [WAAA workshop on algorithmic audits of algorithms](https://algorithmic-audits.github.io/)
 * [Monitoring 2022 elections on YouTube](https://www.lemonde.fr/blog/binaire/2022/07/05/le-recommandeur-les-sondages-et-laudit-en-boite-noire-de-youtube/).
 * [Audited shadow banning practices by Twitter](https://twitter.com/whosban_?lang=en).
