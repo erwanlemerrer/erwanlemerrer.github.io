@@ -21,7 +21,7 @@ My current research is about **auditing** and **evaluating** [black-box algorith
 
 ### Recent News
 * **CACM opinion** accepted "Fade to grey: from black-box to AI-antagonistic audits", to appear Aug. 2026. [Draft](https://github.com/erwanlemerrer/erwanlemerrer.github.io/blob/master/files/fade_to_grey-1.pdf).
-* 2 papers accepted to **ICML 2026**: [Token-Efficient Change Detection in LLM APIs](https://arxiv.org/abs/2602.11083) & FLIPS: Instance-Fingerprinting for LLMs via Pseudo-random Sequences.
+* 2 papers accepted to **ICML 2026**: [Token-Efficient Change Detection in LLM APIs](https://arxiv.org/abs/2602.11083) & [FLIPS: Instance-Fingerprinting for LLMs via Pseudo-random Sequences](https://openreview.net/forum?id=5Jd7TObzee).
 * Applied Network Science 2026 article "[LLMs prompted for graphs: hallucinations and generative capabilities](https://arxiv.org/abs/2409.00159)".
 *  **New available postdoc position for the sequoIA chair FANG**: bridging audits and AI security, contact me directly.
 * [ERX project, an AI-driven vending machine](https://erx-ai.github.io/) that questions the freedom of choice facing AI-based decisions.
