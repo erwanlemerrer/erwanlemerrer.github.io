@@ -52,6 +52,12 @@ Schemes](https://ojs.aaai.org/index.php/AAAI/article/view/33848/36003)".
 * **Adversarial Frontier Stitching for Remote Neural Network Watermarking**, *Erwan Le Merrer, Patrick Perez, Gilles Trédan*. In Neural Comput & Applic 32, 9233–9244, 2020. [PDF](https://hal.science/hal-02264449/file/main-nca.pdf)
 * **Second order centrality: Distributed assessment of nodes criticity in complex networks**, *AM Kermarrec, E Le Merrer, B Sericola, G Trédan*. Computer Communications 34 (5), 619-628, 2011. [PDF](https://homepages.laas.fr/gtredan/pdf/SOC_COMCOM2010.pdf) & [code in NetworkX](https://networkx.org/documentation/stable/reference/algorithms/generated/networkx.algorithms.centrality.second_order_centrality.html)
 
+##### Awarded publications
+
+* **Robust Fingerprinting of Graphs with FinG**, *with Corentin Hardy and Bruno Sericola*. SRDS 2025 **best paper award**.
+* **Distributed deep learning on edge-devices: feasibility via adaptive compression**, *with Corentin Hardy and Bruno Sericola*. IEEE NCA 2017 **best paper award**.
+* **Archiving Cold Data in Warehouses with Clustered Network Coding**, *with André, Kermarrec, Le Scouarnec, Straub and van Kempen*. Eurosys 2014. Awarded magazine prize “La recherche 2015”, in France.
+
 ### Audit related projets
 * [ERX project, an AI-driven vending machine](https://erx-ai.github.io/), to question the liberty of choice facing AI-based decisions.
 * [DigesTube](https://digestube.audits.eu.org): what have you seen during the JOs depending on your profile? [Studying recommendations](https://github.com/erwanlemerrer/erwanlemerrer.github.io/blob/master/files/wac_youtube_JOs_poster5.pdf).
