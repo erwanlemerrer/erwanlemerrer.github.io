@@ -54,7 +54,7 @@ Schemes](https://ojs.aaai.org/index.php/AAAI/article/view/33848/36003)".
 
 ##### Awarded publications
 
-* **Robust Fingerprinting of Graphs with FinG**, *with Corentin Hardy and Bruno Sericola*. SRDS 2025 **best paper award**.
+* **Robust Fingerprinting of Graphs with FinG**, *with Odysseas Drosis, Jade Garcia Bourrée, Anne-Marie Kermarrec, and Othmane Safsafi*. SRDS 2025 **best paper award**.
 * **Distributed deep learning on edge-devices: feasibility via adaptive compression**, *with Corentin Hardy and Bruno Sericola*. IEEE NCA 2017 **best paper award**.
 * **Archiving Cold Data in Warehouses with Clustered Network Coding**, *with André, Kermarrec, Le Scouarnec, Straub and van Kempen*. Eurosys 2014. Awarded magazine prize “La recherche 2015”, in France.
 
