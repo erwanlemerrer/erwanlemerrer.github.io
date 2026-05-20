@@ -52,8 +52,7 @@ Schemes](https://ojs.aaai.org/index.php/AAAI/article/view/33848/36003)".
 * **Adversarial Frontier Stitching for Remote Neural Network Watermarking**, *Erwan Le Merrer, Patrick Perez, Gilles Trédan*. In Neural Comput & Applic 32, 9233–9244, 2020. [PDF](https://hal.science/hal-02264449/file/main-nca.pdf)
 * **Second order centrality: Distributed assessment of nodes criticity in complex networks**, *AM Kermarrec, E Le Merrer, B Sericola, G Trédan*. Computer Communications 34 (5), 619-628, 2011. [PDF](https://homepages.laas.fr/gtredan/pdf/SOC_COMCOM2010.pdf) & [code in NetworkX](https://networkx.org/documentation/stable/reference/algorithms/generated/networkx.algorithms.centrality.second_order_centrality.html)
 
-##### Awarded publications
-
+Awarded publications
 * **Robust Fingerprinting of Graphs with FinG**, *with Odysseas Drosis, Jade Garcia Bourrée, Anne-Marie Kermarrec, and Othmane Safsafi*. SRDS 2025 **best paper award**.
 * **Distributed deep learning on edge-devices: feasibility via adaptive compression**, *with Corentin Hardy and Bruno Sericola*. IEEE NCA 2017 **best paper award**.
 * **Archiving Cold Data in Warehouses with Clustered Network Coding**, *with André, Kermarrec, Le Scouarnec, Straub and van Kempen*. Eurosys 2014. Awarded magazine prize “La recherche 2015”, in France.
@@ -66,3 +65,11 @@ Schemes](https://ojs.aaai.org/index.php/AAAI/article/view/33848/36003)".
 * [Audited shadow banning practices by Twitter](https://twitter.com/whosban_?lang=en).
 * Atelier ["Algorithmes en Boite-Noire"](http://atelier-blackbox.conf.citi-lab.fr/), in 2019.
 * Maintaining an [awesome list of audit algorithms](https://github.com/erwanlemerrer/blackbox-algorithms)
+
+### Funding
+* INESIA grant, from 2026
+* SequoIA cluster [chair](https://cluster-sequoia.univ-rennes.fr/fr/ai-audits-offensive-information-gain-portee-par-erwan-le-merrer), from 2025
+* CIFRE w. Sopra Steria, from 2025
+* ANR [PACMAM](https://github.com/erwanlemerrer/PACMAM), from 2024
+
+
