@@ -17,7 +17,7 @@ redirect_from:
 I am a researcher at Inria, Brittany, France ([ARTISHAU team](https://team.inria.fr/artishau/)). 
 I am leading the scientific council of the [Société Informatique de France](https://www.societe-informatique-de-france.fr/), and I am the president of an association promoting free software for mail/hosting in Brittany.
 
-My current research is about **auditing** and **evaluating** [black-box algorithms and AIs](https://hal.inria.fr/hal-03940259v1/document) (or [links to papers](https://github.com/erwanlemerrer/blackbox-algorithms)) in the context of decision-making methods (algorithms, neural-network models, LLMs, etc). In other words, I am interested in auditability, that is: **what can or cannot be audited/evaluated, and how**. 
+My current research is about **auditing** and **evaluating** [black-box algorithms, models and AIs](https://hal.inria.fr/hal-03940259v1/document) when they are placed in decision-making contexts. In other words, I am interested in auditability, that is: **what can or cannot be audited and how**, when the auditor does not have access to the AI internals. 
 
 ### Recent News
 * **CACM opinion** accepted "Fade to grey: from black-box to AI-antagonistic audits", to appear Aug. 2026. [Draft](https://github.com/erwanlemerrer/erwanlemerrer.github.io/blob/master/files/fade_to_grey-1.pdf).
@@ -65,3 +65,4 @@ Schemes](https://ojs.aaai.org/index.php/AAAI/article/view/33848/36003)".
 * [Monitoring 2022 elections on YouTube](https://www.lemonde.fr/blog/binaire/2022/07/05/le-recommandeur-les-sondages-et-laudit-en-boite-noire-de-youtube/).
 * [Audited shadow banning practices by Twitter](https://twitter.com/whosban_?lang=en).
 * Atelier ["Algorithmes en Boite-Noire"](http://atelier-blackbox.conf.citi-lab.fr/), in 2019.
+* Maintaining an [awesome list of audit algorithms](https://github.com/erwanlemerrer/blackbox-algorithms)
