@@ -20,11 +20,11 @@ I am leading the scientific council of the [Société Informatique de France](ht
 My current research is about **auditing** and **evaluating** [black-box algorithms, models and AIs](https://hal.inria.fr/hal-03940259v1/document) when they are placed in decision-making contexts. In other words, I am interested in auditability, that is: **what can or cannot be audited and how**, when the auditor does not have access to the AI internals. 
 
 ### News
+*  **New available positions for the [sequoIA chair FANG](https://cluster-sequoia.univ-rennes.fr/fr/ai-audits-offensive-information-gain-portee-par-erwan-le-merrer)**: 1 postdoc: "bridging audits and AI security" + 1 PhD: "Manipulation to defend deployed AI models", contact me directly.
 * **CACM opinion** accepted "Fade to grey: from black-box to AI-antagonistic audits", to appear Aug. 2026. [Draft](https://github.com/erwanlemerrer/erwanlemerrer.github.io/blob/master/files/fade_to_grey-1.pdf).
 * ICML 2026 papers "[Token-Efficient Change Detection in LLM APIs](https://arxiv.org/abs/2602.11083)" & "[FLIPS: Instance-Fingerprinting for LLMs via Pseudo-random Sequences](https://openreview.net/forum?id=5Jd7TObzee)".
 * ICLR'26 paper "[Log probability tracking of LLM APIs](https://arxiv.org/pdf/2512.03816)".
 * Applied Network Science 2026 article "[LLMs prompted for graphs: hallucinations and generative capabilities](https://arxiv.org/abs/2409.00159)".
-*  **New available postdoc position for the sequoIA chair FANG**: bridging audits and AI security, contact me directly.
 * [ERX project, an AI-driven vending machine](https://erx-ai.github.io/) that questions the freedom of choice facing AI-based decisions.
 * SRDS'25 paper "[Robust Fingerprinting of Graphs with FinG](https://hal.science/hal-05267625v1/document)", **best paper award**.
 * ECML'25 paper "[P2NIA: Privacy-Preserving Non-Iterative Auditing](https://arxiv.org/abs/2504.00874)".
