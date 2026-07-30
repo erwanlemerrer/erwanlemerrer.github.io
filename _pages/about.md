@@ -21,7 +21,7 @@ My current research is about **auditing** and **evaluating** [black-box algorith
 
 ### News
 *  **New available positions for the [sequoIA chair FANG](https://cluster-sequoia.univ-rennes.fr/fr/ai-audits-offensive-information-gain-portee-par-erwan-le-merrer)**: 1 postdoc: "bridging audits and AI security" + 1 PhD: "Manipulation to defend deployed AI models", contact me directly.
-* **CACM opinion** accepted "Fade to grey: from black-box to AI-antagonistic audits", to appear Aug. 2026. [Draft](https://github.com/erwanlemerrer/erwanlemerrer.github.io/blob/master/files/fade_to_grey-1.pdf).
+* **CACM opinion** "Fade to grey: from black-box to AI-antagonistic audits", 22 July 2026. [CACM](https://dl.acm.org/doi/full/10.1145/3780103).
 * ICML 2026 papers "[Token-Efficient Change Detection in LLM APIs](https://arxiv.org/abs/2602.11083)" & "[FLIPS: Instance-Fingerprinting for LLMs via Pseudo-random Sequences](https://openreview.net/forum?id=5Jd7TObzee)".
 * ICLR'26 paper "[Log probability tracking of LLM APIs](https://arxiv.org/pdf/2512.03816)".
 * Applied Network Science 2026 article "[LLMs prompted for graphs: hallucinations and generative capabilities](https://arxiv.org/abs/2409.00159)".
