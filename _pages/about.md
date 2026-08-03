@@ -20,8 +20,10 @@ I am leading the scientific council of the [Société Informatique de France](ht
 My current research is about **auditing** and **evaluating** [black-box algorithms, models and AIs](https://hal.inria.fr/hal-03940259v1/document) when they are placed in decision-making contexts. In other words, I am interested in auditability, that is: **what can or cannot be audited and how**, when the auditor does not have access to the AI internals. 
 
 ### News
-*  **New available positions for the [sequoIA chair FANG](https://cluster-sequoia.univ-rennes.fr/fr/ai-audits-offensive-information-gain-portee-par-erwan-le-merrer)**: 1 postdoc: "bridging audits and AI security" + 1 PhD: "Manipulation to defend deployed AI models", contact me directly.
+
+* [ERX](https://erx-ai.github.io/) exposed at Le Cube Garges "D’autres voix. langage · code · traduction. Écouter le vivant, dialoguer avec les machines" ([see p.14](https://www.lecubegarges.fr/app/uploads/2026/07/Brochure-grand-public-saison-26-27-web.pdf)). 
 * **CACM opinion** "Fade to grey: from black-box to AI-antagonistic audits", 22 July 2026. [CACM](https://dl.acm.org/doi/full/10.1145/3780103).
+*  **New available positions for the [sequoIA chair FANG](https://cluster-sequoia.univ-rennes.fr/fr/ai-audits-offensive-information-gain-portee-par-erwan-le-merrer)**: 1 postdoc: "bridging audits and AI security" + 1 PhD: "Manipulation to defend deployed AI models", contact me directly.
 * ICML 2026 papers "[Token-Efficient Change Detection in LLM APIs](https://arxiv.org/abs/2602.11083)" & "[FLIPS: Instance-Fingerprinting for LLMs via Pseudo-random Sequences](https://openreview.net/forum?id=5Jd7TObzee)".
 * ICLR'26 paper "[Log probability tracking of LLM APIs](https://arxiv.org/pdf/2512.03816)".
 * Applied Network Science 2026 article "[LLMs prompted for graphs: hallucinations and generative capabilities](https://arxiv.org/abs/2409.00159)".
