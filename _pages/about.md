@@ -15,7 +15,7 @@ redirect_from:
 <br />
 
 I am a researcher at Inria, Brittany, France ([ARTISHAU team](https://team.inria.fr/artishau/)). 
-I am leading the scientific council of the [Société Informatique de France](https://www.societe-informatique-de-france.fr/), and I am the president of an association promoting free software for mail/hosting in Brittany.
+I am a member of the scientific council of the [Société Informatique de France](https://www.societe-informatique-de-france.fr/) (after begin its president for 3y), and I am the president of an association promoting free software for mail/hosting in Brittany.
 
 My current research is about **auditing** and **evaluating** [black-box algorithms, models and AIs](https://hal.inria.fr/hal-03940259v1/document) when they are placed in decision-making contexts. In other words, I am interested in auditability, that is: **what can or cannot be audited and how**, when the auditor does not have access to the AI internals. 
 
