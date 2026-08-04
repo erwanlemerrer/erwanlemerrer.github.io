@@ -23,7 +23,8 @@ My current research is about **auditing** and **evaluating** [black-box algorith
 
 * [ERX](https://erx-ai.github.io/) exposed at Le Cube Garges "D’autres voix. langage · code · traduction. Écouter le vivant, dialoguer avec les machines" ([see p.14](https://www.lecubegarges.fr/app/uploads/2026/07/Brochure-grand-public-saison-26-27-web.pdf)). 
 * **CACM opinion** "Fade to grey: from black-box to AI-antagonistic audits", 22 July 2026. [CACM](https://dl.acm.org/doi/full/10.1145/3780103). (Please note that it *dates back to nov'24* when it was submitted there...)
-*  **New available positions for the [sequoIA chair FANG](https://cluster-sequoia.univ-rennes.fr/fr/ai-audits-offensive-information-gain-portee-par-erwan-le-merrer)**: 1 postdoc: "bridging audits and AI security" + 1 PhD: "Manipulation to defend deployed AI models", contact me directly.
+* Part of a new ANR project POLARISATION with SHS colleagues
+* **New available positions for the [sequoIA chair FANG](https://cluster-sequoia.univ-rennes.fr/fr/ai-audits-offensive-information-gain-portee-par-erwan-le-merrer)**: 1 postdoc: "bridging audits and AI security" + 1 PhD: "Manipulation to defend deployed AI models", contact me directly.
 * ICML 2026 papers "[Token-Efficient Change Detection in LLM APIs](https://arxiv.org/abs/2602.11083)" & "[FLIPS: Instance-Fingerprinting for LLMs via Pseudo-random Sequences](https://openreview.net/forum?id=5Jd7TObzee)".
 * ICLR'26 paper "[Log probability tracking of LLM APIs](https://arxiv.org/pdf/2512.03816)".
 * Applied Network Science 2026 article "[LLMs prompted for graphs: hallucinations and generative capabilities](https://arxiv.org/abs/2409.00159)".
@@ -35,7 +36,7 @@ My current research is about **auditing** and **evaluating** [black-box algorith
 Schemes](https://ojs.aaai.org/index.php/AAAI/article/view/33848/36003)".
 * Interview for the [Data Skeptic podcast on "LLMs hallucinte graphs too"](https://dataskeptic.com/blog/episodes/2025/auditing-llms-and-twitter), january 2025.
 * Interview dans Les Echos ["Face à des IA trop humaines, le défi de l'identification"](https://www.lesechos.fr/idees-debats/sciences-prospective/face-a-des-ia-trop-humaines-le-defi-de-lidentification-2130934) ou en [PDF](https://github.com/erwanlemerrer/erwanlemerrer.github.io/blob/master/files/Les%20Echos-Face%20a%CC%80%20des%20IA%20trop%20humaines%2C%20le%20de%CC%81fi%20de%20l'identification-12112024.pdf), 12 nov 2024.
-* French ANR project starting, on "passive or active monitoring and auditing of models" (4 years duration). Recruiting a PhD candidate and an engineer. More info: [bit.ly/PACMAM](https://bit.ly/PACMAM)
+* French ANR project starting, on "passive or active monitoring and auditing of models" (4 years duration). [bit.ly/PACMAM](https://bit.ly/PACMAM)
 
 ### Last PCs
 * ECML/PKDD'26: European Conference on Machine Learning and Data Mining
